@@ -28,8 +28,44 @@ APP_DIR = engines.APP_DIR
 SETTINGS_PATH = os.path.join(APP_DIR, "settings.json")
 DB_PATH = os.path.join(APP_DIR, "grabqueue.db")
 
+# Shared hand-off file: other apps (e.g. Image Downloader) drop URLs here and
+# GrabQueue imports them. Lives in LOCALAPPDATA so it's found no matter where
+# either app is installed.
+INBOX_PATH = os.path.join(
+    os.environ.get("LOCALAPPDATA") or os.path.expanduser("~"),
+    "GrabQueue", "inbox.txt")
+
 # GrabQueue is free — donations keep it maintained.
 DONATE_URL = "https://paypal.me/gamer4life33"
+
+
+def read_inbox():
+    """Atomically claim any URLs waiting in the shared inbox and return them.
+
+    Renames the file to a unique name first (atomic on Windows) so neither a
+    producer appending concurrently nor a second GrabQueue instance can lose or
+    double-import a line: only one caller can win the rename of the current
+    inbox; everyone else gets 'file not found' and returns nothing.
+    """
+    import uuid
+    if not os.path.exists(INBOX_PATH):
+        return []
+    claimed = f"{INBOX_PATH}.{uuid.uuid4().hex}.importing"
+    try:
+        os.replace(INBOX_PATH, claimed)
+    except OSError:
+        return []
+    try:
+        with open(claimed, encoding="utf-8") as f:
+            urls = [ln.strip() for ln in f if ln.strip()]
+    except OSError:
+        urls = []
+    finally:
+        try:
+            os.remove(claimed)
+        except OSError:
+            pass
+    return urls
 
 DISCLAIMER = """\
 GrabQueue is a free download-queue manager provided for entertainment and \
@@ -281,6 +317,12 @@ class MainWindow(QMainWindow):
         self._build_ui()
         self._reload_table()
         self._setup_engines()
+
+        # Import anything waiting in the shared inbox now, then keep watching.
+        self._import_inbox()
+        self._inbox_timer = QTimer(self)
+        self._inbox_timer.timeout.connect(self._import_inbox)
+        self._inbox_timer.start(3000)
 
     # ---- UI construction --------------------------------------------------
     def _build_ui(self):
@@ -561,6 +603,21 @@ class MainWindow(QMainWindow):
         item = self.store.get(item_id)
         if item:
             self._paint_row(item)
+
+    def _import_inbox(self):
+        """Pull any URLs handed over by another app and queue them."""
+        urls = read_inbox()
+        if not urls:
+            return
+        outdir = self.settings["output_dir"]
+        preset = self.settings["preset"]
+        for url in urls:
+            item_id = self.store.add(url, preset, outdir)
+            self._append_row(self.store.get(item_id))
+        self.statusBar().showMessage(
+            f"Received {len(urls)} link(s) from another app", 5000)
+        if self.settings.get("auto_start") and engines.engines_ready():
+            self._set_running(True)
 
     def _refresh_counts(self):
         done = self.store.count(st.DONE)
