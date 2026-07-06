@@ -1,0 +1,34 @@
+GrabQueue — Legal Disclaimer
+=============================
+
+GrabQueue is a free download-queue manager provided for entertainment and
+personal convenience. By using it you agree to the following:
+
+1. SOLE RESPONSIBILITY. You alone are responsible for how you use this
+   software and for any content you download with it.
+
+2. RESPECT THE LAW. Only download content you have the legal right to
+   access and save. Do not use GrabQueue to infringe copyright, bypass
+   paywalls, or circumvent DRM / technical protection measures. GrabQueue
+   contains no circumvention technology and never will.
+
+3. TERMS OF SERVICE. Downloading from a website may violate that site's
+   terms of service. Know the rules of the sites you use; any consequences
+   (including account restrictions) are yours.
+
+4. PERSONAL USE. Content you download is for your own personal,
+   non-commercial use unless the rights holder permits otherwise.
+   Do not redistribute downloaded content.
+
+5. THIRD-PARTY ENGINES. Downloads are performed by independent open-source
+   projects (yt-dlp, gallery-dl, FFmpeg) fetched from their official
+   sources and governed by their own licenses. GrabQueue is not affiliated
+   with, or endorsed by, those projects or by any website or platform.
+
+6. NO WARRANTY. This software is provided "AS IS", without warranty of any
+   kind, express or implied. The author is not liable for any damages or
+   losses arising from its use.
+
+7. NOT LEGAL ADVICE. Nothing in this application constitutes legal advice.
+
+If you do not agree with these terms, do not use GrabQueue.

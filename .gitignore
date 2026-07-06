@@ -1,0 +1,23 @@
+# --- Never publish: signing keys / licensing kit ---
+tools/
+*.key
+
+# --- Runtime engines (downloaded automatically on first launch) ---
+engines/
+
+# --- Build output & caches ---
+build/
+dist/
+__pycache__/
+*.pyc
+
+# --- User/runtime state ---
+settings.json
+grabqueue.db
+*.log
+
+# --- The exe ships via GitHub Releases, not in the repo ---
+GrabQueue.exe
+
+# --- Private notes ---
+SELLING.md

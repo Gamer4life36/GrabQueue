@@ -1,0 +1,6426 @@
+﻿GrabQueue - Supported Sites
+============================
+GrabQueue downloads through two open-source engines that it keeps
+auto-updated, so this list grows over time. Generated from the bundled
+engine versions. Anything with a direct file link (mp4, mp3, jpg, ...)
+works too, even if the site is not listed.
+
+DRM-protected services (Netflix, Disney+, Spotify, ...) are not supported.
+=== VIDEO / AUDIO (yt-dlp 2026.07.04 - 1752 extractors) ===
+
+10play
+10play:season
+17live
+17live:clip
+17live:vod
+1News
+1tv
+1tv:live
+20min (CURRENTLY BROKEN)
+23video
+247sports (CURRENTLY BROKEN)
+24tv.ua
+3qsdn
+3sat
+4tube
+56.com
+7plus
+9c9media
+9gag
+9News
+9now.com.au
+abc.net.au
+abc.net.au:iview
+abc.net.au:iview:showseries
+abcnews
+abcnews:video
+abcotvs
+abcotvs:clips
+AbemaTV
+AbemaTVTitle
+AcademicEarth:Course
+acast
+acast:channel
+AcFunBangumi
+AcFunVideo
+ADN
+ADNSeason
+AdobeConnect (CURRENTLY BROKEN)
+adobetv
+AdultSwim
+aenetworks
+aenetworks:collection
+aenetworks:show
+AeonCo
+agalega:videos
+AitubeKZVideo
+Alibaba
+AliExpressLive
+AlJazeera
+Allocine
+Allstar
+AllstarProfile
+AlphaPorno
+altcensored
+altcensored:channel
+Alura
+AluraCourse
+AmadeusTV
+Amara
+AmazonMiniTV
+amazonminitv:season
+amazonminitv:series
+AmazonReviews
+AmazonStore
+AMCNetworks
+AmericasTestKitchen
+AmericasTestKitchenSeason
+AmHistoryChannel
+anderetijden
+Angel
+AnimalPlanet
+ant1newsgr:article
+ant1newsgr:embed
+antenna:watch
+Anvato
+aol.com (CURRENTLY BROKEN)
+APA
+Aparat
+apple:music:connect
+ApplePodcasts
+archive.org
+ArcPublishing
+ARD
+ARDAudiothek
+ARDAudiothekPlaylist
+ARDMediathek
+ARDMediathekCollection
+Art19
+Art19Show
+arte.sky.it
+ArteTV
+ArteTVCategory
+ArteTVEmbed
+ArteTVPlaylist
+asobichannel
+asobichannel:tag
+AsobiStage
+AtresPlayer
+AtScaleConfEvent
+AudiMedia
+AudioBoom
+Audiodraft:custom
+Audiodraft:generic
+audiomack
+audiomack:album
+Audius
+audius:artist
+audius:playlist
+audius:track
+AZMedien
+BaiduVideo
+BanBye
+BanByeChannel
+Bandcamp
+Bandcamp:album
+Bandcamp:user
+Bandcamp:weekly
+Bandlab
+BandlabPlaylist
+BannedVideo
+bbc
+bbc.co.uk
+bbc.co.uk:article
+bbc.co.uk:iplayer:episodes
+bbc.co.uk:iplayer:group
+bbc.co.uk:playlist
+BBVTV
+BBVTVLive
+BBVTVRecordings
+BeaconTv
+Beatport
+Beeg
+BehindKink (CURRENTLY BROKEN)
+BerufeTV
+Bet
+bfi:player (CURRENTLY BROKEN)
+bfmtv
+bfmtv:article
+bfmtv:live
+bibeltv:live
+bibeltv:series
+bibeltv:video
+Bigo
+Bild
+BiliBili
+Bilibili category extractor
+BilibiliAudio
+BilibiliAudioAlbum
+BiliBiliBangumi
+BiliBiliBangumiMedia
+BiliBiliBangumiSeason
+BilibiliCheese
+BilibiliCheeseSeason
+BilibiliCollectionList
+BiliBiliDynamic
+BilibiliFavoritesList
+BiliBiliPlayer
+BilibiliPlaylist
+BiliBiliSearch
+BilibiliSeriesList
+BilibiliSpaceAudio
+BilibiliSpaceVideo
+BilibiliWatchlater
+BiliIntl
+biliIntl:series
+BiliLive
+BioBioChileTV
+Biography
+BitChute
+BitChuteChannel
+Bitmovin
+BlackboardCollaborate
+BlackboardCollaborateLaunch
+BleacherReport (CURRENTLY BROKEN)
+BleacherReportCMS (CURRENTLY BROKEN)
+blerp
+Blob
+blogger.com
+Bloomberg
+Bluesky
+BongaCams
+Boosty
+BostonGlobe
+Box
+BoxCastVideo
+Bpb
+BR (CURRENTLY BROKEN)
+BrainPOP
+BrainPOPELL
+BrainPOPEsp
+BrainPOPFr
+BrainPOPIl
+BrainPOPJr
+BravoTV
+BreitBart
+brightcove:legacy
+brightcove:new
+Brilliantpala:Classes
+Brilliantpala:Elearn
+bt:article
+bt:vestlendingen
+BTVPlus
+Bundesliga
+Bundestag
+BunnyCdn
+BusinessInsider
+BuzzFeed
+BYUtv (CURRENTLY BROKEN)
+Caltrans
+CAM4
+CamFMEpisode
+CamFMShow
+CamModels
+Camsoda
+CamtasiaEmbed
+Canal1
+CanalAlpha
+canalc2.tv
+Canalplus
+Canalsurmas
+CaracolTvPlay
+cbc.ca
+cbc.ca:listen
+cbc.ca:player
+cbc.ca:player:playlist
+CBS (CURRENTLY BROKEN)
+CBSLocal
+CBSLocalArticle
+CBSLocalLive
+cbsnews
+cbsnews:embed
+cbsnews:live
+cbsnews:livevideo
+cbssports (CURRENTLY BROKEN)
+cbssports:embed (CURRENTLY BROKEN)
+CCMA
+CCTV
+CDA
+CDAFolder
+Cellebrite
+CeskaTelevize
+CGTN
+CharlieRose
+Chaturbate
+Chilloutzone
+chzzk:live
+chzzk:video
+cielotv.it
+Cinemax (CURRENTLY BROKEN)
+CinetecaMilano
+Cineverse
+CineverseDetails
+CiscoLiveSearch
+CiscoLiveSession
+ciscowebex
+CJSW
+Clipchamp
+ClipRs (CURRENTLY BROKEN)
+CloserToTruth (CURRENTLY BROKEN)
+CloudflareStream
+CloudyCDN
+Clubic (CURRENTLY BROKEN)
+Clyp
+CNBCVideo
+CNN
+CNNIndonesia
+ComedyCentral
+CommonMistakes
+ConanClassic (CURRENTLY BROKEN)
+CondeNast
+CookingChannel
+Corus
+Coub
+CozyTV
+cp24
+cpac
+cpac:playlist
+Cracked
+Craftsy
+croatian.film
+CrooksAndLiars
+CrowdBunker
+CrowdBunkerChannel
+Crtvg
+CSpan
+CSpanCongress
+CtsNews
+CTVNews
+cu.ntv.co.jp
+CultureUnplugged
+curiositystream
+curiositystream:collections
+curiositystream:series
+Cybrary
+CybraryCourse
+DacastPlaylist
+DacastVOD
+DagelijkseKost
+DailyMail
+dailymotion
+dailymotion:playlist
+dailymotion:search
+dailymotion:user
+DailyWire
+DailyWirePodcast
+damtomo:record
+damtomo:video
+dangalplay
+dangalplay:season
+daum.net
+daum.net:clip
+daum.net:playlist
+daum.net:user
+daystar:clip
+DBTV
+DctpTv
+democracynow
+DestinationAmerica
+DetikEmbed
+DeuxM
+DeuxMNews
+DHM (CURRENTLY BROKEN)
+DigitalConcertHall
+DigitallySpeaking (CURRENTLY BROKEN)
+Digiteka
+Digiview
+DiscogsReleasePlaylist
+DiscoveryLife
+DiscoveryNetworksDe
+DiscoveryPlus
+DiscoveryPlusIndia
+DiscoveryPlusIndiaShow
+DiscoveryPlusItaly
+DiscoveryPlusItalyShow
+Disney
+dlf
+dlf:corpus
+dlive:stream
+dlive:vod
+Douyin
+DouyuShow
+DouyuTV
+DPlay
+DRBonanza
+DRM
+Dropbox
+Dropout
+DropoutSeason
+DrTalks
+DrTuber
+drtv
+drtv:live
+drtv:season
+drtv:series
+DTube (CURRENTLY BROKEN)
+Dumpert
+Duoplay
+dvtv
+dw (CURRENTLY BROKEN)
+dw:article (CURRENTLY BROKEN)
+dzen.ru
+dzen.ru:channel
+EbaumsWorld
+Ebay
+egghead:course
+egghead:lesson
+eggs:artist
+eggs:single
+EinsUndEinsTV
+EinsUndEinsTVLive
+EinsUndEinsTVRecordings
+ElementorEmbed
+Elonet
+ElPais
+ElTreceTV
+Embedly
+EMPFlix
+Epicon
+EpiconSeries
+EpidemicSound
+eplus
+Epoch
+Eporner
+Erocast
+EroProfile
+EroProfile:album
+ERRArhiiv
+ERRJupiter
+ertflix
+ertflix:codename
+ertwebtv:embed
+ESPN
+ESPNArticle
+ESPNCricInfo
+EttuTv
+Europa (CURRENTLY BROKEN)
+EuroParlWebstream
+EuropeanTour
+Eurosport
+EUScreen
+EWETV
+EWETVLive
+EWETVRecordings
+Expressen
+facebook
+facebook:ads
+facebook:reel
+FacebookPluginsVideo
+FacebookRedirectURL
+fancode:live (CURRENTLY BROKEN)
+fancode:vod (CURRENTLY BROKEN)
+Fathom
+Faulio
+FaulioLive
+faz.net
+fc2
+fc2:embed
+fc2:live
+Fczenit
+Fifa
+FilmArchiv
+filmon
+filmon:channel
+Filmweb
+FiveThirtyEight
+FiveTV
+Flickr
+Floatplane
+FloatplaneChannel
+Folketinget (CURRENTLY BROKEN)
+FoodNetwork
+FootyRoom
+Formula1
+FOX
+FOX9
+FOX9News
+foxnews
+foxnews:article
+FoxNewsVideo
+FoxSports
+fptplay
+FrancaisFacile
+FranceCulture
+franceinfo
+francetv
+francetv:site
+Freesound
+freespeech.org
+freetv:series
+FreeTvMovies
+FrontendMasters
+FrontendMastersCourse
+FrontendMastersLesson
+Funk
+Funker530
+Fux
+FuyinTV
+Gab
+Gaia
+GameDevTVDashboard
+GameJolt
+GameJoltCommunity
+GameJoltGame
+GameJoltGameSoundtrack
+GameJoltSearch
+GameJoltUser
+GameSpot
+GameStar
+Gaskrank
+Gazeta (CURRENTLY BROKEN)
+GBNews
+GDCVault (CURRENTLY BROKEN)
+GediDigital
+gem.cbc.ca
+gem.cbc.ca:content
+gem.cbc.ca:live
+gem.cbc.ca:olympics
+gem.cbc.ca:playlist
+generic
+generic:quoted-html
+Genius
+GeniusLyrics
+Germanupa
+GetCourseRu
+GetCourseRuPlayer
+Gettr
+GettrStreaming
+GiantBomb
+GlattvisionTV
+GlattvisionTVLive
+GlattvisionTVRecordings
+Glide
+GlobalPlayerAudio
+GlobalPlayerAudioEpisode
+GlobalPlayerLive
+GlobalPlayerLivePlaylist
+GlobalPlayerVideo
+Globo
+GloboArticle
+glomex
+glomex:embed
+GMANetworkVideo
+Go
+GoDiscovery
+GodResource
+GodTube (CURRENTLY BROKEN)
+Golem
+goodgame:stream
+GoogleDrive
+GoogleDrive:Folder
+GoPro
+GoToStage
+Graspop
+Gronkh
+gronkh:feed
+gronkh:vods
+Groupon
+Harpodeon
+hbo
+HearThisAt
+Heise
+HellPorno
+hetklokhuis
+hgtv.com:show
+HGTVDe
+HGTVUsa
+HiDive
+HistoricFilms
+history:player
+history:topic
+HitRecord
+HollywoodReporter
+HollywoodReporterPlaylist
+Holodex
+HotNewHipHop (CURRENTLY BROKEN)
+hotstar
+hotstar:series
+HotStarPrefix
+href.li
+hrfernsehen
+HRTi
+HRTiPlaylist
+HSEProduct
+HSEShow
+html5
+Huajiao
+HuffPost
+Hungama
+HungamaAlbumPlaylist
+HungamaSong
+huya:live
+huya:video
+Hypem
+Hytale
+Icareus
+IdagioAlbum
+IdagioPersonalPlaylist
+IdagioPlaylist
+IdagioRecording
+IdagioTrack
+iflix:episode
+IflixSeries
+ign.com
+IGNArticle
+IGNVideo
+iheartradio
+iheartradio:podcast
+IlPost
+Iltalehti
+imdb
+imdb:list
+Imgur
+imgur:album
+imgur:gallery
+Ina
+Inc
+IndavideoEmbed
+InfoQ
+Instagram
+instagram:story
+instagram:tag
+instagram:user (CURRENTLY BROKEN)
+InstagramIOS
+Internazionale
+InvestigationDiscovery
+IPrima
+IPrimaCNN
+iq.com
+iq.com:album
+iqiyi
+IslamChannel
+IslamChannelSeries
+IsraelNationalNews
+ITProTV
+ITProTVCourse
+ITV
+ITVBTCC
+ivi
+ivi:compilation
+ivideon
+Ivoox
+iwara
+iwara:playlist
+iwara:user
+Ixigua
+Jamendo
+JamendoAlbum
+JeuxVideo (CURRENTLY BROKEN)
+jiosaavn:album
+jiosaavn:artist
+jiosaavn:playlist
+jiosaavn:show
+jiosaavn:show:playlist
+jiosaavn:song
+Joj
+Jove
+JStream
+JTBC
+JTBC:program
+JWPlatform
+Kakao
+Kaltura
+KankaNews (CURRENTLY BROKEN)
+Karaoketv (CURRENTLY BROKEN)
+Katsomo (CURRENTLY BROKEN)
+KelbyOne (CURRENTLY BROKEN)
+Kenh14Playlist
+Kenh14Video
+khanacademy
+khanacademy:unit
+kick:clips
+kick:live
+kick:vod
+Kicker
+KickStarter
+Kika
+KikaPlaylist
+KinoPoisk
+Kommunetv
+KompasVideo
+KrasView (CURRENTLY BROKEN)
+KTH
+Ku6
+KukuluLive
+kuwo:album (CURRENTLY BROKEN)
+kuwo:category (CURRENTLY BROKEN)
+kuwo:chart (CURRENTLY BROKEN)
+kuwo:mv (CURRENTLY BROKEN)
+kuwo:singer (CURRENTLY BROKEN)
+kuwo:song (CURRENTLY BROKEN)
+la7.it
+la7.it:pod:episode
+la7.it:podcast
+laracasts
+laracasts:series
+LastFM
+LastFMPlaylist
+LastFMUser
+LaXarxaMes
+lbry
+lbry:channel
+lbry:playlist
+LCI
+Lcp (CURRENTLY BROKEN)
+LcpPlay (CURRENTLY BROKEN)
+Le
+LearningOnScreen
+Lecture2Go (CURRENTLY BROKEN)
+Lecturio
+LecturioCourse
+LecturioDeCourse
+LeFigaroVideoEmbed
+LeFigaroVideoSection
+LEGO
+Lemonde
+Lenta (CURRENTLY BROKEN)
+LePlaylist
+Liability
+Libsyn
+life
+life:embed
+likee
+likee:user
+LinkedIn
+linkedin:events
+linkedin:learning
+linkedin:learning:course
+Liputan6
+ListenNotes
+LiTV
+LiveJournal (CURRENTLY BROKEN)
+Livestreamfails
+Lnk
+loc
+Locipo
+LocipoPlaylist
+Loco
+loom
+loom:folder (CURRENTLY BROKEN)
+LoveHomePorn
+LRTRadio
+LRTStream
+LRTVOD
+LSMLREmbed
+LSMLTVEmbed
+LSMReplay
+Lumni
+maariv.co.il
+MagellanTV
+MagentaMusik
+mailru
+mailru:music
+mailru:music:search
+MainStreaming
+mangomolo:live
+mangomolo:video
+MangoTV
+ManyVids
+MaoriTV
+Markiza (CURRENTLY BROKEN)
+MarkizaPage (CURRENTLY BROKEN)
+massengeschmack.tv
+Masters
+MatchiTV
+MatchTV
+mave
+mave:channel
+MBN
+MDR
+MedalTV
+media.ccc.de
+media.ccc.de:lists
+Mediaite
+MediaKlikk
+Medialaan
+Mediaset
+MediasetShow
+Mediasite
+MediasiteCatalog
+MediasiteNamedCatalog
+MediaStream
+MediaWorksNZVOD
+Medici
+megaphone.fm
+megatvcom
+megatvcom:embed
+Meipai
+mellowfan
+mellowfan:capture
+mellowfan:channel
+mellowfan:channel:search
+mellowfan:movie
+mellowfan:playlist
+MelonVOD
+Metacritic
+mewatch
+MicrosoftBuild
+MicrosoftEmbed
+MicrosoftLearnEpisode
+MicrosoftLearnPlaylist
+MicrosoftLearnSession
+MicrosoftMedius
+minds
+minds:channel
+minds:group
+mir24.tv
+mirrativ
+mirrativ:user
+MirrorCoUK
+mixch
+mixch:archive
+mixch:movie
+mixcloud
+mixcloud:playlist
+mixcloud:user
+Mixlr
+MixlrRecoring
+MLB
+MLBArticle
+MLBTV
+MLBVideo
+MLSSoccer
+MNetTV
+MNetTVLive
+MNetTVRecordings
+MochaVideo
+Mojevideo
+Monstercat
+monstersiren
+Motorsport (CURRENTLY BROKEN)
+MovieFap
+moviepilot
+MovingImage
+MSN
+mtg
+mtv
+MTVUutisetArticle (CURRENTLY BROKEN)
+MuenchenTV (CURRENTLY BROKEN)
+MujRozhlas
+Murrtube
+MurrtubeUser (CURRENTLY BROKEN)
+MuseAI
+MuseScore
+Mux
+Mx3
+Mx3Neo
+Mx3Volksmusik
+mxplayer
+mxplayer:redirect
+mxplayer:season
+mxplayer:show
+MySpace
+MySpace:album
+MySpass
+MyVideoGe
+MyVidster
+Mzaalo
+n-tv.de
+N1Info:article
+N1InfoAsset
+NascarClassics
+Nate
+NateProgram
+NationalGeographicTV
+Naver
+Naver:live
+nba (CURRENTLY BROKEN)
+nba:channel (CURRENTLY BROKEN)
+nba:embed (CURRENTLY BROKEN)
+nba:watch (CURRENTLY BROKEN)
+nba:watch:collection (CURRENTLY BROKEN)
+nba:watch:embed (CURRENTLY BROKEN)
+NBC
+NBCNews
+nbcolympics
+nbcolympics:stream (CURRENTLY BROKEN)
+NBCSports (CURRENTLY BROKEN)
+NBCSportsStream (CURRENTLY BROKEN)
+NBCSportsVPlayer (CURRENTLY BROKEN)
+NBCStations
+ndr
+ndr:embed
+ndr:embed:base
+NDTV (CURRENTLY BROKEN)
+nebula:channel
+nebula:media
+nebula:season
+nebula:subscriptions
+nebula:video
+NekoHacker
+Nest
+NestClip
+NetAppCollection
+NetAppVideo
+netease:album
+netease:djradio
+netease:mv
+netease:playlist
+netease:program
+netease:singer
+netease:song
+NetPlusTV
+NetPlusTVLive
+NetPlusTVRecordings
+Netzkino
+Newgrounds
+Newgrounds:playlist
+Newgrounds:user
+NewsPicks
+Newsy
+Nexx
+NexxEmbed
+nfb
+nfb:series
+NFHSNetwork
+nfl.com
+nfl.com:article
+nfl.com:plus:episode
+nfl.com:plus:replay
+NhkForSchoolBangumi
+NhkForSchoolProgramList
+NhkForSchoolSubject
+NhkRadioNewsPage
+NhkRadiru
+NhkRadiruLive
+NhkVod
+NhkVodProgram
+nhl.com
+nick.com
+niconico
+niconico:history
+niconico:live
+niconico:playlist
+niconico:series
+niconico:tag
+NiconicoChannelPlus
+NiconicoChannelPlus:channel:lives
+NiconicoChannelPlus:channel:videos
+NiconicoUser
+nicovideo:search
+nicovideo:search:date
+nicovideo:search_url
+NinaProtocol
+Nintendo
+Nitter
+njoy
+njoy:embed
+NobelPrize
+NoicePodcast
+NonkTube
+NoodleMagazine
+NOSNLArticle
+Nova
+NovaEmbed
+NovaPlay
+NowCanal
+nowness
+nowness:playlist
+nowness:series
+Noz (CURRENTLY BROKEN)
+npo
+npo.nl:live
+npo.nl:radio
+npo.nl:radio:fragment
+Npr
+NRK
+NRKPlaylist
+NRKRadioPodkast
+NRKSkole
+NRKTV
+NRKTVDirekte
+NRKTVEpisode
+NRKTVEpisodes
+NRKTVSeason
+NRKTVSeries
+NRLTV (CURRENTLY BROKEN)
+nts.live
+ntv.ru
+NubilesPorn
+Nuvid
+NYTimes
+NYTimesArticle
+NYTimesCookingGuide
+NYTimesCookingRecipe
+nzherald
+NZOnScreen
+NZZ
+ocw.mit.edu
+Odnoklassniki
+OfTV
+OfTVPlaylist
+OktoberfestTV (CURRENTLY BROKEN)
+OlympicsReplay
+Omnyfm
+OmnyfmPlaylist
+OmnyfmShow
+on24
+OnDemandChinaEpisode
+OnDemandKorea
+OnDemandKoreaProgram
+OneFootball
+OnePlacePodcast
+onet.pl
+onet.tv
+onet.tv:channel
+OnetMVP
+onsen
+Opencast
+OpencastPlaylist
+orf:fm4:story
+orf:iptv
+orf:on
+orf:podcast
+orf:radio
+OsnatelTV
+OsnatelTVLive
+OsnatelTVRecordings
+OutsideTV
+OwnCloud
+PacktPub
+PacktPubCourse
+PalcoMP3:artist
+PalcoMP3:song
+PalcoMP3:video
+PandaTv
+Panopto
+PanoptoList
+PanoptoPlaylist
+ParamountPressExpress
+Parler
+parliamentlive.tv
+Parlview
+parti:livestream
+parti:video
+patreon
+patreon:campaign
+pbs
+PBSKids
+PearVideo
+PeekVids
+peer.tv
+PeerTube
+PeerTube:Playlist
+peloton
+peloton:live
+PerformGroup
+periscope
+periscope:user
+PGATour
+PhilharmonieDeParis
+phoenix.de
+Photobucket
+PiaLive
+Piapro
+picarto
+picarto:vod
+Piksel
+Pinkbike
+Pinterest
+PinterestCollection
+Piracy
+Platzi
+PlatziCourse
+play.tv
+player.sky.it
+PlayerFm
+PlaySuisse
+Playtvak (CURRENTLY BROKEN)
+PlayVids
+pluralsight
+pluralsight:course
+PlutoTV (CURRENTLY BROKEN)
+PlyrEmbed
+PodbayFM
+PodbayFMChannel
+Podchaser
+podomatic (CURRENTLY BROKEN)
+PokerGo
+PokerGoCollection
+PolsatGo
+PolskieRadio
+polskieradio:audition
+polskieradio:category
+polskieradio:legacy
+polskieradio:player
+polskieradio:podcast
+polskieradio:podcast:list
+Popcorntimes
+PopcornTV
+Pornbox
+PornerBros
+PornFlip
+PornHub
+PornHubPagedVideoList
+PornHubPlaylist
+PornHubUser
+PornHubUserVideosUpload
+Pornotube
+PornoVoisines (CURRENTLY BROKEN)
+PornoXO (CURRENTLY BROKEN)
+PornTop
+PornTube
+Pr0gramm
+PrankCast
+PrankCastPost
+PremiershipRugby
+PressTV
+ProjectVeritas (CURRENTLY BROKEN)
+PRXAccount
+PRXSeries
+prxseries:search
+prxstories:search
+PRXStory
+puhutv
+puhutv:serie
+Pyvideo
+QDance
+QingTing
+qqmusic
+qqmusic:album
+qqmusic:mv
+qqmusic:playlist
+qqmusic:singer
+qqmusic:toplist
+QuantumTV
+QuantumTVLive
+QuantumTVRecordings
+R7 (CURRENTLY BROKEN)
+R7Article (CURRENTLY BROKEN)
+Radiko
+RadikoRadio
+radio.de (CURRENTLY BROKEN)
+Radio1Be
+radiocanada
+radiocanada:audiovideo
+radiofrance
+RadioFranceLive
+RadioFrancePodcast
+RadioFranceProfile
+RadioFranceProgramSchedule
+RadioJavan (CURRENTLY BROKEN)
+radiokapital
+radiokapital:show
+RadioRadicale
+RadioZetPodcast
+radlive
+radlive:channel
+radlive:season
+Rai
+RaiCultura
+RaiNews
+RaiPlay
+RaiPlayLive
+RaiPlayPlaylist
+RaiPlaySound
+RaiPlaySoundLive
+RaiPlaySoundPlaylist
+RaiSudtirol
+RayWenderlich
+RayWenderlichCourse
+RbgTum
+RbgTumCourse
+RbgTumNewCourse
+RCS
+RCSEmbeds
+RCSVarious
+RCTIPlus
+RCTIPlusSeries
+RCTIPlusTV
+RDS (CURRENTLY BROKEN)
+RedBull
+RedBullEmbed
+RedBullTV
+RedBullTVRrnContent
+Reddit
+RedGifs
+RedGifsSearch
+RedGifsUser
+RedTube
+RENTV (CURRENTLY BROKEN)
+RENTVArticle (CURRENTLY BROKEN)
+Restudy (CURRENTLY BROKEN)
+Reuters (CURRENTLY BROKEN)
+ReverbNation
+RideHome
+RinseFM
+RinseFMArtistPlaylist
+RockstarGames (CURRENTLY BROKEN)
+Rokfin
+rokfin:channel
+rokfin:search
+rokfin:stack
+RoosterTeeth
+RoosterTeethSeries
+RottenTomatoes
+RoyaLive
+Rozhlas
+RozhlasVltava
+RTBF (CURRENTLY BROKEN)
+RTDocumentry
+RTDocumentryPlaylist
+rte
+rte:radio
+rtl.lu:article
+rtl.lu:tele-vod
+rtl.nl
+rtl2 (CURRENTLY BROKEN)
+RTLLuLive
+RTLLuRadio
+Rtmp
+RTNews
+RTP
+RTRFM
+RTS (CURRENTLY BROKEN)
+RTVCKaltura
+RTVCPlay
+RTVCPlayEmbed
+rtve.es:alacarta
+rtve.es:audio
+rtve.es:live
+rtve.es:program
+rtve.es:television
+rtvslo.si
+rtvslo.si:show
+RudoVideo
+Rule34Video
+Rumble
+RumbleChannel
+RumbleEmbed
+Ruptly
+rutube
+rutube:channel
+rutube:embed
+rutube:movie
+rutube:person
+rutube:playlist
+rutube:tags
+Ruutu (CURRENTLY BROKEN)
+Ruv
+ruv.is:spila
+S4C
+S4CSeries
+safari
+safari:api
+safari:course
+Saitosan (CURRENTLY BROKEN)
+SAKTV
+SAKTVLive
+SAKTVRecordings
+SaltTV
+SaltTVLive
+SaltTVRecordings
+SampleFocus
+Sangiin
+SangiinInstruction
+Sapo
+SaucePlus
+SaucePlusChannel
+SBS
+sbs.co.kr
+sbs.co.kr:allvod_program
+sbs.co.kr:programs_vod
+schooltv
+ScienceChannel
+Screen9
+Screencast
+Screencastify
+ScreencastOMatic
+ScreenRec
+ScrippsNetworks
+scrippsnetworks:watch
+Scrolller
+sejm (CURRENTLY BROKEN)
+Sen
+SenalColombiaLive (CURRENTLY BROKEN)
+senate.gov
+senate.gov:isvp
+Servus
+Sexu (CURRENTLY BROKEN)
+SeznamZpravy
+SeznamZpravyArticle
+Shahid
+ShahidShow
+SharePoint
+ShemarooMe
+Shiey
+ShowRoomLive (CURRENTLY BROKEN)
+ShugiinItvLive
+ShugiinItvLiveRoom
+ShugiinItvVod
+SibnetEmbed
+simplecast
+simplecast:episode
+simplecast:podcast
+Sina
+Skeb
+sky.it
+sky:news
+sky:news:story
+sky:sports
+sky:sports:news
+SkylineWebcams (CURRENTLY BROKEN)
+skynewsarabia:article (CURRENTLY BROKEN)
+skynewsarabia:video (CURRENTLY BROKEN)
+SkyNewsAU
+Slideshare
+SlidesLive
+Slutload
+smotrim
+smotrim:audio
+smotrim:live
+smotrim:playlist
+SnapchatSpotlight
+SoftWhiteUnderbelly
+Sohu
+SohuV
+SonyLIV
+SonyLIVSeries
+soop
+soop:catchstory
+soop:live
+soop:user
+soundcloud
+soundcloud:playlist
+soundcloud:related
+soundcloud:search
+soundcloud:set
+soundcloud:trackstation
+soundcloud:user
+soundcloud:user:permalink
+SoundcloudEmbed
+soundgasm
+soundgasm:profile
+southpark.cc.com
+southpark.cc.com:espa�ol
+southpark.de
+southpark.lat
+southparkstudios.co.uk
+southparkstudios.com.br
+southparkstudios.nu
+SovietsCloset
+SovietsClosetPlaylist
+SpankBang
+SpankBangPlaylist
+Spiegel
+Sport5
+SportBox (CURRENTLY BROKEN)
+sporteurope
+Spreaker
+SpreakerShow
+SproutVideo
+sr:mediathek
+SRGSSR
+SRGSSRPlay
+StacommuLive
+StacommuVOD
+StagePlusVODConcert
+startrek
+startv
+Steam
+SteamCommunity
+SteamCommunityBroadcast
+StoryFire
+StoryFireSeries
+StoryFireUser
+Streaks
+Streamable
+StreamCZ
+StreetVoice
+Stripchat
+stv:player
+stvr
+Subsplash
+subsplash:playlist
+Substack
+SunPorno
+sverigesradio:episode
+sverigesradio:publication
+svt:page
+svt:play
+svt:play:series
+Syfy
+SztvHu
+t-online.de (CURRENTLY BROKEN)
+Tagesschau (CURRENTLY BROKEN)
+TapTapApp
+TapTapAppIntl
+TapTapMoment
+TapTapPostIntl
+tarangplus:episodes
+tarangplus:playlist
+tarangplus:video
+Tass (CURRENTLY BROKEN)
+TBS
+TBSJPEpisode
+TBSJPPlaylist
+TBSJPProgram
+Teachable (CURRENTLY BROKEN)
+TeachableCourse
+teachertube (CURRENTLY BROKEN)
+teachertube:user:collection (CURRENTLY BROKEN)
+TeachingChannel (CURRENTLY BROKEN)
+Teamcoco
+TeamTreeHouse
+techtv.mit.edu
+TedEmbed
+TedPlaylist
+TedSeries
+TedTalk
+Tele13
+Tele5
+TeleBruxelles
+TelecaribePlay
+Telecinco
+Telegraaf
+telegram:embed
+TeleMB (CURRENTLY BROKEN)
+Telemundo (CURRENTLY BROKEN)
+TeleQuebec
+TeleQuebecEmission
+TeleQuebecLive
+TeleQuebecSquat
+TeleQuebecVideo
+TeleTask (CURRENTLY BROKEN)
+Telewebion
+TennisTV
+TestURL
+TF1
+TFO (CURRENTLY BROKEN)
+theatercomplextown:ppv
+theatercomplextown:vod
+TheChosen
+TheChosenGroup (CURRENTLY BROKEN)
+TheGuardianPodcast
+TheGuardianPodcastPlaylist
+TheHighWire
+TheIntercept
+ThePlatform
+ThePlatformFeed
+TheStar
+TheSun
+TheWeatherChannel
+ThisAmericanLife
+ThisOldHouse
+ThisVid
+ThisVidMember
+ThisVidPlaylist
+ThreeSpeak
+ThreeSpeakUser
+TikTok
+tiktok:collection
+tiktok:effect (CURRENTLY BROKEN)
+tiktok:live
+tiktok:sound (CURRENTLY BROKEN)
+tiktok:tag (CURRENTLY BROKEN)
+tiktok:user
+TLC
+TMZ
+TNAFlix
+TNAFlixNetworkEmbed
+toggle
+toggo
+tokfm:audition
+tokfm:podcast
+ToonGoggles
+tou.tv
+toutiao
+Toypics (CURRENTLY BROKEN)
+ToypicsUser (CURRENTLY BROKEN)
+TravelChannel
+TrtCocukVideo
+TrtWorld
+TrueID
+TruNews
+Truth
+ttinglive
+Tube8 (CURRENTLY BROKEN)
+TubeTuGraz
+TubeTuGrazSeries
+tubitv
+tubitv:series
+Tumblr
+tunein:embed
+tunein:podcast
+tunein:podcast:program
+tunein:shortener
+tunein:station
+tv.dfb.de
+TV2
+TV2Article
+TV2DK
+TV2DKBornholmPlay
+tv2play.hu
+tv2playseries.hu
+TV4
+TV5MONDE
+tv5unis
+tv5unis:video
+tv8.it
+tv8.it:live
+tv8.it:playlist
+TVANouvelles
+TVANouvellesArticle
+tvaplus
+TVC
+TVCArticle
+TVer
+tver:olympic
+tvigle
+TVIPlayer
+TVN24 (CURRENTLY BROKEN)
+tvnoe
+TVO
+tvopengr:embed
+tvopengr:watch
+tvp
+tvp:embed
+tvp:stream
+tvp:vod
+tvp:vod:series
+TVPlayHome
+tvw
+tvw:news
+tvw:tvchannels
+Tweakers
+TwitCasting
+TwitCastingLive
+TwitCastingUser
+twitch:clips
+twitch:collection
+twitch:stream
+twitch:videos
+twitch:videos:clips
+twitch:videos:collections
+twitch:vod
+twitter
+twitter:amplify
+twitter:broadcast
+twitter:card
+twitter:shortener
+twitter:spaces
+Txxx
+udemy
+udemy:course
+UDNEmbed
+UFCTV
+ukcolumn (CURRENTLY BROKEN)
+UlizaPlayer
+UlizaPortal
+umg:de
+UnicodeBOM
+Unistra
+UnitedNationsWebTv
+Unity (CURRENTLY BROKEN)
+uol.com.br
+uplynk
+uplynk:preplay
+Urort (CURRENTLY BROKEN)
+URPlay
+USANetwork
+USAToday
+ustream
+ustream:channel
+ustudio
+ustudio:embed
+Varzesh3 (CURRENTLY BROKEN)
+Vbox7
+Veo
+Vevo
+VevoPlaylist
+VGTV (CURRENTLY BROKEN)
+vh1.com
+vhx:embed
+vice (CURRENTLY BROKEN)
+vice:article (CURRENTLY BROKEN)
+vice:show (CURRENTLY BROKEN)
+Viddler (CURRENTLY BROKEN)
+Videa
+video.arnes.si
+video.google:search
+video.sky.it
+video.sky.it:live
+VideoKenPlayer
+VideoPress
+Vidflex
+Vidio
+VidioLive
+VidioPremier
+VidLii
+Vidly
+vids.io
+Vidyard
+viewlift
+viewlift:embed
+ViewSource
+Viidea
+vimeo
+vimeo:album
+vimeo:channel
+vimeo:event
+vimeo:group
+vimeo:likes
+vimeo:ondemand
+vimeo:pro
+vimeo:review
+vimeo:user
+vimeo:watchlater
+ViMP
+ViMP:Playlist
+Viously
+Viqeo (CURRENTLY BROKEN)
+Visir
+Viu
+viu:ott
+viu:playlist
+ViuOTTIndonesia
+vk
+vk:uservideos
+vk:wallpost
+VKPlay
+VKPlayLive
+vm.tiktok
+Vocaroo
+VODPlatform
+voicy (CURRENTLY BROKEN)
+voicy:channel (CURRENTLY BROKEN)
+volejtv:category
+volejtv:club
+volejtv:match
+VoxMedia
+VoxMediaVolume
+vpro
+vqq:series
+vqq:video
+vrsquare
+vrsquare:channel
+vrsquare:search
+vrsquare:section
+VRT
+vrtmax
+VTM
+VTV
+VTVGo
+VTXTV
+VTXTVLive
+VTXTVRecordings
+Walla (CURRENTLY BROKEN)
+WalyTV
+WalyTVLive
+WalyTVRecordings
+washingtonpost
+washingtonpost:article
+wat.tv
+WatchESPN
+WDR
+WDRElefant
+WDRPage
+web.archive:youtube
+Webcamerapl
+Webcaster
+WebcasterFeed
+WebOfStories
+WebOfStoriesPlaylist
+Weibo
+WeiboUser
+WeiboVideo
+WeiqiTV (CURRENTLY BROKEN)
+wetv:episode
+WeTvSeries
+Weverse
+WeverseLive
+WeverseLiveTab
+WeverseMedia
+WeverseMediaTab
+WeverseMoment
+WeVidi
+whowatch (CURRENTLY BROKEN)
+Whyp
+wikimedia.org
+Wimbledon
+WimTV
+WinSportsVideo
+Wistia
+WistiaChannel
+WistiaPlaylist
+wnl
+wordpress:mb.miniAudioPlayer
+wordpress:playlist
+WorldStarHipHop
+wppilot
+wppilot:channels
+wrestleuniverse:ppv
+wrestleuniverse:vod
+WSJ
+WSJArticle
+WWE
+wyborcza:video
+WyborczaPodcast
+wykop:dig
+wykop:dig:comment
+wykop:post
+wykop:post:comment
+XboxClips
+XHamster
+XHamsterEmbed
+XHamsterUser
+XiaoHongShu
+ximalaya
+ximalaya:album
+Xinpianchang
+XMinus (CURRENTLY BROKEN)
+XNXX
+XVideos
+xvideos:quickies
+XXXYMovies
+yahoo
+yahoo:japannews
+yahoo:search
+YandexDisk
+yandexmusic:album
+yandexmusic:artist:albums
+yandexmusic:artist:tracks
+yandexmusic:playlist
+yandexmusic:track
+YandexVideo
+YandexVideoPreview
+YapFiles (CURRENTLY BROKEN)
+Yappy (CURRENTLY BROKEN)
+YappyProfile
+yfanefa
+YleAreena
+YouJizz
+youku
+youku:show
+YouNowChannel
+YouNowLive
+YouNowMoment
+YouPorn
+YouPornCategory
+YouPornChannel
+YouPornCollection
+YouPornStar
+YouPornTag
+YouPornVideos
+youtube
+youtube:clip
+youtube:consent
+youtube:favorites
+youtube:history
+youtube:music:search_url
+youtube:notif
+youtube:playlist
+youtube:recommended
+youtube:search
+youtube:search_url
+youtube:shorts:pivot:audio
+youtube:subscriptions
+youtube:tab
+youtube:truncated_id
+youtube:truncated_url
+youtube:user
+youtube:watchlater
+YoutubeLivestreamEmbed
+YoutubeYtBe
+Zaiko
+ZaikoETicket
+zan
+Zapiks
+Zattoo
+ZattooLive
+ZattooMovies
+ZattooRecordings
+zdf
+zdf:channel
+ZeeNews (CURRENTLY BROKEN)
+ZenPorn
+ZetlandDKArticle
+Zhihu
+zingmp3
+zingmp3:album
+zingmp3:chart-home
+zingmp3:chart-music-video
+zingmp3:hub
+zingmp3:liveradio
+zingmp3:podcast
+zingmp3:podcast-episode
+zingmp3:user
+zingmp3:week-chart
+zoom
+zoom:clips
+Zype
+generic
+
+=== IMAGES / GALLERIES (gallery-dl 1.32.5) ===
+
+AcidimgImageExtractor
+Extractor for single images from acidimg.cc
+Category: acidimg - Subcategory: image
+Example : https://acidimg.cc/img-abc123.html
+
+AdultempireGalleryExtractor
+Extractor for image galleries from www.adultempire.com
+Category: adultempire - Subcategory: gallery
+Example : https://www.adultempire.com/12345/gallery.html
+
+AgnphPostExtractor
+Category: agnph - Subcategory: post
+Example : https://agn.ph/gallery/post/show/12345/
+
+AgnphTagExtractor
+Category: agnph - Subcategory: tag
+Example : https://agn.ph/gallery/post/?search=TAG
+
+AhottieGalleryExtractor
+Category: ahottie - Subcategory: gallery
+Example : https://ahottie.top/albums/1234567890
+
+AhottieSearchExtractor
+Category: ahottie - Subcategory: search
+Example : https://ahottie.top/search?kw=QUERY
+
+AhottieTagExtractor
+Category: ahottie - Subcategory: tag
+Example : https://ahottie.top/tags/TAG
+
+AllporncomicChapterExtractor
+Extractor for allporncomic manga chapters
+Category: allporncomic - Subcategory: chapter
+Example : https://allporncomic.com/porncomic/MANGA/123-TITLE/
+
+AllporncomicMangaExtractor
+Extractor for allporncomic manga
+Category: allporncomic - Subcategory: manga
+Example : https://allporncomic.com/porncomic/MANGA/
+
+AllporncomicTagExtractor
+Extractor for allporncomic tag search results
+Category: allporncomic - Subcategory: tag
+Example : https://allporncomic.com/porncomic-genre/GENRE/
+
+Ao3SearchExtractor
+Extractor for AO3 search results
+Category: ao3 - Subcategory: search
+Example : https://archiveofourown.org/works/search?work_search[query]=air
+
+Ao3SeriesExtractor
+Extractor for AO3 works of a series
+Category: ao3 - Subcategory: series
+Example : https://archiveofourown.org/series/12345
+
+Ao3SubscriptionsExtractor
+Extractor for your AO3 account's subscriptions
+Category: ao3 - Subcategory: subscriptions
+Example : https://archiveofourown.org/users/USER/subscriptions
+
+Ao3TagExtractor
+Extractor for AO3 works by tag
+Category: ao3 - Subcategory: tag
+Example : https://archiveofourown.org/tags/TAG/works
+
+Ao3UserBookmarkExtractor
+Extractor for bookmarked works of an AO3 user
+Category: ao3 - Subcategory: user-bookmark
+Example : https://archiveofourown.org/users/USER/bookmarks
+
+Ao3UserExtractor
+Extractor for an AO3 user profile
+Category: ao3 - Subcategory: user
+Example : https://archiveofourown.org/users/USER
+
+Ao3UserSeriesExtractor
+Extractor for series of an AO3 user
+Category: ao3 - Subcategory: user-series
+Example : https://archiveofourown.org/users/USER/series
+
+Ao3UserWorksExtractor
+Extractor for works of an AO3 user
+Category: ao3 - Subcategory: user-works
+Example : https://archiveofourown.org/users/USER/works
+
+Ao3WorkExtractor
+Extractor for an AO3 work
+Category: ao3 - Subcategory: work
+Example : https://archiveofourown.org/works/12345
+
+ArcaliveBoardExtractor
+Extractor for an arca.live board's posts
+Category: arcalive - Subcategory: board
+Example : https://arca.live/b/breaking
+
+ArcalivePostExtractor
+Extractor for an arca.live post
+Category: arcalive - Subcategory: post
+Example : https://arca.live/b/breaking/123456789
+
+ArcaliveUserExtractor
+Extractor for an arca.live users's posts
+Category: arcalive - Subcategory: user
+Example : https://arca.live/u/@USER
+
+ArchitizerFirmExtractor
+Extractor for all projects of a firm
+Category: architizer - Subcategory: firm
+Example : https://architizer.com/firms/NAME/
+
+ArchitizerProjectExtractor
+Extractor for project pages on architizer.com
+Category: architizer - Subcategory: project
+Example : https://architizer.com/projects/NAME/
+
+ArenaChannelExtractor
+Extractor for are.na channels
+Category: arena - Subcategory: channel
+Example : https://are.na/evan-collins-1522646491/cassette-futurism
+
+ArtstationAlbumExtractor
+Extractor for all projects in an artstation album
+Category: artstation - Subcategory: album
+Example : https://www.artstation.com/USER/albums/12345
+
+ArtstationArtworkExtractor
+Extractor for projects on artstation's artwork page
+Category: artstation - Subcategory: artwork
+Example : https://www.artstation.com/artwork?sorting=SORT
+
+ArtstationChallengeExtractor
+Extractor for submissions of artstation challenges
+Category: artstation - Subcategory: challenge
+Example : https://www.artstation.com/challenges/NAME/categories/12345
+
+ArtstationCollectionExtractor
+Extractor for an artstation collection
+Category: artstation - Subcategory: collection
+Example : https://www.artstation.com/USER/collections/12345
+
+ArtstationCollectionsExtractor
+Extractor for an artstation user's collections
+Category: artstation - Subcategory: collections
+Example : https://www.artstation.com/USER/collections
+
+ArtstationFollowingExtractor
+Extractor for a user's followed users
+Category: artstation - Subcategory: following
+Example : https://www.artstation.com/USER/following
+
+ArtstationImageExtractor
+Extractor for images from a single artstation project
+Category: artstation - Subcategory: image
+Example : https://www.artstation.com/artwork/abcde
+
+ArtstationLikesExtractor
+Extractor for liked projects of an artstation user
+Category: artstation - Subcategory: likes
+Example : https://www.artstation.com/USER/likes
+
+ArtstationSearchExtractor
+Extractor for artstation search results
+Category: artstation - Subcategory: search
+Example : https://www.artstation.com/search?query=QUERY
+
+ArtstationUserExtractor
+Extractor for all projects of an artstation user
+Category: artstation - Subcategory: user
+Example : https://www.artstation.com/USER
+
+AryionFavoriteExtractor
+Extractor for a user's favorites gallery
+Category: aryion - Subcategory: favorite
+Example : https://aryion.com/g4/favorites/USER
+
+AryionGalleryExtractor
+Extractor for a user's gallery on eka's portal
+Category: aryion - Subcategory: gallery
+Example : https://aryion.com/g4/gallery/USER
+
+AryionMessagepageExtractor
+Extractor for submissions by watched users and tags
+Category: aryion - Subcategory: messagepage
+Example : https://aryion.com/g4/messagepage.php
+
+AryionPostExtractor
+Extractor for individual posts on eka's portal
+Category: aryion - Subcategory: post
+Example : https://aryion.com/g4/view/12345
+
+AryionSearchExtractor
+Extractor for searches on eka's portal
+Category: aryion - Subcategory: search
+Example : https://aryion.com/g4/search.php?q=TEXT&tags=TAGS&user=USER
+
+AryionTagExtractor
+Extractor for tag searches on eka's portal
+Category: aryion - Subcategory: tag
+Example : https://aryion.com/g4/tags.php?tag=TAG
+
+AryionWatchExtractor
+Extractor for watched users
+Category: aryion - Subcategory: watch
+Example : https://aryion.com/g4/watch.php?id=USER
+
+AudiochanAudioExtractor
+Category: audiochan - Subcategory: audio
+Example : https://audiochan.com/a/SLUG
+
+AudiochanCollectionExtractor
+Category: audiochan - Subcategory: collection
+Example : https://audiochan.com/c/SLUG
+
+AudiochanSearchExtractor
+Category: audiochan - Subcategory: search
+Example : https://audiochan.com/search?q=QUERY
+
+AudiochanUserExtractor
+Category: audiochan - Subcategory: user
+Example : https://audiochan.com/u/USER
+
+BbcGalleryExtractor
+Extractor for a programme gallery on bbc.co.uk
+Category: bbc - Subcategory: gallery
+Example : https://www.bbc.co.uk/programmes/PATH
+
+BbcProgrammeExtractor
+Extractor for all galleries of a bbc programme
+Category: bbc - Subcategory: programme
+Example : https://www.bbc.co.uk/programmes/ID/galleries
+
+BehanceCollectionExtractor
+Extractor for a collection's galleries from www.behance.net
+Category: behance - Subcategory: collection
+Example : https://www.behance.net/collection/12345/TITLE
+
+BehanceGalleryExtractor
+Extractor for image galleries from www.behance.net
+Category: behance - Subcategory: gallery
+Example : https://www.behance.net/gallery/12345/TITLE
+
+BehanceUserExtractor
+Extractor for a user's galleries from www.behance.net
+Category: behance - Subcategory: user
+Example : https://www.behance.net/USER
+
+BellazonForumExtractor
+Category: bellazon - Subcategory: forum
+Example : https://www.bellazon.com/main/forum/123-SLUG/
+
+BellazonPostExtractor
+Category: bellazon - Subcategory: post
+Example : https://www.bellazon.com/main/topic/123-SLUG/#findComment-12345
+
+BellazonThreadExtractor
+Category: bellazon - Subcategory: thread
+Example : https://www.bellazon.com/main/topic/123-SLUG/
+
+BilibiliArticleExtractor
+Extractor for a bilibili article
+Category: bilibili - Subcategory: article
+Example : https://www.bilibili.com/opus/12345
+
+BilibiliUserArticlesExtractor
+Extractor for a bilibili user's articles
+Category: bilibili - Subcategory: user-articles
+Example : https://space.bilibili.com/12345/article
+
+BilibiliUserArticlesFavoriteExtractor
+Category: bilibili - Subcategory: user-articles-favorite
+Example : https://space.bilibili.com/12345/favlist?fid=opus
+
+BloggerBlogExtractor
+Extractor for an entire Blogger blog
+Category:  - Subcategory: blog
+Example : https://BLOG.blogspot.com/
+
+BloggerLabelExtractor
+Extractor for Blogger posts by label
+Category:  - Subcategory: label
+Example : https://BLOG.blogspot.com/search/label/LABEL
+
+BloggerPostExtractor
+Extractor for a single blog post
+Category:  - Subcategory: post
+Example : https://BLOG.blogspot.com/1970/01/TITLE.html
+
+BloggerSearchExtractor
+Extractor for Blogger search resuls
+Category:  - Subcategory: search
+Example : https://BLOG.blogspot.com/search?q=QUERY
+
+BlueskyAvatarExtractor
+Category: bluesky - Subcategory: avatar
+Example : https://bsky.app/profile/HANDLE/avatar
+
+BlueskyBackgroundExtractor
+Category: bluesky - Subcategory: background
+Example : https://bsky.app/profile/HANDLE/banner
+
+BlueskyBookmarkExtractor
+Category: bluesky - Subcategory: bookmark
+Example : https://bsky.app/saved
+
+BlueskyFeedExtractor
+Category: bluesky - Subcategory: feed
+Example : https://bsky.app/profile/HANDLE/feed/NAME
+
+BlueskyFollowingExtractor
+Category: bluesky - Subcategory: following
+Example : https://bsky.app/profile/HANDLE/follows
+
+BlueskyHashtagExtractor
+Category: bluesky - Subcategory: hashtag
+Example : https://bsky.app/hashtag/NAME
+
+BlueskyInfoExtractor
+Category: bluesky - Subcategory: info
+Example : https://bsky.app/profile/HANDLE/info
+
+BlueskyLikesExtractor
+Category: bluesky - Subcategory: likes
+Example : https://bsky.app/profile/HANDLE/likes
+
+BlueskyListExtractor
+Category: bluesky - Subcategory: list
+Example : https://bsky.app/profile/HANDLE/lists/ID
+
+BlueskyMediaExtractor
+Category: bluesky - Subcategory: media
+Example : https://bsky.app/profile/HANDLE/media
+
+BlueskyPostExtractor
+Category: bluesky - Subcategory: post
+Example : https://bsky.app/profile/HANDLE/post/ID
+
+BlueskyPostsExtractor
+Category: bluesky - Subcategory: posts
+Example : https://bsky.app/profile/HANDLE/posts
+
+BlueskyRepliesExtractor
+Category: bluesky - Subcategory: replies
+Example : https://bsky.app/profile/HANDLE/replies
+
+BlueskySearchExtractor
+Category: bluesky - Subcategory: search
+Example : https://bsky.app/search?q=QUERY
+
+BlueskyUserExtractor
+Category: bluesky - Subcategory: user
+Example : https://bsky.app/profile/HANDLE
+
+BlueskyVideoExtractor
+Category: bluesky - Subcategory: video
+Example : https://bsky.app/profile/HANDLE/video
+
+BoostyDirectMessagesExtractor
+Extractor for boosty.to direct messages
+Category: boosty - Subcategory: direct-messages
+Example : https://boosty.to/app/messages?dialogId=12345
+
+BoostyFeedExtractor
+Extractor for your boosty.to subscription feed
+Category: boosty - Subcategory: feed
+Example : https://boosty.to/
+
+BoostyFollowingExtractor
+Extractor for your boosty.to subscribed users
+Category: boosty - Subcategory: following
+Example : https://boosty.to/app/settings/subscriptions
+
+BoostyMediaExtractor
+Extractor for boosty.to user media
+Category: boosty - Subcategory: media
+Example : https://boosty.to/USER/media/all
+
+BoostyPostExtractor
+Extractor for boosty.to posts
+Category: boosty - Subcategory: post
+Example : https://boosty.to/USER/posts/01234567-89ab-cdef-0123-456789abcd
+
+BoostyUserExtractor
+Extractor for boosty.to user profiles
+Category: boosty - Subcategory: user
+Example : https://boosty.to/USER
+
+BoothCategoryExtractor
+Category: booth - Subcategory: category
+Example : https://booth.pm/ja/browse/CATEGORY
+
+BoothItemExtractor
+Category: booth - Subcategory: item
+Example : https://booth.pm/ja/items/12345
+
+BoothShopExtractor
+Category: booth - Subcategory: shop
+Example : https://SHOP.booth.pm/
+
+BunkrAlbumExtractor
+Extractor for bunkr albums
+Category: bunkr - Subcategory: album
+Example : https://bunkr.cr/a/ID
+
+BunkrDirectLinkExtractor
+Category: bunkr - Subcategory: direct-link
+Example : https://cdn123.bunkr.ru/NAME-ID.EXT
+
+BunkrMediaExtractor
+Extractor for bunkr media links
+Category: bunkr - Subcategory: media
+Example : https://bunkr.cr/f/FILENAME
+
+CatboxAlbumExtractor
+Extractor for catbox albums
+Category: catbox - Subcategory: album
+Example : https://catbox.moe/c/ID
+
+CatboxFileExtractor
+Extractor for catbox files
+Category: catbox - Subcategory: file
+Example : https://files.catbox.moe/NAME.EXT
+
+CheveretoAlbumExtractor
+Extractor for chevereto albums
+Category:  - Subcategory: album
+Example : https://jpg7.cr/album/TITLE.ID
+
+CheveretoCategoryExtractor
+Extractor for chevereto galleries
+Category:  - Subcategory: category
+Example : https://imglike.com/category/TITLE
+
+CheveretoFileExtractor
+Extractor for chevereto files
+Category:  - Subcategory: file
+Example : https://jpg7.cr/img/TITLE.ID
+
+CheveretoUserExtractor
+Extractor for chevereto users
+Category:  - Subcategory: user
+Example : https://jpg7.cr/USER
+
+CienArticleExtractor
+Category: cien - Subcategory: article
+Example : https://ci-en.net/creator/123/article/12345
+
+CienCreatorExtractor
+Category: cien - Subcategory: creator
+Example : https://ci-en.net/creator/123
+
+CienFollowingExtractor
+Category: cien - Subcategory: following
+Example : https://ci-en.net/mypage/subscription
+
+CienRecentExtractor
+Category: cien - Subcategory: recent
+Example : https://ci-en.net/mypage/recent
+
+CivitaiCollectionExtractor
+Category: civitai - Subcategory: collection
+Example : https://civitai.red/collections/12345
+
+CivitaiGeneratedExtractor
+Extractor for your generated files feed
+Category: civitai - Subcategory: generated
+Example : https://civitai.red/generate
+
+CivitaiImageExtractor
+Category: civitai - Subcategory: image
+Example : https://civitai.red/images/12345
+
+CivitaiImagesExtractor
+Category: civitai - Subcategory: images
+Example : https://civitai.red/images
+
+CivitaiModelExtractor
+Category: civitai - Subcategory: model
+Example : https://civitai.red/models/12345/TITLE
+
+CivitaiModelsExtractor
+Category: civitai - Subcategory: models
+Example : https://civitai.red/models
+
+CivitaiPostExtractor
+Category: civitai - Subcategory: post
+Example : https://civitai.red/posts/12345
+
+CivitaiPostsExtractor
+Category: civitai - Subcategory: posts
+Example : https://civitai.red/posts
+
+CivitaiSearchImagesExtractor
+Category: civitai - Subcategory: search-images
+Example : https://civitai.red/search/images?query=QUERY
+
+CivitaiSearchModelsExtractor
+Category: civitai - Subcategory: search-models
+Example : https://civitai.red/search/models?query=QUERY
+
+CivitaiTagExtractor
+Category: civitai - Subcategory: tag
+Example : https://civitai.red/tag/TAG
+
+CivitaiUserCollectionsExtractor
+Category: civitai - Subcategory: user-collections
+Example : https://civitai.red/user/USER/collections
+
+CivitaiUserExtractor
+Category: civitai - Subcategory: user
+Example : https://civitai.red/user/USER
+
+CivitaiUserImagesExtractor
+Category: civitai - Subcategory: user-images
+Example : https://civitai.red/user/USER/images
+
+CivitaiUserModelsExtractor
+Category: civitai - Subcategory: user-models
+Example : https://civitai.red/user/USER/models
+
+CivitaiUserPostsExtractor
+Category: civitai - Subcategory: user-posts
+Example : https://civitai.red/user/USER/posts
+
+CivitaiUserVideosExtractor
+Category: civitai - Subcategory: user-videos
+Example : https://civitai.red/user/USER/videos
+
+CivitaiVideosExtractor
+Category: civitai - Subcategory: videos
+Example : https://civitai.red/videos
+
+ComedywildlifephotoGalleryExtractor
+Extractor for comedywildlifephoto galleries
+Category: comedywildlifephoto - Subcategory: gallery
+Example : https://www.comedywildlifephoto.com/gallery/SECTION/TITLE.php
+
+ComicartfansArtistExtractor
+Category: comicartfans - Subcategory: artist
+Example : https://www.comicartfans.com/comic-artists/ARTIST.asp
+
+ComicartfansArtworkExtractor
+Category: comicartfans - Subcategory: artwork
+Example : https://www.comicartfans.com/gallerypiece.asp?piece=12345
+
+ComicartfansGalleryExtractor
+Category: comicartfans - Subcategory: gallery
+Example : https://www.comicartfans.com/gallerydetail.asp?gcat=12345
+
+ComicartfansSearchExtractor
+Category: comicartfans - Subcategory: search
+Example : https://www.comicartfans.com/searchresult.asp?QUERY
+
+ComicvineTagExtractor
+Extractor for a gallery on comicvine.gamespot.com
+Category: comicvine - Subcategory: tag
+Example : https://comicvine.gamespot.com/TAG/123-45/images/
+
+CosmosCollectionExtractor
+Category: cosmos - Subcategory: collection
+Example : https://cosmos.so/USER/COLLECTION
+
+CosmosCollectionsExtractor
+Category: cosmos - Subcategory: collections
+Example : https://cosmos.so/USER/collections
+
+CosmosElementExtractor
+Category: cosmos - Subcategory: element
+Example : https://cosmos.so/e/1234567890
+
+CosmosSearchExtractor
+Category: cosmos - Subcategory: search
+Example : https://www.cosmos.so/search/elements/QUERY
+
+CosmosUserExtractor
+Category: cosmos - Subcategory: user
+Example : https://cosmos.so/USER
+
+Cosplayrule34ListingExtractor
+Base class for cosplayrule34 post listings
+Category: cosplayrule34 - Subcategory: listing
+Example : https://cosplayrule34.com/model/MODEL
+
+Cosplayrule34PostExtractor
+Extractor for individual cosplayrule34 posts
+Category: cosplayrule34 - Subcategory: post
+Example : https://cosplayrule34.com/post/12345
+
+Cosplayrule34PostsExtractor
+Extractor for cosplayrule34 front-page posts
+Category: cosplayrule34 - Subcategory: posts
+Example : https://cosplayrule34.com/
+
+Cosplayrule34TopExtractor
+Extractor for cosplayrule34 top pages
+Category: cosplayrule34 - Subcategory: top
+Example : https://cosplayrule34.com/top
+
+CyberdropAlbumExtractor
+Extractor for cyberdrop albums
+Category: cyberdrop - Subcategory: album
+Example : https://cyberdrop.cr/a/ID
+
+CyberdropMediaExtractor
+Extractor for cyberdrop media links
+Category: cyberdrop - Subcategory: media
+Example : https://cyberdrop.cr/f/ID
+
+CyberfileFileExtractor
+Category: cyberfile - Subcategory: file
+Example : https://cyberfile.me/AbCdE
+
+CyberfileFolderExtractor
+Category: cyberfile - Subcategory: folder
+Example : https://cyberfile.me/folder/0123456789abcdef/NAME
+
+CyberfileSharedExtractor
+Category: cyberfile - Subcategory: shared
+Example : https://cyberfile.me/shared/AbCdEfGhIjK
+
+DanbooruArtistExtractor
+Extractor for danbooru artists
+Category:  - Subcategory: artist
+Example : https://danbooru.donmai.us/artists/12345
+
+DanbooruArtistSearchExtractor
+Extractor for danbooru artist searches
+Category:  - Subcategory: artist-search
+Example : https://danbooru.donmai.us/artists?QUERY
+
+DanbooruFavgroupExtractor
+Extractor for Danbooru favorite groups
+Category:  - Subcategory: favgroup
+Example : https://danbooru.donmai.us/favorite_groups/12345
+
+DanbooruMediaassetExtractor
+Extractor for a danbooru media asset
+Category:  - Subcategory: media-asset
+Example : https://danbooru.donmai.us/media_assets/12345
+
+DanbooruPoolExtractor
+Extractor for Danbooru pools
+Category:  - Subcategory: pool
+Example : https://danbooru.donmai.us/pools/12345
+
+DanbooruPopularExtractor
+Extractor for popular images from danbooru
+Category:  - Subcategory: popular
+Example : https://danbooru.donmai.us/explore/posts/popular
+
+DanbooruPostExtractor
+Extractor for single danbooru posts
+Category:  - Subcategory: post
+Example : https://danbooru.donmai.us/posts/12345
+
+DanbooruRandomExtractor
+Extractor for a random danbooru post
+Category:  - Subcategory: random
+Example : https://danbooru.donmai.us/posts/random?tags=TAG
+
+DanbooruTagExtractor
+Extractor for danbooru posts from tag searches
+Category:  - Subcategory: tag
+Example : https://danbooru.donmai.us/posts?tags=TAG
+
+DandadanChapterExtractor
+Extractor for dandadan manga chapters
+Category: dandadan - Subcategory: chapter
+Example : https://dandadan.net/manga/dandadan-chapter-123/
+
+DandadanMangaExtractor
+Extractor for dandadan manga
+Category: dandadan - Subcategory: manga
+Example : https://dandadan.net/
+
+DankefuerslesenChapterExtractor
+Extractor for Danke f�rs Lesen manga chapters
+Category: dankefuerslesen - Subcategory: chapter
+Example : https://danke.moe/read/manga/TITLE/123/1/
+
+DankefuerslesenMangaExtractor
+Extractor for Danke f�rs Lesen manga
+Category: dankefuerslesen - Subcategory: manga
+Example : https://danke.moe/read/manga/TITLE/
+
+DesktopographyEntryExtractor
+Extractor for all resolutions of a desktopography wallpaper
+Category: desktopography - Subcategory: entry
+Example : https://desktopography.net/portfolios/NAME/
+
+DesktopographyExhibitionExtractor
+Extractor for a yearly desktopography exhibition
+Category: desktopography - Subcategory: exhibition
+Example : https://desktopography.net/exhibition-2020/
+
+DesktopographySiteExtractor
+Extractor for all desktopography exhibitions 
+Category: desktopography - Subcategory: site
+Example : https://desktopography.net/
+
+DeviantartAvatarExtractor
+Extractor for an artist's avatar
+Category: deviantart - Subcategory: avatar
+Example : https://www.deviantart.com/USER/avatar/
+
+DeviantartBackgroundExtractor
+Extractor for an artist's banner
+Category: deviantart - Subcategory: background
+Example : https://www.deviantart.com/USER/banner/
+
+DeviantartCollectionExtractor
+Extractor for a single favorite collection
+Category: deviantart - Subcategory: collection
+Example : https://www.deviantart.com/USER/favourites/12345/TITLE
+
+DeviantartDeviationExtractor
+Extractor for single deviations
+Category: deviantart - Subcategory: deviation
+Example : https://www.deviantart.com/UsER/art/TITLE-12345
+
+DeviantartFavoriteExtractor
+Extractor for an artist's favorites
+Category: deviantart - Subcategory: favorite
+Example : https://www.deviantart.com/USER/favourites/
+
+DeviantartFolderExtractor
+Extractor for deviations inside an artist's gallery folder
+Category: deviantart - Subcategory: folder
+Example : https://www.deviantart.com/USER/gallery/12345/TITLE
+
+DeviantartFollowingExtractor
+Extractor for user's watched users
+Category: deviantart - Subcategory: following
+Example : https://www.deviantart.com/USER/about#watching
+
+DeviantartGalleryExtractor
+Extractor for all deviations from an artist's gallery
+Category: deviantart - Subcategory: gallery
+Example : https://www.deviantart.com/USER/gallery/
+
+DeviantartGallerySearchExtractor
+Extractor for deviantart gallery searches
+Category: deviantart - Subcategory: gallery-search
+Example : https://www.deviantart.com/USER/gallery?q=QUERY
+
+DeviantartJournalExtractor
+Extractor for an artist's journals
+Category: deviantart - Subcategory: journal
+Example : https://www.deviantart.com/USER/posts/journals/
+
+DeviantartScrapsExtractor
+Extractor for an artist's scraps
+Category: deviantart - Subcategory: scraps
+Example : https://www.deviantart.com/USER/gallery/scraps
+
+DeviantartSearchExtractor
+Extractor for deviantart search results
+Category: deviantart - Subcategory: search
+Example : https://www.deviantart.com/search?q=QUERY
+
+DeviantartStashExtractor
+Extractor for sta.sh-ed deviations
+Category: deviantart - Subcategory: stash
+Example : https://www.deviantart.com/stash/abcde
+
+DeviantartStatusExtractor
+Extractor for an artist's status updates
+Category: deviantart - Subcategory: status
+Example : https://www.deviantart.com/USER/posts/statuses/
+
+DeviantartTagExtractor
+Extractor for deviations from tag searches
+Category: deviantart - Subcategory: tag
+Example : https://www.deviantart.com/tag/TAG
+
+DeviantartUserExtractor
+Extractor for an artist's user profile
+Category: deviantart - Subcategory: user
+Example : https://www.deviantart.com/USER
+
+DeviantartWatchExtractor
+Extractor for Deviations from watched users
+Category: deviantart - Subcategory: watch
+Example : https://www.deviantart.com/watch/deviations
+
+DeviantartWatchPostsExtractor
+Extractor for Posts from watched users
+Category: deviantart - Subcategory: watch-posts
+Example : https://www.deviantart.com/watch/posts
+
+DirectlinkExtractor
+Extractor for direct links to images and other media files
+Category: directlink - Subcategory: 
+Example : https://en.wikipedia.org/static/images/project-logos/enwiki.png
+
+DiscordChannelExtractor
+Category: discord - Subcategory: channel
+Example : https://discord.com/channels/1234567890/9876543210
+
+DiscordDirectMessageExtractor
+Category: discord - Subcategory: direct-message
+Example : https://discord.com/channels/@me/1234567890/9876543210
+
+DiscordDirectMessagesExtractor
+Category: discord - Subcategory: direct-messages
+Example : https://discord.com/channels/@me/1234567890
+
+DiscordMessageExtractor
+Category: discord - Subcategory: message
+Example : https://discord.com/channels/1234567890/9876543210/2468013579
+
+DiscordServerAssetsExtractor
+Category: discord - Subcategory: server-assets
+Example : https://discord.com/channels/1234567890/assets
+
+DiscordServerExtractor
+Category: discord - Subcategory: server
+Example : https://discord.com/channels/1234567890
+
+DiscordServerSearchExtractor
+Category: discord - Subcategory: server-search
+Example : https://discord.com/channels/1234567890/search?QUERY
+
+DynastyscansAnthologyExtractor
+Extractor for dynasty-scans anthologies
+Category: dynastyscans - Subcategory: anthology
+Example : https://dynasty-scans.com/anthologies/TITLE
+
+DynastyscansChapterExtractor
+Extractor for manga-chapters from dynasty-scans.com
+Category: dynastyscans - Subcategory: chapter
+Example : https://dynasty-scans.com/chapters/NAME
+
+DynastyscansImageExtractor
+Extractor for individual images on dynasty-scans.com
+Category: dynastyscans - Subcategory: image
+Example : https://dynasty-scans.com/images/12345
+
+DynastyscansMangaExtractor
+Category: dynastyscans - Subcategory: manga
+Example : https://dynasty-scans.com/series/NAME
+
+DynastyscansSearchExtractor
+Extrator for image search results on dynasty-scans.com
+Category: dynastyscans - Subcategory: search
+Example : https://dynasty-scans.com/images?QUERY
+
+E621ArtistExtractor
+Extractor for e621 artists
+Category:  - Subcategory: artist
+Example : https://e621.net/artists/12345
+
+E621ArtistSearchExtractor
+Extractor for e621 artist searches
+Category:  - Subcategory: artist-search
+Example : https://e621.net/artists?QUERY
+
+E621FavoriteExtractor
+Extractor for e621 favorites
+Category:  - Subcategory: favorite
+Example : https://e621.net/favorites
+
+E621FrontendExtractor
+Extractor for alternative e621 frontends
+Category: e621 - Subcategory: frontend
+Example : https://e621.cc/?tags=TAG
+
+E621PoolExtractor
+Extractor for e621 pools
+Category:  - Subcategory: pool
+Example : https://e621.net/pools/12345
+
+E621PopularExtractor
+Extractor for popular images from e621
+Category:  - Subcategory: popular
+Example : https://e621.net/explore/posts/popular
+
+E621PostExtractor
+Extractor for single e621 posts
+Category:  - Subcategory: post
+Example : https://e621.net/posts/12345
+
+E621TagExtractor
+Extractor for e621 posts from tag searches
+Category:  - Subcategory: tag
+Example : https://e621.net/posts?tags=TAG
+
+EpornerGalleryExtractor
+Extractor for image galleries from eporner.com
+Category: eporner - Subcategory: gallery
+Example : https://www.eporner.com/gallery/GID/SLUG/
+
+EromeAlbumExtractor
+Extractor for albums on erome.com
+Category: erome - Subcategory: album
+Example : https://www.erome.com/a/ID
+
+EromeSearchExtractor
+Category: erome - Subcategory: search
+Example : https://www.erome.com/search?q=QUERY
+
+EromeUserExtractor
+Category: erome - Subcategory: user
+Example : https://www.erome.com/USER
+
+EveriaCategoryExtractor
+Category: everia - Subcategory: category
+Example : https://everia.club/category/CATEGORY
+
+EveriaDateExtractor
+Category: everia - Subcategory: date
+Example : https://everia.club/0000/00/00
+
+EveriaPostExtractor
+Category: everia - Subcategory: post
+Example : https://everia.club/0000/00/00/TITLE
+
+EveriaSearchExtractor
+Category: everia - Subcategory: search
+Example : https://everia.club/?s=SEARCH
+
+EveriaTagExtractor
+Category: everia - Subcategory: tag
+Example : https://everia.club/tag/TAG
+
+ExhentaiFavoriteExtractor
+Extractor for favorited exhentai galleries
+Category: exhentai - Subcategory: favorite
+Example : https://e-hentai.org/favorites.php
+
+ExhentaiGalleryExtractor
+Extractor for image galleries from exhentai.org
+Category: exhentai - Subcategory: gallery
+Example : https://e-hentai.org/g/12345/67890abcde/
+
+ExhentaiSearchExtractor
+Extractor for exhentai search results
+Category: exhentai - Subcategory: search
+Example : https://e-hentai.org/?f_search=QUERY
+
+FacebookAlbumsExtractor
+Extractor for Facebook Profile albums
+Category: facebook - Subcategory: albums
+Example : https://www.facebook.com/USERNAME/photos_albums
+
+FacebookAvatarExtractor
+Extractor for Facebook Profile Avatars
+Category: facebook - Subcategory: avatar
+Example : https://www.facebook.com/USERNAME/avatar
+
+FacebookInfoExtractor
+Extractor for Facebook Profile data
+Category: facebook - Subcategory: info
+Example : https://www.facebook.com/USERNAME/info
+
+FacebookPhotoExtractor
+Base class for Facebook Photo extractors
+Category: facebook - Subcategory: photo
+Example : https://www.facebook.com/photo/?fbid=PHOTO_ID
+
+FacebookPhotosExtractor
+Extractor for Facebook Profile Photos
+Category: facebook - Subcategory: photos
+Example : https://www.facebook.com/USERNAME/photos
+
+FacebookSetExtractor
+Base class for Facebook Set extractors
+Category: facebook - Subcategory: set
+Example : https://www.facebook.com/media/set/?set=SET_ID
+
+FacebookUserExtractor
+Extractor for Facebook Profiles
+Category: facebook - Subcategory: user
+Example : https://www.facebook.com/USERNAME
+
+FacebookVideoExtractor
+Base class for Facebook Video extractors
+Category: facebook - Subcategory: video
+Example : https://www.facebook.com/watch/?v=VIDEO_ID
+
+FanboxCreatorExtractor
+Extractor for a pixivFANBOX creator's works
+Category: fanbox - Subcategory: creator
+Example : https://USER.fanbox.cc/
+
+FanboxHomeExtractor
+Extractor for your pixivFANBOX home feed
+Category: fanbox - Subcategory: home
+Example : https://fanbox.cc/
+
+FanboxPostExtractor
+Extractor for media from a single pixivFANBOX post
+Category: fanbox - Subcategory: post
+Example : https://USER.fanbox.cc/posts/12345
+
+FanboxRedirectExtractor
+Extractor for pixiv redirects to fanbox.cc
+Category: fanbox - Subcategory: redirect
+Example : https://www.pixiv.net/fanbox/creator/12345
+
+FanboxSupportingExtractor
+Extractor for your supported pixivFANBOX users feed
+Category: fanbox - Subcategory: supporting
+Example : https://fanbox.cc/home/supporting
+
+FanboxTagExtractor
+Extractor for a pixivFANBOX creator's tagged works
+Category: fanbox - Subcategory: tag
+Example : https://USER.fanbox.cc/tags/TAG
+
+FanslyCreatorMediaExtractor
+Category: fansly - Subcategory: creator-media
+Example : https://fansly.com/CREATOR/media
+
+FanslyCreatorPostsExtractor
+Category: fansly - Subcategory: creator-posts
+Example : https://fansly.com/CREATOR/posts
+
+FanslyHomeExtractor
+Category: fansly - Subcategory: home
+Example : https://fansly.com/home
+
+FanslyListExtractor
+Category: fansly - Subcategory: list
+Example : https://fansly.com/lists/1234567890
+
+FanslyListsExtractor
+Category: fansly - Subcategory: lists
+Example : https://fansly.com/lists
+
+FanslyPostExtractor
+Category: fansly - Subcategory: post
+Example : https://fansly.com/post/1234567890
+
+FantiaCreatorExtractor
+Extractor for a Fantia creator's works
+Category: fantia - Subcategory: creator
+Example : https://fantia.jp/fanclubs/12345
+
+FantiaPostExtractor
+Extractor for media from a single Fantia post
+Category: fantia - Subcategory: post
+Example : https://fantia.jp/posts/12345
+
+FantiaSupportingExtractor
+Extractor for free and paid supporting fanclubs for the current user
+Category: fantia - Subcategory: supporting
+Example : https://fantia.jp/mypage/users/plans
+
+FapachiPostExtractor
+Extractor for individual posts on fapachi.com
+Category: fapachi - Subcategory: post
+Example : https://fapachi.com/MODEL/media/12345
+
+FapachiUserExtractor
+Extractor for all posts from a fapachi user
+Category: fapachi - Subcategory: user
+Example : https://fapachi.com/MODEL
+
+FapelloModelExtractor
+Extractor for all posts from a fapello model
+Category: fapello - Subcategory: model
+Example : https://fapello.com/model/
+
+FapelloPathExtractor
+Extractor for models and posts from fapello.com paths
+Category: fapello - Subcategory: path
+Example : https://fapello.com/trending/
+
+FapelloPostExtractor
+Extractor for individual posts on fapello.com
+Category: fapello - Subcategory: post
+Example : https://fapello.com/MODEL/12345/
+
+FappicImageExtractor
+Extractor for single images from fappic.com
+Category: fappic - Subcategory: image
+Example : https://fappic.com/abcde12345/NAME.EXT
+
+FikfapHashtagExtractor
+Category: fikfap - Subcategory: hashtag
+Example : https://fikfap.com/hash/HASH
+
+FikfapPostExtractor
+Category: fikfap - Subcategory: post
+Example : https://fikfap.com/user/USER/post/12345
+
+FikfapUserExtractor
+Category: fikfap - Subcategory: user
+Example : https://fikfap.com/user/USER
+
+FilesterFileExtractor
+Category: filester - Subcategory: file
+Example : https://filester.me/d/ID
+
+FilesterFolderExtractor
+Category: filester - Subcategory: folder
+Example : https://filester.me/f/ID
+
+FitnakedgirlsBlogExtractor
+Extractor for fitnakedgirls blog posts
+Category: fitnakedgirls - Subcategory: blog
+Example : https://fitnakedgirls.com/fitblog/MODEL-NAME/
+
+FitnakedgirlsCategoryExtractor
+Extractor for fitnakedgirls category pages
+Category: fitnakedgirls - Subcategory: category
+Example : https://fitnakedgirls.com/photos/gallery/category/CATEGORY/
+
+FitnakedgirlsGalleryExtractor
+Extractor for fitnakedgirls galleries
+Category: fitnakedgirls - Subcategory: gallery
+Example : https://fitnakedgirls.com/photos/gallery/MODEL-nude/
+
+FitnakedgirlsTagExtractor
+Extractor for fitnakedgirls tag pages
+Category: fitnakedgirls - Subcategory: tag
+Example : https://fitnakedgirls.com/photos/gallery/tag/TAG/
+
+FitnakedgirlsVideoExtractor
+Extractor for fitnakedgirls video posts
+Category: fitnakedgirls - Subcategory: video
+Example : https://fitnakedgirls.com/videos/2025/08/VIDEO-TITLE/
+
+FlickrAlbumExtractor
+Extractor for photo albums from flickr.com
+Category: flickr - Subcategory: album
+Example : https://www.flickr.com/photos/USER/albums/12345
+
+FlickrFavoriteExtractor
+Extractor for favorite photos of a flickr user
+Category: flickr - Subcategory: favorite
+Example : https://www.flickr.com/photos/USER/favorites
+
+FlickrGalleryExtractor
+Extractor for photo galleries from flickr.com
+Category: flickr - Subcategory: gallery
+Example : https://www.flickr.com/photos/USER/galleries/12345/
+
+FlickrGroupExtractor
+Extractor for group pools from flickr.com
+Category: flickr - Subcategory: group
+Example : https://www.flickr.com/groups/NAME/
+
+FlickrImageExtractor
+Extractor for individual images from flickr.com
+Category: flickr - Subcategory: image
+Example : https://www.flickr.com/photos/USER/12345
+
+FlickrSearchExtractor
+Extractor for flickr photos based on search results
+Category: flickr - Subcategory: search
+Example : https://flickr.com/search/?text=QUERY
+
+FlickrUserExtractor
+Extractor for the photostream of a flickr user
+Category: flickr - Subcategory: user
+Example : https://www.flickr.com/photos/USER/
+
+FoolfuukaBoardExtractor
+Base extractor for FoolFuuka based boards/archives
+Category:  - Subcategory: board
+Example : https://archived.moe/a/
+
+FoolfuukaGalleryExtractor
+Base extractor for FoolFuuka galleries
+Category:  - Subcategory: gallery
+Example : https://archived.moe/a/gallery
+
+FoolfuukaSearchExtractor
+Base extractor for search results on FoolFuuka based boards/archives
+Category:  - Subcategory: search
+Example : https://archived.moe/_/search/text/QUERY/
+
+FoolfuukaThreadExtractor
+Base extractor for threads on FoolFuuka based boards/archives
+Category:  - Subcategory: thread
+Example : https://archived.moe/a/thread/12345/
+
+FoolslideChapterExtractor
+Base class for chapter extractors for FoOlSlide based sites
+Category:  - Subcategory: chapter
+Example : https://read.powermanga.org/read/MANGA/en/0/123/
+
+FoolslideMangaExtractor
+Base class for manga extractors for FoOlSlide based sites
+Category:  - Subcategory: manga
+Example : https://read.powermanga.org/series/MANGA/
+
+ForiioUserExtractor
+Category: foriio - Subcategory: user
+Example : https://foriio.com/USER
+
+ForiioWorkExtractor
+Category: foriio - Subcategory: work
+Example : https://www.foriio.com/works/12345
+
+FramedscImageExtractor
+Extractor for single framedsc image
+Category: framedsc - Subcategory: image
+Example : https://framedsc.com/HallOfFramed/?imageId=12345
+
+FramedscRawExtractor
+Extractor for single framedsc image (raw image link)
+Category: framedsc - Subcategory: raw
+Example : https://cdn.framedsc.com/images/12345_NAME.EXT
+
+FramedscSearchExtractor
+Extractor for framedsc image searches
+Category: framedsc - Subcategory: search
+Example : https://framedsc.com/HallOfFramed/?author=AUTHOR&title=TITLE
+
+FuraffinityFavoriteExtractor
+Extractor for a furaffinity user's favorites
+Category: furaffinity - Subcategory: favorite
+Example : https://www.furaffinity.net/favorites/USER/
+
+FuraffinityFolderExtractor
+Extractor for a FurAffinity folder
+Category: furaffinity - Subcategory: folder
+Example : https://www.furaffinity.net/gallery/USER/folder/12345/FOLDER
+
+FuraffinityFollowingExtractor
+Extractor for a furaffinity user's watched users
+Category: furaffinity - Subcategory: following
+Example : https://www.furaffinity.net/watchlist/by/USER/
+
+FuraffinityGalleryExtractor
+Extractor for a furaffinity user's gallery
+Category: furaffinity - Subcategory: gallery
+Example : https://www.furaffinity.net/gallery/USER/
+
+FuraffinityPostExtractor
+Extractor for individual posts on furaffinity
+Category: furaffinity - Subcategory: post
+Example : https://www.furaffinity.net/view/12345/
+
+FuraffinityScrapsExtractor
+Extractor for a furaffinity user's scraps
+Category: furaffinity - Subcategory: scraps
+Example : https://www.furaffinity.net/scraps/USER/
+
+FuraffinitySearchExtractor
+Extractor for furaffinity search results
+Category: furaffinity - Subcategory: search
+Example : https://www.furaffinity.net/search/?q=QUERY
+
+FuraffinitySubmissionsExtractor
+Extractor for new furaffinity submissions
+Category: furaffinity - Subcategory: submissions
+Example : https://www.furaffinity.net/msg/submissions
+
+FuraffinityUserExtractor
+Extractor for furaffinity user profiles
+Category: furaffinity - Subcategory: user
+Example : https://www.furaffinity.net/user/USER/
+
+Furry34PlaylistExtractor
+Category: furry34 - Subcategory: playlist
+Example : https://furry34.com/playlists/view/12345
+
+Furry34PostExtractor
+Category: furry34 - Subcategory: post
+Example : https://furry34.com/post/12345
+
+Furry34TagExtractor
+Category: furry34 - Subcategory: tag
+Example : https://furry34.com/TAG
+
+FuskatorGalleryExtractor
+Extractor for image galleries on fuskator.com
+Category: fuskator - Subcategory: gallery
+Example : https://fuskator.com/thumbs/ID/
+
+FuskatorSearchExtractor
+Extractor for search results on fuskator.com
+Category: fuskator - Subcategory: search
+Example : https://fuskator.com/search/TAG/
+
+GelbooruFavoriteExtractor
+Extractor for gelbooru favorites
+Category: gelbooru - Subcategory: favorite
+Example : https://gelbooru.com/index.php?page=favorites&s=view&id=12345
+
+GelbooruPoolExtractor
+Extractor for gelbooru pools
+Category: gelbooru - Subcategory: pool
+Example : https://gelbooru.com/index.php?page=pool&s=show&id=12345
+
+GelbooruPostExtractor
+Extractor for single images from gelbooru.com
+Category: gelbooru - Subcategory: post
+Example : https://gelbooru.com/index.php?page=post&s=view&id=12345
+
+GelbooruRedirectExtractor
+Category: gelbooru - Subcategory: redirect
+Example : https://gelbooru.com/redirect.php?s=BASE64
+
+GelbooruTagExtractor
+Extractor for images from gelbooru.com based on search-tags
+Category: gelbooru - Subcategory: tag
+Example : https://gelbooru.com/index.php?page=post&s=list&tags=TAG
+
+GelbooruV01FavoriteExtractor
+Category:  - Subcategory: favorite
+Example : https://allgirl.booru.org/index.php?page=favorites&s=view&id=1
+
+GelbooruV01PostExtractor
+Category:  - Subcategory: post
+Example : https://allgirl.booru.org/index.php?page=post&s=view&id=12345
+
+GelbooruV01TagExtractor
+Category:  - Subcategory: tag
+Example : https://allgirl.booru.org/index.php?page=post&s=list&tags=TAG
+
+GelbooruV02FavoriteExtractor
+Category:  - Subcategory: favorite
+Example : https://safebooru.org/index.php?page=favorites&s=view&id=12345
+
+GelbooruV02PoolExtractor
+Category:  - Subcategory: pool
+Example : https://safebooru.org/index.php?page=pool&s=show&id=12345
+
+GelbooruV02PostExtractor
+Category:  - Subcategory: post
+Example : https://safebooru.org/index.php?page=post&s=view&id=12345
+
+GelbooruV02TagExtractor
+Category:  - Subcategory: tag
+Example : https://safebooru.org/index.php?page=post&s=list&tags=TAG
+
+GenericExtractor
+Extractor for images in a generic web page.
+Category: generic - Subcategory: 
+Example : generic:https://www.nongnu.org/lzip/
+
+GirlsreleasedModelExtractor
+Extractor for girlsreleased models
+Category: girlsreleased - Subcategory: model
+Example : https://girlsreleased.com/model/12345/MODEL
+
+GirlsreleasedSetExtractor
+Extractor for girlsreleased galleries
+Category: girlsreleased - Subcategory: set
+Example : https://girlsreleased.com/set/12345
+
+GirlsreleasedSiteExtractor
+Extractor for girlsreleased sites
+Category: girlsreleased - Subcategory: site
+Example : https://girlsreleased.com/site/SITE
+
+GirlswithmusclePostExtractor
+Extractor for individual posts on girlswithmuscle.com
+Category: girlswithmuscle - Subcategory: post
+Example : https://www.girlswithmuscle.com/12345/
+
+GirlswithmuscleSearchExtractor
+Extractor for search results on girlswithmuscle.com
+Category: girlswithmuscle - Subcategory: search
+Example : https://www.girlswithmuscle.com/images/?name=MODEL
+
+GofileFolderExtractor
+Category: gofile - Subcategory: folder
+Example : https://gofile.io/d/ID
+
+GoonboxAlbumExtractor
+Category: goonbox - Subcategory: album
+Example : https://goonbox.cr/a/ID
+
+GoonboxImageExtractor
+Category: goonbox - Subcategory: image
+Example : https://goonbox.cr/img/ID
+
+HarvardlawnurembergDocumentExtractor
+Extractor for documents on nuremberg.law.harvard.edu
+Category: harvardlawnuremberg - Subcategory: document
+Example : https://nuremberg.law.harvard.edu/documents/12345-SLUG
+
+HatenablogArchiveExtractor
+Extractor for a blog's archive page
+Category: hatenablog - Subcategory: archive
+Example : https://BLOG.hatenablog.com/archive/2024
+
+HatenablogEntryExtractor
+Extractor for a single entry URL
+Category: hatenablog - Subcategory: entry
+Example : https://BLOG.hatenablog.com/entry/PATH
+
+HatenablogHomeExtractor
+Extractor for a blog's home page
+Category: hatenablog - Subcategory: home
+Example : https://BLOG.hatenablog.com
+
+HatenablogSearchExtractor
+Extractor for a blog's search results
+Category: hatenablog - Subcategory: search
+Example : https://BLOG.hatenablog.com/search?q=QUERY
+
+HdoujinFavoriteExtractor
+Category: hdoujin - Subcategory: favorite
+Example : https://hdoujin.org/favorites
+
+HdoujinGalleryExtractor
+Category: hdoujin - Subcategory: gallery
+Example : https://hdoujin.org/g/12345/67890abcdef/
+
+HdoujinSearchExtractor
+Category: hdoujin - Subcategory: search
+Example : https://hdoujin.org/browse?s=QUERY
+
+Hentai2readChapterExtractor
+Extractor for a single manga chapter from hentai2read.com
+Category: hentai2read - Subcategory: chapter
+Example : https://hentai2read.com/TITLE/1/
+
+Hentai2readMangaExtractor
+Extractor for hmanga from hentai2read.com
+Category: hentai2read - Subcategory: manga
+Example : https://hentai2read.com/TITLE/
+
+HentaicosplaysGalleryExtractor
+Extractor for image galleries from
+hentai-cosplay-xxx.com, hentai-img-xxx.com, and porn-image.com
+Category:  - Subcategory: gallery
+Example : https://hentai-cosplay-xxx.com/image/TITLE/
+
+HentaifoundryFavoriteExtractor
+Extractor for favorite images of a hentaifoundry user
+Category: hentaifoundry - Subcategory: favorite
+Example : https://www.hentai-foundry.com/user/USER/faves/pictures
+
+HentaifoundryImageExtractor
+Extractor for a single image from hentaifoundry.com
+Category: hentaifoundry - Subcategory: image
+Example : https://www.hentai-foundry.com/pictures/user/USER/12345/TITLE
+
+HentaifoundryPicturesExtractor
+Extractor for all pictures of a hentaifoundry user
+Category: hentaifoundry - Subcategory: pictures
+Example : https://www.hentai-foundry.com/pictures/user/USER
+
+HentaifoundryPopularExtractor
+Extractor for popular images on hentaifoundry.com
+Category: hentaifoundry - Subcategory: popular
+Example : https://www.hentai-foundry.com/pictures/popular
+
+HentaifoundryRecentExtractor
+Extractor for 'Recent Pictures' on hentaifoundry.com
+Category: hentaifoundry - Subcategory: recent
+Example : https://www.hentai-foundry.com/pictures/recent/1970-01-01
+
+HentaifoundryScrapsExtractor
+Extractor for scraps of a hentaifoundry user
+Category: hentaifoundry - Subcategory: scraps
+Example : https://www.hentai-foundry.com/pictures/user/USER/scraps
+
+HentaifoundryStoriesExtractor
+Extractor for stories of a hentaifoundry user
+Category: hentaifoundry - Subcategory: stories
+Example : https://www.hentai-foundry.com/stories/user/USER
+
+HentaifoundryStoryExtractor
+Extractor for a hentaifoundry story
+Category: hentaifoundry - Subcategory: story
+Example : https://www.hentai-foundry.com/stories/user/USER/12345/TITLE
+
+HentaifoundryTagExtractor
+Extractor for tag searches on hentaifoundry.com
+Category: hentaifoundry - Subcategory: tag
+Example : https://www.hentai-foundry.com/pictures/tagged/TAG
+
+HentaifoundryUserExtractor
+Extractor for a hentaifoundry user profile
+Category: hentaifoundry - Subcategory: user
+Example : https://www.hentai-foundry.com/user/USER/profile
+
+HentaihandGalleryExtractor
+Extractor for image galleries on hentaihand.com
+Category: hentaihand - Subcategory: gallery
+Example : https://hentaihand.com/en/comic/TITLE
+
+HentaihandTagExtractor
+Extractor for tag searches on hentaihand.com
+Category: hentaihand - Subcategory: tag
+Example : https://hentaihand.com/en/tag/TAG
+
+HentaihereChapterExtractor
+Extractor for a single manga chapter from hentaihere.com
+Category: hentaihere - Subcategory: chapter
+Example : https://hentaihere.com/m/S12345/1/1/
+
+HentaihereMangaExtractor
+Extractor for hmanga from hentaihere.com
+Category: hentaihere - Subcategory: manga
+Example : https://hentaihere.com/m/S12345
+
+HentainexusGalleryExtractor
+Extractor for hentainexus galleries
+Category: hentainexus - Subcategory: gallery
+Example : https://hentainexus.com/view/12345
+
+HentainexusSearchExtractor
+Extractor for hentainexus search results
+Category: hentainexus - Subcategory: search
+Example : https://hentainexus.com/?q=QUERY
+
+HiperdexArtistExtractor
+Extractor for an artists's manga on hiperdex
+Category: hiperdex - Subcategory: artist
+Example : https://hiperdex.com/manga-artist/NAME/
+
+HiperdexChapterExtractor
+Extractor for hiperdex manga chapters
+Category: hiperdex - Subcategory: chapter
+Example : https://hiperdex.com/manga/MANGA/CHAPTER/
+
+HiperdexMangaExtractor
+Extractor for hiperdex manga
+Category: hiperdex - Subcategory: manga
+Example : https://hiperdex.com/manga/MANGA/
+
+HitomiGalleryExtractor
+Extractor for hitomi.la galleries
+Category: hitomi - Subcategory: gallery
+Example : https://hitomi.la/manga/TITLE-867789.html
+
+HitomiIndexExtractor
+Extractor for galleries from index searches on hitomi.la
+Category: hitomi - Subcategory: index
+Example : https://hitomi.la/index-LANG.html
+
+HitomiSearchExtractor
+Extractor for galleries from multiple tag searches on hitomi.la
+Category: hitomi - Subcategory: search
+Example : https://hitomi.la/search.html?QUERY
+
+HitomiTagExtractor
+Extractor for galleries from tag searches on hitomi.la
+Category: hitomi - Subcategory: tag
+Example : https://hitomi.la/tag/TAG-LANG.html
+
+HotleakCategoryExtractor
+Extractor for hotleak categories
+Category: hotleak - Subcategory: category
+Example : https://hotleak.vip/photos
+
+HotleakCreatorExtractor
+Extractor for all posts from a hotleak creator
+Category: hotleak - Subcategory: creator
+Example : https://hotleak.vip/MODEL
+
+HotleakPostExtractor
+Extractor for individual posts on hotleak
+Category: hotleak - Subcategory: post
+Example : https://hotleak.vip/MODEL/photo/12345
+
+HotleakSearchExtractor
+Extractor for hotleak search results
+Category: hotleak - Subcategory: search
+Example : https://hotleak.vip/search?search=QUERY
+
+IdolcomplexPoolExtractor
+Extractor for idolcomplex pools
+Category: idolcomplex - Subcategory: pool
+Example : https://www.idolcomplex.com/en/pools/0123456789abcdef
+
+IdolcomplexPostExtractor
+Extractor for individual idolcomplex posts
+Category: idolcomplex - Subcategory: post
+Example : https://www.idolcomplex.com/en/posts/0123456789abcdef
+
+IdolcomplexTagExtractor
+Extractor for idolcomplex tag searches
+Category: idolcomplex - Subcategory: tag
+Example : https://www.idolcomplex.com/en/posts?tags=TAGS
+
+ImagebamGalleryExtractor
+Extractor for imagebam galleries
+Category: imagebam - Subcategory: gallery
+Example : https://www.imagebam.com/view/GID
+
+ImagebamImageExtractor
+Extractor for single imagebam images
+Category: imagebam - Subcategory: image
+Example : https://www.imagebam.com/view/MID
+
+ImagechestGalleryExtractor
+Extractor for image galleries from imgchest.com
+Category: imagechest - Subcategory: gallery
+Example : https://imgchest.com/p/abcdefghijk
+
+ImagechestUserExtractor
+Extractor for imgchest.com user profiles
+Category: imagechest - Subcategory: user
+Example : https://imgchest.com/u/USER
+
+ImagefapFolderExtractor
+Extractor for imagefap user folders
+Category: imagefap - Subcategory: folder
+Example : https://www.imagefap.com/organizer/12345
+
+ImagefapGalleryExtractor
+Extractor for image galleries from imagefap.com
+Category: imagefap - Subcategory: gallery
+Example : https://www.imagefap.com/gallery/12345
+
+ImagefapImageExtractor
+Extractor for single images from imagefap.com
+Category: imagefap - Subcategory: image
+Example : https://www.imagefap.com/photo/12345
+
+ImagefapUserExtractor
+Extractor for an imagefap user profile
+Category: imagefap - Subcategory: user
+Example : https://www.imagefap.com/profile/USER
+
+ImagepondAlbumExtractor
+Category: imagepond - Subcategory: album
+Example : https://www.imagepond.net/a/ID
+
+ImagepondFileExtractor
+Category: imagepond - Subcategory: file
+Example : https://www.imagepond.net/i/ID
+
+ImagepondUserExtractor
+Category: imagepond - Subcategory: user
+Example : https://www.imagepond.net/user/USER
+
+ImageshackGalleryExtractor
+Category: imageshack - Subcategory: gallery
+Example : https://imageshack.com/a/ID
+
+ImageshackImageExtractor
+Category: imageshack - Subcategory: image
+Example : https://imageshack.com/i/ID
+
+ImageshackUserExtractor
+Category: imageshack - Subcategory: user
+Example : https://imageshack.com/user/USER
+
+ImagetwistGalleryExtractor
+Extractor for galleries from imagetwist.com
+Category: imagetwist - Subcategory: gallery
+Example : https://imagetwist.com/p/USER/12345/TITLE
+
+ImagetwistImageExtractor
+Extractor for single images from imagetwist.com
+Category: imagetwist - Subcategory: image
+Example : https://imagetwist.com/123456abcdef/NAME.EXT
+
+ImagevenueImageExtractor
+Extractor for single images from imagevenue.com
+Category: imagevenue - Subcategory: image
+Example : https://www.imagevenue.com/ME123456789
+
+ImgadultImageExtractor
+Extractor for single images from imgadult.com
+Category: imgadult - Subcategory: image
+Example : https://imgadult.com/img-0123456789abc.html
+
+ImgbbAlbumExtractor
+Extractor for imgbb albums
+Category: imgbb - Subcategory: album
+Example : https://ibb.co/album/ID
+
+ImgbbImageExtractor
+Category: imgbb - Subcategory: image
+Example : https://ibb.co/ID
+
+ImgbbUserExtractor
+Extractor for imgbb user profiles
+Category: imgbb - Subcategory: user
+Example : https://USER.imgbb.com
+
+ImgboxGalleryExtractor
+Extractor for image galleries from imgbox.com
+Category: imgbox - Subcategory: gallery
+Example : https://imgbox.com/g/12345abcde
+
+ImgboxImageExtractor
+Extractor for single images from imgbox.com
+Category: imgbox - Subcategory: image
+Example : https://imgbox.com/1234abcd
+
+ImgclickImageExtractor
+Extractor for single images from imgclick.net
+Category: imgclick - Subcategory: image
+Example : http://imgclick.net/abc123/NAME.EXT.html
+
+ImgdriveImageExtractor
+Extractor for single images from imgdrive.net
+Category: imgdrive - Subcategory: image
+Example : https://imgdrive.net/img-0123456789abc.html
+
+ImgpilePostExtractor
+Category: imgpile - Subcategory: post
+Example : https://imgpile.com/p/AbCdEfG
+
+ImgpileUserExtractor
+Category: imgpile - Subcategory: user
+Example : https://imgpile.com/u/USER
+
+ImgpvImageExtractor
+Extractor for imgpv.com images
+Category: imgpv - Subcategory: image
+Example : https://www.imgpv.com/a1b2c3d4f5g6/NAME.EXT.html
+
+ImgspiceImageExtractor
+Extractor for single images from imgspice.com
+Category: imgspice - Subcategory: image
+Example : https://imgspice.com/ID/NAME.EXT.html
+
+ImgthGalleryExtractor
+Extractor for image galleries from imgth.com
+Category: imgth - Subcategory: gallery
+Example : https://imgth.com/gallery/123/TITLE
+
+ImgurAlbumExtractor
+Extractor for imgur albums
+Category: imgur - Subcategory: album
+Example : https://imgur.com/a/abcde
+
+ImgurFavoriteExtractor
+Extractor for a user's favorites
+Category: imgur - Subcategory: favorite
+Example : https://imgur.com/user/USER/favorites
+
+ImgurFavoriteFolderExtractor
+Extractor for a user's favorites folder
+Category: imgur - Subcategory: favorite-folder
+Example : https://imgur.com/user/USER/favorites/folder/12345/TITLE
+
+ImgurGalleryExtractor
+Extractor for imgur galleries
+Category: imgur - Subcategory: gallery
+Example : https://imgur.com/gallery/abcde
+
+ImgurImageExtractor
+Extractor for individual images on imgur.com
+Category: imgur - Subcategory: image
+Example : https://imgur.com/abcdefg
+
+ImgurMeExtractor
+Extractor for your personal uploads
+Category: imgur - Subcategory: me
+Example : https://imgur.com/user/me
+
+ImgurSearchExtractor
+Extractor for imgur search results
+Category: imgur - Subcategory: search
+Example : https://imgur.com/search?q=UERY
+
+ImgurSubredditExtractor
+Extractor for a subreddits's imgur links
+Category: imgur - Subcategory: subreddit
+Example : https://imgur.com/r/SUBREDDIT
+
+ImgurTagExtractor
+Extractor for imgur tag searches
+Category: imgur - Subcategory: tag
+Example : https://imgur.com/t/TAG
+
+ImgurUserExtractor
+Extractor for all images posted by a user
+Category: imgur - Subcategory: user
+Example : https://imgur.com/user/USER
+
+ImhentaiGalleryExtractor
+Extractor for imhentai galleries
+Category:  - Subcategory: gallery
+Example : https://imhentai.xxx/gallery/12345/
+
+ImhentaiSearchExtractor
+Extractor for imhentai search results
+Category:  - Subcategory: search
+Example : https://imhentai.xxx/search/?key=QUERY
+
+ImhentaiTagExtractor
+Extractor for imhentai tag searches
+Category:  - Subcategory: tag
+Example : https://imhentai.xxx/tag/TAG/
+
+ImxtoGalleryExtractor
+Extractor for image galleries from imx.to
+Category: imxto - Subcategory: gallery
+Example : https://imx.to/g/ID
+
+ImxtoImageExtractor
+Extractor for single images from imx.to
+Category: imxto - Subcategory: image
+Example : https://imx.to/i/ID
+
+InkbunnyFavoriteExtractor
+Extractor for inkbunny user favorites
+Category: inkbunny - Subcategory: favorite
+Example : https://inkbunny.net/userfavorites_process.php?favs_user_id=12345
+
+InkbunnyFollowingExtractor
+Extractor for inkbunny user watches
+Category: inkbunny - Subcategory: following
+Example : https://inkbunny.net/watchlist_process.php?mode=watching&user_id=12345
+
+InkbunnyPoolExtractor
+Extractor for inkbunny pools
+Category: inkbunny - Subcategory: pool
+Example : https://inkbunny.net/poolview_process.php?pool_id=12345
+
+InkbunnyPostExtractor
+Extractor for individual Inkbunny posts
+Category: inkbunny - Subcategory: post
+Example : https://inkbunny.net/s/12345
+
+InkbunnySearchExtractor
+Extractor for inkbunny search results
+Category: inkbunny - Subcategory: search
+Example : https://inkbunny.net/submissionsviewall.php?text=TAG&mode=search&type=
+
+InkbunnyUnreadExtractor
+Extractor for unread inkbunny submissions
+Category: inkbunny - Subcategory: unread
+Example : https://inkbunny.net/submissionsviewall.php?text=&mode=unreadsubs&type=
+
+InkbunnyUserExtractor
+Extractor for inkbunny user profiles
+Category: inkbunny - Subcategory: user
+Example : https://inkbunny.net/USER
+
+InstagramAvatarExtractor
+Extractor for an Instagram user's avatar
+Category: instagram - Subcategory: avatar
+Example : https://www.instagram.com/USER/avatar/
+
+InstagramCollectionExtractor
+Extractor for Instagram collection
+Category: instagram - Subcategory: collection
+Example : https://www.instagram.com/USER/saved/COLLECTION/12345
+
+InstagramFollowersExtractor
+Extractor for an Instagram user's followers
+Category: instagram - Subcategory: followers
+Example : https://www.instagram.com/USER/followers/
+
+InstagramFollowingExtractor
+Extractor for an Instagram user's followed users
+Category: instagram - Subcategory: following
+Example : https://www.instagram.com/USER/following/
+
+InstagramGuideExtractor
+Extractor for an Instagram guide
+Category: instagram - Subcategory: guide
+Example : https://www.instagram.com/USER/guide/NAME/12345
+
+InstagramHighlightsExtractor
+Extractor for an Instagram user's story highlights
+Category: instagram - Subcategory: highlights
+Example : https://www.instagram.com/USER/highlights/
+
+InstagramInfoExtractor
+Extractor for an Instagram user's profile data
+Category: instagram - Subcategory: info
+Example : https://www.instagram.com/USER/info/
+
+InstagramPhotosExtractor
+Extractor for an Instagram user's photos
+Category: instagram - Subcategory: photos
+Example : https://www.instagram.com/USER/photos/
+
+InstagramPostExtractor
+Extractor for an Instagram post
+Category: instagram - Subcategory: post
+Example : https://www.instagram.com/p/abcdefg/
+
+InstagramPostsExtractor
+Extractor for an Instagram user's posts
+Category: instagram - Subcategory: posts
+Example : https://www.instagram.com/USER/posts/
+
+InstagramReelsExtractor
+Extractor for an Instagram user's reels
+Category: instagram - Subcategory: reels
+Example : https://www.instagram.com/USER/reels/
+
+InstagramSavedExtractor
+Extractor for an Instagram user's saved media
+Category: instagram - Subcategory: saved
+Example : https://www.instagram.com/USER/saved/
+
+InstagramStoriesExtractor
+Extractor for Instagram stories
+Category: instagram - Subcategory: stories
+Example : https://www.instagram.com/stories/USER/
+
+InstagramStoriesTrayExtractor
+Extractor for your Instagram account's stories tray
+Category: instagram - Subcategory: stories-tray
+Example : https://www.instagram.com/stories/me/
+
+InstagramTagExtractor
+Extractor for Instagram tags
+Category: instagram - Subcategory: tag
+Example : https://www.instagram.com/explore/tags/TAG/
+
+InstagramTaggedExtractor
+Extractor for an Instagram user's tagged posts
+Category: instagram - Subcategory: tagged
+Example : https://www.instagram.com/USER/tagged/
+
+InstagramUserExtractor
+Extractor for an Instagram user profile
+Category: instagram - Subcategory: user
+Example : https://www.instagram.com/USER/
+
+IssuuPublicationExtractor
+Extractor for a single publication
+Category: issuu - Subcategory: publication
+Example : https://issuu.com/issuu/docs/TITLE/
+
+IssuuUserExtractor
+Extractor for all publications of a user/publisher
+Category: issuu - Subcategory: user
+Example : https://issuu.com/USER
+
+ItakuBookmarksExtractor
+Extractor for an itaku bookmarks folder
+Category: itaku - Subcategory: bookmarks
+Example : https://itaku.ee/profile/USER/bookmarks/image/12345
+
+ItakuFollowersExtractor
+Category: itaku - Subcategory: followers
+Example : https://itaku.ee/profile/USER/followers
+
+ItakuFollowingExtractor
+Category: itaku - Subcategory: following
+Example : https://itaku.ee/profile/USER/following
+
+ItakuGalleryExtractor
+Extractor for an itaku user's gallery
+Category: itaku - Subcategory: gallery
+Example : https://itaku.ee/profile/USER/gallery
+
+ItakuImageExtractor
+Category: itaku - Subcategory: image
+Example : https://itaku.ee/images/12345
+
+ItakuPostExtractor
+Category: itaku - Subcategory: post
+Example : https://itaku.ee/posts/12345
+
+ItakuPostsExtractor
+Extractor for an itaku user's posts
+Category: itaku - Subcategory: posts
+Example : https://itaku.ee/profile/USER/posts
+
+ItakuSearchExtractor
+Category: itaku - Subcategory: search
+Example : https://itaku.ee/home/images?tags=SEARCH
+
+ItakuStarsExtractor
+Extractor for an itaku user's starred images
+Category: itaku - Subcategory: stars
+Example : https://itaku.ee/profile/USER/stars
+
+ItakuUserExtractor
+Extractor for itaku user profiles
+Category: itaku - Subcategory: user
+Example : https://itaku.ee/profile/USER
+
+ItchioGameExtractor
+Extractor for itch.io games
+Category: itchio - Subcategory: game
+Example : https://USER.itch.io/GAME
+
+IwaraFavoriteExtractor
+Category: iwara - Subcategory: favorite
+Example : https://www.iwara.tv/favorites/videos
+
+IwaraFollowersExtractor
+Category: iwara - Subcategory: followers
+Example : https://www.iwara.tv/profile/USERNAME/followers
+
+IwaraFollowingExtractor
+Category: iwara - Subcategory: following
+Example : https://www.iwara.tv/profile/USERNAME/following
+
+IwaraImageExtractor
+Extractor for individual iwara.tv image pages
+Category: iwara - Subcategory: image
+Example : https://www.iwara.tv/image/ID
+
+IwaraPlaylistExtractor
+Extractor for individual iwara.tv playlist pages
+Category: iwara - Subcategory: playlist
+Example : https://www.iwara.tv/playlist/ID
+
+IwaraSearchExtractor
+Extractor for iwara.tv search pages
+Category: iwara - Subcategory: search
+Example : https://www.iwara.tv/search?query=QUERY&type=TYPE
+
+IwaraTagExtractor
+Extractor for iwara.tv tag search
+Category: iwara - Subcategory: tag
+Example : https://www.iwara.tv/videos?tags=TAGS
+
+IwaraUserExtractor
+Extractor for iwara.tv profile pages
+Category: iwara - Subcategory: user
+Example : https://www.iwara.tv/profile/USERNAME
+
+IwaraUserImagesExtractor
+Category: iwara - Subcategory: user-images
+Example : https://www.iwara.tv/profile/USERNAME/images
+
+IwaraUserPlaylistsExtractor
+Category: iwara - Subcategory: user-playlists
+Example : https://www.iwara.tv/profile/USERNAME/playlists
+
+IwaraUserVideosExtractor
+Category: iwara - Subcategory: user-videos
+Example : https://www.iwara.tv/profile/USERNAME/videos
+
+IwaraVideoExtractor
+Extractor for individual iwara.tv videos
+Category: iwara - Subcategory: video
+Example : https://www.iwara.tv/video/ID
+
+JoyreactorPostExtractor
+Extractor for single joyreactor posts
+Category: joyreactor - Subcategory: post
+Example : http://joyreactor.com/post/12345
+
+JoyreactorSearchExtractor
+Extractor for joyreactor search results
+Category: joyreactor - Subcategory: search
+Example : http://joyreactor.com/search/TAG
+
+JoyreactorTagExtractor
+Extractor for joyreactor tag searches
+Category: joyreactor - Subcategory: tag
+Example : http://joyreactor.com/tag/TAG
+
+JoyreactorUserExtractor
+Extractor for posts of a joyreactor user
+Category: joyreactor - Subcategory: user
+Example : http://joyreactor.com/user/USER
+
+JschanBoardExtractor
+Extractor for jschan boards
+Category:  - Subcategory: board
+Example : https://94chan.org/a/
+
+JschanThreadExtractor
+Extractor for jschan threads
+Category:  - Subcategory: thread
+Example : https://94chan.org/a/thread/12345.html
+
+KabeuchiUserExtractor
+Extractor for all posts of a user on kabe-uchiroom.com
+Category: kabeuchi - Subcategory: user
+Example : https://kabe-uchiroom.com/mypage/?id=12345
+
+KaliscanChapterExtractor
+Extractor for kaliscan manga chapters
+Category: kaliscan - Subcategory: chapter
+Example : https://kaliscan.me/manga/ID-MANGA/chapter-1
+
+KaliscanMangaExtractor
+Extractor for kaliscan manga
+Category: kaliscan - Subcategory: manga
+Example : https://kaliscan.me/manga/ID-MANGA
+
+KeenspotComicExtractor
+Extractor for webcomics from keenspot.com
+Category: keenspot - Subcategory: comic
+Example : http://COMIC.keenspot.com/
+
+KemonoArtistsExtractor
+Extractor for kemono artists
+Category: kemono - Subcategory: artists
+Example : https://kemono.cr/artists
+
+KemonoDiscordExtractor
+Extractor for kemono.cr discord servers
+Category: kemono - Subcategory: discord
+Example : https://kemono.cr/discord/server/12345/12345
+
+KemonoDiscordServerExtractor
+Category: kemono - Subcategory: discord-server
+Example : https://kemono.cr/discord/server/12345
+
+KemonoFavoriteExtractor
+Extractor for kemono.cr favorites
+Category: kemono - Subcategory: favorite
+Example : https://kemono.cr/account/favorites/artists
+
+KemonoPostExtractor
+Extractor for a single kemono.cr post
+Category: kemono - Subcategory: post
+Example : https://kemono.cr/SERVICE/user/12345/post/12345
+
+KemonoPostsExtractor
+Extractor for kemono.cr post listings
+Category: kemono - Subcategory: posts
+Example : https://kemono.cr/posts
+
+KemonoUserExtractor
+Extractor for all posts from a kemono.cr user listing
+Category: kemono - Subcategory: user
+Example : https://kemono.cr/SERVICE/user/12345
+
+KhinsiderSoundtrackExtractor
+Extractor for soundtracks from khinsider.com
+Category: khinsider - Subcategory: soundtrack
+Example : https://downloads.khinsider.com/game-soundtracks/album/TITLE
+
+KomikcastChapterExtractor
+Extractor for komikcast manga chapters
+Category: komikcast - Subcategory: chapter
+Example : https://komikcast.li/chapter/TITLE/
+
+KomikcastMangaExtractor
+Extractor for komikcast manga
+Category: komikcast - Subcategory: manga
+Example : https://komikcast.li/komik/TITLE
+
+KoofrSharedExtractor
+Base class for koofr extractors
+Category: koofr - Subcategory: shared
+Example : https://app.koofr.net/links/UUID
+
+LeakgalleryMostlikedExtractor
+Extractor for most liked posts on leakgallery.com
+Category: leakgallery - Subcategory: mostliked
+Example : https://leakgallery.com/most-liked
+
+LeakgalleryPostExtractor
+Extractor for individual posts on leakgallery.com
+Category: leakgallery - Subcategory: post
+Example : https://leakgallery.com/CREATOR/12345
+
+LeakgalleryTrendingExtractor
+Extractor for trending posts on leakgallery.com
+Category: leakgallery - Subcategory: trending
+Example : https://leakgallery.com/trending-medias/Week
+
+LeakgalleryUserExtractor
+Extractor for profile posts on leakgallery.com
+Category: leakgallery - Subcategory: user
+Example : https://leakgallery.com/creator
+
+LensdumpAlbumExtractor
+Category: lensdump - Subcategory: album
+Example : https://lensdump.com/a/ID
+
+LensdumpAlbumsExtractor
+Extractor for album list from lensdump.com
+Category: lensdump - Subcategory: albums
+Example : https://lensdump.com/USER
+
+LensdumpImageExtractor
+Extractor for individual images on lensdump.com
+Category: lensdump - Subcategory: image
+Example : https://lensdump.com/i/ID
+
+LexicaSearchExtractor
+Extractor for lexica.art search results
+Category: lexica - Subcategory: search
+Example : https://lexica.art/?q=QUERY
+
+LightroomGalleryExtractor
+Extractor for an image gallery on lightroom.adobe.com
+Category: lightroom - Subcategory: gallery
+Example : https://lightroom.adobe.com/shares/0123456789abcdef
+
+ListalImageExtractor
+Extractor for listal pictures
+Category: listal - Subcategory: image
+Example : https://www.listal.com/viewimage/12345678
+
+ListalPeopleExtractor
+Extractor for listal people pictures
+Category: listal - Subcategory: people
+Example : https://www.listal.com/NAME/pictures
+
+LivedoorBlogExtractor
+Extractor for a user's blog on blog.livedoor.jp
+Category: livedoor - Subcategory: blog
+Example : http://blog.livedoor.jp/USER/
+
+LivedoorPostExtractor
+Extractor for images from a blog post on blog.livedoor.jp
+Category: livedoor - Subcategory: post
+Example : http://blog.livedoor.jp/USER/archives/12345.html
+
+LofterBlogPostsExtractor
+Extractor for a lofter blog's posts
+Category: lofter - Subcategory: blog-posts
+Example : https://BLOG.lofter.com/
+
+LofterPostExtractor
+Extractor for a lofter post
+Category: lofter - Subcategory: post
+Example : https://BLOG.lofter.com/post/12345678_90abcdef
+
+LolisafeAlbumExtractor
+Category:  - Subcategory: album
+Example : https://xbunkr.com/a/ID
+
+LusciousAlbumExtractor
+Extractor for image albums from luscious.net
+Category: luscious - Subcategory: album
+Example : https://luscious.net/albums/TITLE_12345/
+
+LusciousSearchExtractor
+Extractor for album searches on luscious.net
+Category: luscious - Subcategory: search
+Example : https://luscious.net/albums/list/?tagged=TAG
+
+LynxchanBoardExtractor
+Extractor for LynxChan boards
+Category:  - Subcategory: board
+Example : https://endchan.org/a/
+
+LynxchanThreadExtractor
+Extractor for LynxChan threads
+Category:  - Subcategory: thread
+Example : https://endchan.org/a/res/12345.html
+
+MadokamiMangaExtractor
+Extractor for madokami manga
+Category: madokami - Subcategory: manga
+Example : https://manga.madokami.al/Manga/A/AB/ABCD/ABCDE_TITLE
+
+MangadexAuthorExtractor
+Extractor for mangadex authors
+Category: mangadex - Subcategory: author
+Example : https://mangadex.org/author/01234567-89ab-cdef-0123-456789abcdef/NAME
+
+MangadexChapterExtractor
+Extractor for manga-chapters from mangadex.org
+Category: mangadex - Subcategory: chapter
+Example : https://mangadex.org/chapter/01234567-89ab-cdef-0123-456789abcdef
+
+MangadexCoversExtractor
+Extractor for mangadex manga covers
+Category: mangadex - Subcategory: covers
+Example : https://mangadex.org/title/01234567-89ab-cdef-0123-456789abcdef?tab=art
+
+MangadexFeedExtractor
+Extractor for chapters from your Updates Feed
+Category: mangadex - Subcategory: feed
+Example : https://mangadex.org/title/feed
+
+MangadexFollowingExtractor
+Extractor for followed manga from your Library
+Category: mangadex - Subcategory: following
+Example : https://mangadex.org/title/follows
+
+MangadexListExtractor
+Extractor for mangadex MDLists
+Category: mangadex - Subcategory: list
+Example : https://mangadex.org/list/01234567-89ab-cdef-0123-456789abcdef/NAME
+
+MangadexMangaExtractor
+Extractor for manga from mangadex.org
+Category: mangadex - Subcategory: manga
+Example : https://mangadex.org/title/01234567-89ab-cdef-0123-456789abcdef
+
+MangafireChapterExtractor
+Extractor for mangafire manga chapters
+Category: mangafire - Subcategory: chapter
+Example : https://mangafire.to/read/MANGA.ID/LANG/chapter-123
+
+MangafireMangaExtractor
+Extractor for mangafire manga
+Category: mangafire - Subcategory: manga
+Example : https://mangafire.to/manga/MANGA.ID
+
+MangafoxChapterExtractor
+Extractor for manga chapters from fanfox.net
+Category: mangafox - Subcategory: chapter
+Example : https://fanfox.net/manga/TITLE/v01/c001/1.html
+
+MangafoxMangaExtractor
+Extractor for manga from fanfox.net
+Category: mangafox - Subcategory: manga
+Example : https://fanfox.net/manga/TITLE
+
+MangafreakChapterExtractor
+Extractor for mangafreak manga chapters
+Category: mangafreak - Subcategory: chapter
+Example : https://ww2.mangafreak.me/Read1_Onepunch_Man_1
+
+MangafreakMangaExtractor
+Extractor for mangafreak manga series
+Category: mangafreak - Subcategory: manga
+Example : https://ww2.mangafreak.me/Manga/Onepunch_Man
+
+MangahereChapterExtractor
+Extractor for manga-chapters from mangahere.cc
+Category: mangahere - Subcategory: chapter
+Example : https://www.mangahere.cc/manga/TITLE/c001/1.html
+
+MangahereMangaExtractor
+Extractor for manga from mangahere.cc
+Category: mangahere - Subcategory: manga
+Example : https://www.mangahere.cc/manga/TITLE
+
+ManganeloBookmarkExtractor
+Extractor for manganelo bookmarks
+Category:  - Subcategory: bookmark
+Example : https://www.mangakakalot.gg/bookmark
+
+ManganeloChapterExtractor
+Extractor for manganelo manga chapters
+Category:  - Subcategory: chapter
+Example : https://www.mangakakalot.gg/manga/MANGA_NAME/chapter-123
+
+ManganeloMangaExtractor
+Extractor for manganelo manga
+Category:  - Subcategory: manga
+Example : https://www.mangakakalot.gg/manga/MANGA_NAME
+
+MangaparkChapterExtractor
+Extractor for manga-chapters from mangapark.net
+Category: mangapark - Subcategory: chapter
+Example : https://mangapark.net/title/MANGA/12345-en-ch.01
+
+MangaparkMangaExtractor
+Extractor for manga from mangapark.net
+Category: mangapark - Subcategory: manga
+Example : https://mangapark.net/title/12345-MANGA
+
+MangareadChapterExtractor
+Extractor for manga-chapters from mangaread.org
+Category: mangaread - Subcategory: chapter
+Example : https://www.mangaread.org/manga/MANGA/chapter-01/
+
+MangareadMangaExtractor
+Extractor for manga from mangaread.org
+Category: mangaread - Subcategory: manga
+Example : https://www.mangaread.org/manga/MANGA
+
+MangareaderChapterExtractor
+Extractor for mangareader manga chapters
+Category: mangareader - Subcategory: chapter
+Example : https://mangareader.to/read/MANGA-123/LANG/chapter-123
+
+MangareaderMangaExtractor
+Extractor for mangareader manga
+Category: mangareader - Subcategory: manga
+Example : https://mangareader.to/MANGA-123
+
+MangataroChapterExtractor
+Extractor for mangataro manga chapters
+Category: mangataro - Subcategory: chapter
+Example : https://mangataro.org/read/MANGA/ch123-12345
+
+MangataroMangaExtractor
+Extractor for mangataro manga
+Category: mangataro - Subcategory: manga
+Example : https://mangataro.org/manga/MANGA
+
+MangatownChapterExtractor
+Extractor for manga-chapters from mangatown.com
+Category: mangatown - Subcategory: chapter
+Example : https://www.mangatown.com/manga/TITLE/c001/1.html
+
+MangatownMangaExtractor
+Extractor for manga from mangatown.com
+Category: mangatown - Subcategory: manga
+Example : https://www.mangatown.com/manga/TITLE
+
+MangoxoAlbumExtractor
+Extractor for albums on mangoxo.com
+Category: mangoxo - Subcategory: album
+Example : https://www.mangoxo.com/album/ID
+
+MangoxoChannelExtractor
+Extractor for all albums on a mangoxo channel
+Category: mangoxo - Subcategory: channel
+Example : https://www.mangoxo.com/USER/album
+
+MastodonBookmarkExtractor
+Extractor for mastodon bookmarks
+Category:  - Subcategory: bookmark
+Example : https://mastodon.social/bookmarks
+
+MastodonFavoriteExtractor
+Extractor for mastodon favorites
+Category:  - Subcategory: favorite
+Example : https://mastodon.social/favourites
+
+MastodonFollowingExtractor
+Extractor for followed mastodon users
+Category:  - Subcategory: following
+Example : https://mastodon.social/@USER/following
+
+MastodonHashtagExtractor
+Extractor for mastodon hashtags
+Category:  - Subcategory: hashtag
+Example : https://mastodon.social/tags/NAME
+
+MastodonListExtractor
+Extractor for mastodon lists
+Category:  - Subcategory: list
+Example : https://mastodon.social/lists/12345
+
+MastodonStatusExtractor
+Extractor for images from a status
+Category:  - Subcategory: status
+Example : https://mastodon.social/@USER/12345
+
+MastodonUserExtractor
+Extractor for all images of an account/user
+Category:  - Subcategory: user
+Example : https://mastodon.social/@USER
+
+MisskeyAvatarExtractor
+Extractor for a Misskey user's avatar
+Category:  - Subcategory: avatar
+Example : https://misskey.io/@USER/avatar
+
+MisskeyBackgroundExtractor
+Extractor for a Misskey user's banner image
+Category:  - Subcategory: background
+Example : https://misskey.io/@USER/banner
+
+MisskeyFavoriteExtractor
+Extractor for favorited notes
+Category:  - Subcategory: favorite
+Example : https://misskey.io/my/favorites
+
+MisskeyFollowingExtractor
+Extractor for followed Misskey users
+Category:  - Subcategory: following
+Example : https://misskey.io/@USER/following
+
+MisskeyInfoExtractor
+Extractor for a Misskey user's profile data
+Category:  - Subcategory: info
+Example : https://misskey.io/@USER/info
+
+MisskeyNoteExtractor
+Extractor for images from a Note
+Category:  - Subcategory: note
+Example : https://misskey.io/notes/98765
+
+MisskeyNotesExtractor
+Extractor for a Misskey user's notes
+Category:  - Subcategory: notes
+Example : https://misskey.io/@USER/notes
+
+MisskeyUserExtractor
+Extractor for all images of a Misskey user
+Category:  - Subcategory: user
+Example : https://misskey.io/@USER
+
+MixdropFileExtractor
+Extractor for mixdrop files
+Category: mixdrop - Subcategory: file
+Example : https://mixdrop.ag/f/0123456789abcdef
+
+MoebooruPoolExtractor
+Category:  - Subcategory: pool
+Example : https://yande.re/pool/show/12345
+
+MoebooruPopularExtractor
+Category:  - Subcategory: popular
+Example : https://yande.re/post/popular_by_month?year=YYYY&month=MM
+
+MoebooruPostExtractor
+Category:  - Subcategory: post
+Example : https://yande.re/post/show/12345
+
+MoebooruTagExtractor
+Category:  - Subcategory: tag
+Example : https://yande.re/post?tags=TAG
+
+MotherlessGalleryExtractor
+Extractor for a motherless.xxx gallery
+Category: motherless - Subcategory: gallery
+Example : https://motherless.xxx/GABC123
+
+MotherlessGroupExtractor
+Category: motherless - Subcategory: group
+Example : https://motherless.xxx/g/abc123
+
+MotherlessMediaExtractor
+Extractor for a single image/video from motherless.xxx
+Category: motherless - Subcategory: media
+Example : https://motherless.xxx/ABC123
+
+MyhentaigalleryGalleryExtractor
+Extractor for image galleries from myhentaigallery.com
+Category: myhentaigallery - Subcategory: gallery
+Example : https://myhentaigallery.com/a/12345
+
+MyhentaigalleryTagExtractor
+Extractor for myhentaigallery tag searches
+Category: myhentaigallery - Subcategory: tag
+Example : https://myhentaigallery.com/a/category/123
+
+MyportfolioGalleryExtractor
+Extractor for an image gallery on www.myportfolio.com
+Category: myportfolio - Subcategory: gallery
+Example : https://USER.myportfolio.com/TITLE
+
+NaverBlogBlogExtractor
+Extractor for a user's blog on blog.naver.com
+Category: naver-blog - Subcategory: blog
+Example : https://blog.naver.com/BLOGID
+
+NaverBlogPostExtractor
+Extractor for blog posts on blog.naver.com
+Category: naver-blog - Subcategory: post
+Example : https://blog.naver.com/BLOGID/12345
+
+NaverChzzkCommentExtractor
+Extractor for individual comment from chzzk.naver.com
+Category: naver-chzzk - Subcategory: comment
+Example : https://chzzk.naver.com/0123456789abcdef/community/detail/12345
+
+NaverChzzkCommunityExtractor
+Extractor for comments from chzzk.naver.com
+Category: naver-chzzk - Subcategory: community
+Example : https://chzzk.naver.com/0123456789abcdef/community
+
+NaverWebtoonComicExtractor
+Category: naver-webtoon - Subcategory: comic
+Example : https://comic.naver.com/webtoon/list?titleId=12345
+
+NaverWebtoonEpisodeExtractor
+Category: naver-webtoon - Subcategory: episode
+Example : https://comic.naver.com/webtoon/detail?titleId=12345&no=1
+
+NekohousePostExtractor
+Category: nekohouse - Subcategory: post
+Example : https://nekohouse.su/SERVICE/user/12345/post/12345
+
+NekohouseUserExtractor
+Category: nekohouse - Subcategory: user
+Example : https://nekohouse.su/SERVICE/user/12345
+
+NewgroundsArtExtractor
+Extractor for all images of a newgrounds user
+Category: newgrounds - Subcategory: art
+Example : https://USER.newgrounds.com/art
+
+NewgroundsAudioExtractor
+Extractor for all audio submissions of a newgrounds user
+Category: newgrounds - Subcategory: audio
+Example : https://USER.newgrounds.com/audio
+
+NewgroundsFavoriteExtractor
+Extractor for posts favorited by a newgrounds user
+Category: newgrounds - Subcategory: favorite
+Example : https://USER.newgrounds.com/favorites
+
+NewgroundsFollowingExtractor
+Extractor for a newgrounds user's favorited users
+Category: newgrounds - Subcategory: following
+Example : https://USER.newgrounds.com/favorites/following
+
+NewgroundsGamesExtractor
+Extractor for a newgrounds user's games
+Category: newgrounds - Subcategory: games
+Example : https://USER.newgrounds.com/games
+
+NewgroundsImageExtractor
+Extractor for a single image from newgrounds.com
+Category: newgrounds - Subcategory: image
+Example : https://www.newgrounds.com/art/view/USER/TITLE
+
+NewgroundsMediaExtractor
+Extractor for a media file from newgrounds.com
+Category: newgrounds - Subcategory: media
+Example : https://www.newgrounds.com/portal/view/12345
+
+NewgroundsMoviesExtractor
+Extractor for all movies of a newgrounds user
+Category: newgrounds - Subcategory: movies
+Example : https://USER.newgrounds.com/movies
+
+NewgroundsSearchExtractor
+Extractor for newgrounds.com search reesults
+Category: newgrounds - Subcategory: search
+Example : https://www.newgrounds.com/search/conduct/art?terms=QUERY
+
+NewgroundsUserExtractor
+Extractor for a newgrounds user profile
+Category: newgrounds - Subcategory: user
+Example : https://USER.newgrounds.com
+
+NhentaiFavoriteExtractor
+Extractor for nhentai favorites
+Category: nhentai - Subcategory: favorite
+Example : https://nhentai.net/favorites/
+
+NhentaiGalleryExtractor
+Extractor for image galleries from nhentai.net
+Category: nhentai - Subcategory: gallery
+Example : https://nhentai.net/g/12345/
+
+NhentaiSearchExtractor
+Extractor for nhentai search results
+Category: nhentai - Subcategory: search
+Example : https://nhentai.net/search/?q=QUERY
+
+NhentaiTagExtractor
+Extractor for nhentai tag searches
+Category: nhentai - Subcategory: tag
+Example : https://nhentai.net/tag/TAG/
+
+NijieDoujinExtractor
+Extractor for doujin entries of a nijie user
+Category:  - Subcategory: doujin
+Example : https://nijie.info/members_dojin.php?id=12345
+
+NijieFavoriteExtractor
+Extractor for all favorites/bookmarks of a nijie user
+Category:  - Subcategory: favorite
+Example : https://nijie.info/user_like_illust_view.php?id=12345
+
+NijieFeedExtractor
+Extractor for nijie liked user feed
+Category:  - Subcategory: feed
+Example : https://nijie.info/like_user_view.php
+
+NijieFollowedExtractor
+Extractor for followed nijie users
+Category:  - Subcategory: followed
+Example : https://nijie.info/like_my.php
+
+NijieIllustrationExtractor
+Extractor for all illustrations of a nijie-user
+Category:  - Subcategory: illustration
+Example : https://nijie.info/members_illust.php?id=12345
+
+NijieImageExtractor
+Extractor for a nijie work/image
+Category:  - Subcategory: image
+Example : https://nijie.info/view.php?id=12345
+
+NijieNuitaExtractor
+Extractor for a nijie user's ??? list
+Category:  - Subcategory: nuita
+Example : https://nijie.info/history_nuita.php?id=12345
+
+NijieUserExtractor
+Extractor for nijie user profiles
+Category:  - Subcategory: user
+Example : https://nijie.info/members.php?id=12345
+
+NitterMediaExtractor
+Category:  - Subcategory: media
+Example : https://nitter.net/USER/media
+
+NitterRepliesExtractor
+Category:  - Subcategory: replies
+Example : https://nitter.net/USER/with_replies
+
+NitterSearchExtractor
+Category:  - Subcategory: search
+Example : https://nitter.net/USER/search
+
+NitterTweetExtractor
+Extractor for nitter tweets
+Category:  - Subcategory: tweet
+Example : https://nitter.net/USER/status/12345
+
+NitterTweetsExtractor
+Category:  - Subcategory: tweets
+Example : https://nitter.net/USER
+
+NoopExtractor
+Category: noop - Subcategory: 
+Example : noop
+
+NozomiIndexExtractor
+Extractor for the nozomi.la index
+Category: nozomi - Subcategory: index
+Example : https://nozomi.la/index-1.html
+
+NozomiPostExtractor
+Extractor for individual posts on nozomi.la
+Category: nozomi - Subcategory: post
+Example : https://nozomi.la/post/12345.html
+
+NozomiSearchExtractor
+Extractor for search results on nozomi.la
+Category: nozomi - Subcategory: search
+Example : https://nozomi.la/search.html?q=QUERY
+
+NozomiTagExtractor
+Extractor for posts from tag searches on nozomi.la
+Category: nozomi - Subcategory: tag
+Example : https://nozomi.la/tag/TAG-1.html
+
+NsfwalbumAlbumExtractor
+Extractor for image albums on nsfwalbum.com
+Category: nsfwalbum - Subcategory: album
+Example : https://nsfwalbum.com/album/12345
+
+NsfwalbumImageExtractor
+Extractor for single nsfwalbum.com images
+Category: nsfwalbum - Subcategory: image
+Example : https://nsfwalbum.com/photo/12345
+
+NudostarImageExtractor
+Extractor for NudoStar images
+Category: nudostar - Subcategory: image
+Example : https://nudostar.tv/models/MODEL/123/
+
+NudostarModelExtractor
+Extractor for NudoStar models
+Category: nudostar - Subcategory: model
+Example : https://nudostar.tv/models/MODEL/
+
+OAuthDeviantart
+Category: oauth - Subcategory: deviantart
+Example : oauth:deviantart
+
+OAuthFlickr
+Category: oauth - Subcategory: flickr
+Example : oauth:flickr
+
+OAuthMastodon
+Category: oauth - Subcategory: mastodon
+Example : oauth:mastodon:mastodon.social
+
+OAuthPixiv
+Category: oauth - Subcategory: pixiv
+Example : oauth:pixiv
+
+OAuthReddit
+Category: oauth - Subcategory: reddit
+Example : oauth:reddit
+
+OAuthSmugmug
+Category: oauth - Subcategory: smugmug
+Example : oauth:smugmug
+
+OAuthTumblr
+Category: oauth - Subcategory: tumblr
+Example : oauth:tumblr
+
+OkpornGalleryExtractor
+Extractor for image galleries from ok.porn
+Category: okporn - Subcategory: gallery
+Example : https://ok.porn/albums/12345/
+
+PahealPostExtractor
+Extractor for single images from rule34.paheal.net
+Category: paheal - Subcategory: post
+Example : https://rule34.paheal.net/post/view/12345
+
+PahealTagExtractor
+Extractor for images from rule34.paheal.net by search-tags
+Category: paheal - Subcategory: tag
+Example : https://rule34.paheal.net/post/list/TAG/1
+
+PatreonCollectionExtractor
+Extractor for a patreon collection
+Category: patreon - Subcategory: collection
+Example : https://www.patreon.com/collection/12345
+
+PatreonCreatorExtractor
+Extractor for a creator's works
+Category: patreon - Subcategory: creator
+Example : https://www.patreon.com/c/USER
+
+PatreonPostExtractor
+Extractor for media from a single post
+Category: patreon - Subcategory: post
+Example : https://www.patreon.com/posts/TITLE-12345
+
+PatreonUserExtractor
+Extractor for media from creators supported by you
+Category: patreon - Subcategory: user
+Example : https://www.patreon.com/home
+
+PawchiveArtistsExtractor
+Extractor for pawchive artists
+Category: pawchive - Subcategory: artists
+Example : https://pawchive.st/artists
+
+PawchiveFavoriteExtractor
+Extractor for pawchive favorites
+Category: pawchive - Subcategory: favorite
+Example : https://pawchive.st/favorites
+
+PawchivePostExtractor
+Extractor for a single pawchive post
+Category: pawchive - Subcategory: post
+Example : https://pawchive.st/SERVICE/user/12345/post/12345
+
+PawchivePostsExtractor
+Extractor for pawchive post listings
+Category: pawchive - Subcategory: posts
+Example : https://pawchive.st/posts
+
+PawchiveUserExtractor
+Extractor for all posts from a pawchive user listing
+Category: pawchive - Subcategory: user
+Example : https://pawchive.st/SERVICE/user/12345
+
+PexelsCollectionExtractor
+Extractor for a pexels.com collection
+Category: pexels - Subcategory: collection
+Example : https://www.pexels.com/collections/SLUG-a1b2c3/
+
+PexelsImageExtractor
+Category: pexels - Subcategory: image
+Example : https://www.pexels.com/photo/SLUG-12345/
+
+PexelsSearchExtractor
+Extractor for pexels.com search results
+Category: pexels - Subcategory: search
+Example : https://www.pexels.com/search/QUERY/
+
+PexelsUserExtractor
+Extractor for pexels.com user galleries
+Category: pexels - Subcategory: user
+Example : https://www.pexels.com/@USER-12345/
+
+PhilomenaGalleryExtractor
+Extractor for Philomena galleries
+Category:  - Subcategory: gallery
+Example : https://derpibooru.org/galleries/12345
+
+PhilomenaPostExtractor
+Extractor for single posts on a Philomena booru
+Category:  - Subcategory: post
+Example : https://derpibooru.org/images/12345
+
+PhilomenaSearchExtractor
+Extractor for Philomena search results
+Category:  - Subcategory: search
+Example : https://derpibooru.org/search?q=QUERY
+
+PholderSearchExtractor
+Extractor for URLs from pholder-stored posts for a search
+Category: pholder - Subcategory: search
+Example : https://www.pholder.com/SEARCH
+
+PholderSubredditExtractor
+Extractor for media from pholder-stored posts for a subreddit
+Category: pholder - Subcategory: subreddit
+Example : https://pholder.com/r/SUBREDDIT
+
+PholderUserExtractor
+Extractor for URLs from pholder-stored posts for a reddit user
+Category: pholder - Subcategory: user
+Example : https://www.pholder.com/u/USER
+
+PhotovogueUserExtractor
+Category: photovogue - Subcategory: user
+Example : https://www.vogue.com/photovogue/photographers/12345
+
+PicartoGalleryExtractor
+Extractor for picarto galleries
+Category: picarto - Subcategory: gallery
+Example : https://picarto.tv/USER/gallery/TITLE/
+
+PicazorUserExtractor
+Extractor for picazor users
+Category: picazor - Subcategory: user
+Example : https://picazor.com/en/USERNAME
+
+PicstateImageExtractor
+Extractor for single images from picstate.com
+Category: picstate - Subcategory: image
+Example : https://picstate.com/view/full/123
+
+PictoaAlbumExtractor
+Extractor for image albums from pictoa.com
+Category: pictoa - Subcategory: album
+Example : https://www.pictoa.com/albums/NAME-12345.html
+
+PictoaImageExtractor
+Extractor for single images from pictoa.com
+Category: pictoa - Subcategory: image
+Example : https://www.pictoa.com/albums/NAME-12345/12345.html
+
+PiczelFolderExtractor
+Extractor for images inside a user's folder
+Category: piczel - Subcategory: folder
+Example : https://piczel.tv/gallery/USER/12345
+
+PiczelImageExtractor
+Extractor for individual images
+Category: piczel - Subcategory: image
+Example : https://piczel.tv/gallery/image/12345
+
+PiczelUserExtractor
+Extractor for all images from a user's gallery
+Category: piczel - Subcategory: user
+Example : https://piczel.tv/gallery/USER
+
+PillowfortPostExtractor
+Extractor for a single pillowfort post
+Category: pillowfort - Subcategory: post
+Example : https://www.pillowfort.social/posts/12345
+
+PillowfortUserExtractor
+Extractor for all posts of a pillowfort user
+Category: pillowfort - Subcategory: user
+Example : https://www.pillowfort.social/USER
+
+PinterestAllpinsExtractor
+Extractor for a user's 'All Pins' feed
+Category: pinterest - Subcategory: allpins
+Example : https://www.pinterest.com/USER/pins/
+
+PinterestBoardExtractor
+Extractor for images from a board from pinterest.com
+Category: pinterest - Subcategory: board
+Example : https://www.pinterest.com/USER/BOARD/
+
+PinterestCreatedExtractor
+Extractor for a user's created pins
+Category: pinterest - Subcategory: created
+Example : https://www.pinterest.com/USER/_created/
+
+PinterestPinExtractor
+Extractor for images from a single pin from pinterest.com
+Category: pinterest - Subcategory: pin
+Example : https://www.pinterest.com/pin/12345/
+
+PinterestPinitExtractor
+Extractor for images from a pin.it URL
+Category: pinterest - Subcategory: pinit
+Example : https://pin.it/abcde
+
+PinterestRelatedBoardExtractor
+Extractor for related pins of a board from pinterest.com
+Category: pinterest - Subcategory: related-board
+Example : https://www.pinterest.com/USER/BOARD/#related
+
+PinterestRelatedPinExtractor
+Extractor for related pins of another pin from pinterest.com
+Category: pinterest - Subcategory: related-pin
+Example : https://www.pinterest.com/pin/12345/#related
+
+PinterestSearchExtractor
+Extractor for Pinterest search results
+Category: pinterest - Subcategory: search
+Example : https://www.pinterest.com/search/pins/?q=QUERY
+
+PinterestSectionExtractor
+Extractor for board sections on pinterest.com
+Category: pinterest - Subcategory: section
+Example : https://www.pinterest.com/USER/BOARD/SECTION
+
+PinterestUserExtractor
+Extractor for a user's boards
+Category: pinterest - Subcategory: user
+Example : https://www.pinterest.com/USER/
+
+PixeldrainAlbumExtractor
+Extractor for pixeldrain albums
+Category: pixeldrain - Subcategory: album
+Example : https://pixeldrain.com/l/abcdefgh
+
+PixeldrainFileExtractor
+Extractor for pixeldrain files
+Category: pixeldrain - Subcategory: file
+Example : https://pixeldrain.com/u/abcdefgh
+
+PixeldrainFolderExtractor
+Extractor for pixeldrain filesystem files and directories
+Category: pixeldrain - Subcategory: folder
+Example : https://pixeldrain.com/d/abcdefgh
+
+PixhostGalleryExtractor
+Extractor for image galleries from pixhost.cc
+Category: pixhost - Subcategory: gallery
+Example : https://pixhost.cc/gallery/ID
+
+PixhostImageExtractor
+Extractor for single images from pixhost.cc
+Category: pixhost - Subcategory: image
+Example : https://pixhost.cc/show/123/12345_NAME.EXT
+
+PixivArtworksExtractor
+Extractor for artworks of a pixiv user
+Category: pixiv - Subcategory: artworks
+Example : https://www.pixiv.net/en/users/12345/artworks
+
+PixivAvatarExtractor
+Extractor for pixiv avatars
+Category: pixiv - Subcategory: avatar
+Example : https://www.pixiv.net/en/users/12345/avatar
+
+PixivBackgroundExtractor
+Extractor for pixiv background banners
+Category: pixiv - Subcategory: background
+Example : https://www.pixiv.net/en/users/12345/background
+
+PixivFavoriteExtractor
+Extractor for all favorites/bookmarks of a pixiv user
+Category: pixiv - Subcategory: favorite
+Example : https://www.pixiv.net/en/users/12345/bookmarks/artworks
+
+PixivFollowedExtractor
+Extractor for new illustrations from your followed artists
+Category: pixiv - Subcategory: followed
+Example : https://www.pixiv.net/bookmark_new_illust.php
+
+PixivMeExtractor
+Extractor for pixiv.me URLs
+Category: pixiv - Subcategory: me
+Example : https://pixiv.me/USER
+
+PixivNovelBookmarkExtractor
+Extractor for bookmarked pixiv novels
+Category: pixiv-novel - Subcategory: bookmark
+Example : https://www.pixiv.net/en/users/12345/bookmarks/novels
+
+PixivNovelNovelExtractor
+Extractor for pixiv novels
+Category: pixiv-novel - Subcategory: novel
+Example : https://www.pixiv.net/novel/show.php?id=12345
+
+PixivNovelSeriesExtractor
+Extractor for pixiv novel series
+Category: pixiv-novel - Subcategory: series
+Example : https://www.pixiv.net/novel/series/12345
+
+PixivNovelUserExtractor
+Extractor for pixiv users' novels
+Category: pixiv-novel - Subcategory: user
+Example : https://www.pixiv.net/en/users/12345/novels
+
+PixivPixivisionExtractor
+Extractor for illustrations from a pixivision article
+Category: pixiv - Subcategory: pixivision
+Example : https://www.pixivision.net/en/a/12345
+
+PixivRankingExtractor
+Extractor for pixiv ranking pages
+Category: pixiv - Subcategory: ranking
+Example : https://www.pixiv.net/ranking.php
+
+PixivSearchExtractor
+Extractor for pixiv search results
+Category: pixiv - Subcategory: search
+Example : https://www.pixiv.net/en/tags/TAG
+
+PixivSeriesExtractor
+Extractor for illustrations from a Pixiv series
+Category: pixiv - Subcategory: series
+Example : https://www.pixiv.net/user/12345/series/12345
+
+PixivSketchExtractor
+Extractor for user pages on sketch.pixiv.net
+Category: pixiv - Subcategory: sketch
+Example : https://sketch.pixiv.net/@USER
+
+PixivUnlistedExtractor
+Extractor for a unlisted pixiv illustrations
+Category: pixiv - Subcategory: unlisted
+Example : https://www.pixiv.net/en/artworks/unlisted/a1b2c3d4e5f6g7h8i9j0
+
+PixivUserExtractor
+Extractor for a pixiv user profile
+Category: pixiv - Subcategory: user
+Example : https://www.pixiv.net/en/users/12345
+
+PixivWorkExtractor
+Extractor for a single pixiv work/illustration
+Category: pixiv - Subcategory: work
+Example : https://www.pixiv.net/artworks/12345
+
+PixnetFolderExtractor
+Extractor for all sets in a pixnet folder
+Category: pixnet - Subcategory: folder
+Example : https://USER.pixnet.net/album/folder/12345
+
+PixnetImageExtractor
+Extractor for a single photo from pixnet.net
+Category: pixnet - Subcategory: image
+Example : https://USER.pixnet.net/album/photo/12345
+
+PixnetSetExtractor
+Extractor for images from a pixnet set
+Category: pixnet - Subcategory: set
+Example : https://USER.pixnet.net/album/set/12345
+
+PixnetUserExtractor
+Extractor for all sets and folders of a pixnet user
+Category: pixnet - Subcategory: user
+Example : https://USER.pixnet.net/
+
+PlurkPostExtractor
+Extractor for a plurk post
+Category: plurk - Subcategory: post
+Example : https://www.plurk.com/p/12345
+
+PlurkTimelineExtractor
+Extractor for a plurk timeline
+Category: plurk - Subcategory: timeline
+Example : https://www.plurk.com/USER
+
+PoipikuPostExtractor
+Extractor for a poipiku post
+Category: poipiku - Subcategory: post
+Example : https://poipiku.com/12345/12345.html
+
+PoipikuUserExtractor
+Extractor for posts from a poipiku user
+Category: poipiku - Subcategory: user
+Example : https://poipiku.com/12345/
+
+PoringaPostExtractor
+Extractor for posts on poringa.net
+Category: poringa - Subcategory: post
+Example : http://www.poringa.net/posts/imagenes/12345/TITLE.html
+
+PoringaSearchExtractor
+Category: poringa - Subcategory: search
+Example : http://www.poringa.net/buscar/?q=QUERY
+
+PoringaUserExtractor
+Category: poringa - Subcategory: user
+Example : http://www.poringa.net/USER
+
+PornhubGalleryExtractor
+Extractor for image galleries on pornhub.com
+Category: pornhub - Subcategory: gallery
+Example : https://www.pornhub.com/album/12345
+
+PornhubGifExtractor
+Extractor for pornhub.com gifs
+Category: pornhub - Subcategory: gif
+Example : https://www.pornhub.com/gif/12345
+
+PornhubGifsExtractor
+Extractor for a pornhub user's gifs
+Category: pornhub - Subcategory: gifs
+Example : https://www.pornhub.com/model/USER/gifs
+
+PornhubPhotosExtractor
+Extractor for all galleries of a pornhub user
+Category: pornhub - Subcategory: photos
+Example : https://www.pornhub.com/model/USER/photos
+
+PornhubUserExtractor
+Extractor for a pornhub user
+Category: pornhub - Subcategory: user
+Example : https://www.pornhub.com/model/USER
+
+PornpicsCategoryExtractor
+Extractor for galleries from pornpics categories
+Category: pornpics - Subcategory: category
+Example : https://www.pornpics.com/ass/
+
+PornpicsGalleryExtractor
+Extractor for pornpics galleries
+Category: pornpics - Subcategory: gallery
+Example : https://www.pornpics.com/galleries/TITLE-12345/
+
+PornpicsListingExtractor
+Extractor for galleries from pornpics listing pages
+
+These pages (popular, recent, etc.) don't support JSON pagination
+and use single quotes in HTML, unlike category pages.
+
+Category: pornpics - Subcategory: listing
+Example : https://www.pornpics.com/popular/
+
+PornpicsSearchExtractor
+Extractor for galleries from pornpics search results
+Category: pornpics - Subcategory: search
+Example : https://www.pornpics.com/?q=QUERY
+
+PornpicsTagExtractor
+Extractor for galleries from pornpics tag searches
+Category: pornpics - Subcategory: tag
+Example : https://www.pornpics.com/tags/TAGS/
+
+PornstarstubeGalleryExtractor
+Extractor for image galleries from pornstars.tube
+Category: pornstarstube - Subcategory: gallery
+Example : https://pornstars.tube/albums/12345/SLUG/
+
+PostimgGalleryExtractor
+Extractor for images galleries from postimages.org
+Category: postimg - Subcategory: gallery
+Example : https://postimg.cc/gallery/ID
+
+PostimgImageExtractor
+Extractor for single images from postimages.org
+Category: postimg - Subcategory: image
+Example : https://postimg.cc/ID
+
+PostmillForumExtractor
+Extractor for submissions on a forum
+Category:  - Subcategory: forum
+Example : https://raddle.me/f/FORUM
+
+PostmillHomeExtractor
+Extractor for the home page
+Category:  - Subcategory: home
+Example : https://raddle.me/
+
+PostmillPostExtractor
+Extractor for a single submission URL
+Category:  - Subcategory: post
+Example : https://raddle.me/f/FORUM/123/TITLE
+
+PostmillSearchExtractor
+Extractor for search results
+Category:  - Subcategory: search
+Example : https://raddle.me/search?q=QUERY
+
+PostmillShortURLExtractor
+Extractor for short submission URLs
+Category:  - Subcategory: shorturl
+Example : https://raddle.me/123
+
+PostmillTagExtractor
+Extractor for submissions on a forum with a specific tag
+Category:  - Subcategory: tag
+Example : https://raddle.me/tag/TAG
+
+PostmillUserSubmissionsExtractor
+Extractor for submissions made by a user
+Category:  - Subcategory: usersubmissions
+Example : https://raddle.me/user/USER/submissions
+
+PostypeChannelExtractor
+Extractor for all posts of a postype channel
+Category: postype - Subcategory: channel
+Example : https://www.postype.com/@USER
+
+PostypePostExtractor
+Extractor for a single postype post
+Category: postype - Subcategory: post
+Example : https://www.postype.com/@USER/post/12345
+
+RawkumaChapterExtractor
+Extractor for manga chapters from rawkuma.net
+Category: rawkuma - Subcategory: chapter
+Example : https://rawkuma.net/manga/7TITLE/chapter-123.321
+
+RawkumaMangaExtractor
+Extractor for manga from rawkuma.net
+Category: rawkuma - Subcategory: manga
+Example : https://rawkuma.net/manga/TITLE/
+
+ReactorPostExtractor
+Extractor for single posts on *reactor.cc sites
+Category:  - Subcategory: post
+Example : http://reactor.cc/post/12345
+
+ReactorSearchExtractor
+Extractor for search results on *reactor.cc sites
+Category:  - Subcategory: search
+Example : http://reactor.cc/search?q=QUERY
+
+ReactorTagExtractor
+Extractor for tag searches on *reactor.cc sites
+Category:  - Subcategory: tag
+Example : http://reactor.cc/tag/TAG
+
+ReactorUserExtractor
+Extractor for all posts of a user on *reactor.cc sites
+Category:  - Subcategory: user
+Example : http://reactor.cc/user/USER
+
+ReadcomiconlineComicExtractor
+Extractor for comics from readcomiconline.li
+Category: readcomiconline - Subcategory: comic
+Example : https://readcomiconline.li/Comic/TITLE
+
+ReadcomiconlineIssueExtractor
+Extractor for comic-issues from readcomiconline.li
+Category: readcomiconline - Subcategory: issue
+Example : https://readcomiconline.li/Comic/TITLE/Issue-123?id=12345
+
+ReadcomiconlineTagExtractor
+Extractor for comics from readcomiconline.li lists
+Category: readcomiconline - Subcategory: tag
+Example : https://readcomiconline.li/Artist/NAME
+
+RealbooruFavoriteExtractor
+Category: realbooru - Subcategory: favorite
+Example : https://realbooru.com/index.php?page=favorites&s=view&id=12345
+
+RealbooruPoolExtractor
+Category: realbooru - Subcategory: pool
+Example : https://realbooru.com/index.php?page=pool&s=show&id=12345
+
+RealbooruPostExtractor
+Category: realbooru - Subcategory: post
+Example : https://realbooru.com/index.php?page=post&s=view&id=12345
+
+RealbooruTagExtractor
+Category: realbooru - Subcategory: tag
+Example : https://realbooru.com/index.php?page=post&s=list&tags=TAG
+
+RecursiveExtractor
+Extractor that fetches URLs from a remote or local source
+Category: recursive - Subcategory: 
+Example : recursive:https://pastebin.com/raw/FLwrCYsT
+
+RedditHomeExtractor
+Extractor for submissions from your home feed on reddit.com
+Category: reddit - Subcategory: home
+Example : https://www.reddit.com/
+
+RedditImageExtractor
+Extractor for reddit-hosted images
+Category: reddit - Subcategory: image
+Example : https://i.redd.it/NAME.EXT
+
+RedditRedirectExtractor
+Extractor for personalized share URLs produced by the mobile app
+Category: reddit - Subcategory: redirect
+Example : https://www.reddit.com/r/SUBREDDIT/s/abc456GHIJ
+
+RedditSubmissionExtractor
+Extractor for URLs from a submission on reddit.com
+Category: reddit - Subcategory: submission
+Example : https://www.reddit.com/r/SUBREDDIT/comments/id/
+
+RedditSubredditExtractor
+Extractor for URLs from subreddits on reddit.com
+Category: reddit - Subcategory: subreddit
+Example : https://www.reddit.com/r/SUBREDDIT/
+
+RedditUserExtractor
+Extractor for URLs from posts by a reddit user
+Category: reddit - Subcategory: user
+Example : https://www.reddit.com/user/USER/
+
+RedgifsCollectionExtractor
+Extractor for an individual user collection
+Category: redgifs - Subcategory: collection
+Example : https://www.redgifs.com/users/USER/collections/ID
+
+RedgifsCollectionsExtractor
+Extractor for redgifs user collections
+Category: redgifs - Subcategory: collections
+Example : https://www.redgifs.com/users/USER/collections
+
+RedgifsImageExtractor
+Extractor for individual gifs from redgifs.com
+Category: redgifs - Subcategory: image
+Example : https://redgifs.com/watch/ID
+
+RedgifsNichesExtractor
+Extractor for redgifs niches
+Category: redgifs - Subcategory: niches
+Example : https://www.redgifs.com/niches/NAME
+
+RedgifsSearchExtractor
+Extractor for redgifs search results
+Category: redgifs - Subcategory: search
+Example : https://www.redgifs.com/gifs/TAG
+
+RedgifsUserExtractor
+Extractor for redgifs user profiles
+Category: redgifs - Subcategory: user
+Example : https://www.redgifs.com/users/USER
+
+Rule34usPostExtractor
+Category: rule34us - Subcategory: post
+Example : https://rule34.us/index.php?r=posts/view&id=12345
+
+Rule34usTagExtractor
+Category: rule34us - Subcategory: tag
+Example : https://rule34.us/index.php?r=posts/index&q=TAG
+
+Rule34vaultPlaylistExtractor
+Category: rule34vault - Subcategory: playlist
+Example : https://rule34vault.com/playlists/view/12345
+
+Rule34vaultPostExtractor
+Category: rule34vault - Subcategory: post
+Example : https://rule34vault.com/post/12345
+
+Rule34vaultTagExtractor
+Category: rule34vault - Subcategory: tag
+Example : https://rule34vault.com/TAG
+
+Rule34xyzPlaylistExtractor
+Category: rule34xyz - Subcategory: playlist
+Example : https://rule34.xyz/playlists/view/12345
+
+Rule34xyzPostExtractor
+Category: rule34xyz - Subcategory: post
+Example : https://rule34.xyz/post/12345
+
+Rule34xyzTagExtractor
+Category: rule34xyz - Subcategory: tag
+Example : https://rule34.xyz/TAG
+
+S3ndpicsPostExtractor
+Category: s3ndpics - Subcategory: post
+Example : https://s3nd.pics/post/0123456789abcdef01234567
+
+S3ndpicsSearchExtractor
+Category: s3ndpics - Subcategory: search
+Example : https://s3nd.pics/search?QUERY
+
+S3ndpicsUserExtractor
+Category: s3ndpics - Subcategory: user
+Example : https://s3nd.pics/user/USER
+
+SankakuBooksExtractor
+Extractor for books by tag search on sankaku.app
+Category: sankaku - Subcategory: books
+Example : https://sankaku.app/books?tags=TAG
+
+SankakuPoolExtractor
+Extractor for image pools or books from sankaku.app
+Category: sankaku - Subcategory: pool
+Example : https://sankaku.app/books/12345
+
+SankakuPostExtractor
+Extractor for single posts from sankaku.app
+Category: sankaku - Subcategory: post
+Example : https://sankaku.app/post/show/12345
+
+SankakuTagExtractor
+Extractor for images from sankaku.app by search-tags
+Category: sankaku - Subcategory: tag
+Example : https://sankaku.app/?tags=TAG
+
+SankakucomplexArticleExtractor
+Extractor for articles on news.sankakucomplex.com
+Category: sankakucomplex - Subcategory: article
+Example : https://news.sankakucomplex.com/1970/01/01/TITLE
+
+SankakucomplexTagExtractor
+Extractor for sankakucomplex blog articles by tag or author
+Category: sankakucomplex - Subcategory: tag
+Example : https://news.sankakucomplex.com/tag/TAG/
+
+ScatbooruFavoriteExtractor
+Category: scatbooru - Subcategory: favorite
+Example : https://scatbooru.co.uk/?page=favorites&s=view&id=1
+
+ScatbooruPostExtractor
+Category: scatbooru - Subcategory: post
+Example : https://scatbooru.co.uk/?page=post&s=view&id=12345
+
+ScatbooruTagExtractor
+Category: scatbooru - Subcategory: tag
+Example : https://scatbooru.co.uk/?page=post&s=list&tags=TAG
+
+SchalenetworkFavoriteExtractor
+Extractor for schale.network favorites
+Category: schalenetwork - Subcategory: favorite
+Example : https://niyaniya.moe/favorites
+
+SchalenetworkGalleryExtractor
+Extractor for schale.network galleries
+Category: schalenetwork - Subcategory: gallery
+Example : https://niyaniya.moe/g/12345/67890abcde/
+
+SchalenetworkSearchExtractor
+Extractor for schale.network search results
+Category: schalenetwork - Subcategory: search
+Example : https://niyaniya.moe/browse?s=QUERY
+
+ScrolllerFollowingExtractor
+Extractor for followed scrolller subreddits
+Category: scrolller - Subcategory: following
+Example : https://scrolller.com/following
+
+ScrolllerPostExtractor
+Extractor for media from a single scrolller post
+Category: scrolller - Subcategory: post
+Example : https://scrolller.com/TITLE-SLUG-a1b2c3d4f5
+
+ScrolllerSubredditExtractor
+Extractor for media from a scrolller subreddit
+Category: scrolller - Subcategory: subreddit
+Example : https://scrolller.com/r/SUBREDDIT
+
+ScrolllerUserExtractor
+Extractor for media from a scrolller Reddit user
+Category: scrolller - Subcategory: user
+Example : https://scrolller.com/reddit-user/USER
+
+SeigaImageExtractor
+Extractor for single images from seiga.nicovideo.jp
+Category: seiga - Subcategory: image
+Example : https://seiga.nicovideo.jp/seiga/im12345
+
+SeigaUserExtractor
+Extractor for images of a user from seiga.nicovideo.jp
+Category: seiga - Subcategory: user
+Example : https://seiga.nicovideo.jp/user/illust/12345
+
+SenmangaChapterExtractor
+Extractor for manga chapters from raw.senmanga.com
+Category: senmanga - Subcategory: chapter
+Example : https://raw.senmanga.com/MANGA/CHAPTER
+
+SexcomBoardExtractor
+Extractor for pins from a board on www.sex.com
+Category: sexcom - Subcategory: board
+Example : https://www.sex.com/user/USER/BOARD/
+
+SexcomFeedExtractor
+Extractor for pins from your account's main feed on www.sex.com
+Category: sexcom - Subcategory: feed
+Example : https://www.sex.com/feed/
+
+SexcomLikesExtractor
+Extractor for a user's liked pins on www.sex.com
+Category: sexcom - Subcategory: likes
+Example : https://www.sex.com/user/USER/likes/
+
+SexcomPinExtractor
+Extractor for a pinned image or video on www.sex.com
+Category: sexcom - Subcategory: pin
+Example : https://www.sex.com/pin/12345-TITLE/
+
+SexcomPinsExtractor
+Extractor for a user's pins on www.sex.com
+Category: sexcom - Subcategory: pins
+Example : https://www.sex.com/user/USER/pins/
+
+SexcomRelatedPinExtractor
+Extractor for related pins on www.sex.com
+Category: sexcom - Subcategory: related-pin
+Example : https://www.sex.com/pin/12345#related
+
+SexcomSearchExtractor
+Extractor for search results on www.sex.com
+Category: sexcom - Subcategory: search
+Example : https://www.sex.com/search/pics?query=QUERY
+
+ShareimageGalleryExtractor
+Extractor for image galleries from share-image.com
+Category: shareimage - Subcategory: gallery
+Example : https://www.share-image.com/12345-TITLE
+
+Shimmie2PostExtractor
+Extractor for single shimmie2 posts
+Category:  - Subcategory: post
+Example : https://vidya.pics/post/view/12345
+
+Shimmie2TagExtractor
+Extractor for shimmie2 posts by tag search
+Category:  - Subcategory: tag
+Example : https://vidya.pics/post/list/TAG/1
+
+ShopifyCollectionExtractor
+Base class for collection extractors for Shopify based sites
+Category:  - Subcategory: collection
+Example : https://www.fashionnova.com/collections/TITLE
+
+ShopifyProductExtractor
+Base class for product extractors for Shopify based sites
+Category:  - Subcategory: product
+Example : https://www.fashionnova.com/collections/TITLE/products/NAME
+
+SilverpicImageExtractor
+Extractor for single images from silverpic.com
+Category: silverpic - Subcategory: image
+Example : https://silverpic.net/a1b2c3d4f5g6/NAME.EXT.html
+
+SimplyhentaiGalleryExtractor
+Extractor for simplyhentai galleries
+Category: simplyhentai - Subcategory: gallery
+Example : https://www.simply-hentai.com/SERIES/SLUG
+
+SimplyhentaiLanguageExtractor
+Category: simplyhentai - Subcategory: language
+Example : https://www.simply-hentai.com/language/LANG
+
+SimplyhentaiMangaExtractor
+Category: simplyhentai - Subcategory: manga
+Example : https://www.simply-hentai.com/2-mangas
+
+SimplyhentaiSeriesExtractor
+Category: simplyhentai - Subcategory: series
+Example : https://www.simply-hentai.com/series/SLUG
+
+SimplyhentaiTagExtractor
+Category: simplyhentai - Subcategory: tag
+Example : https://www.simply-hentai.com/tag/TAG
+
+SizebooruFavoriteExtractor
+Extractor for a sizebooru user's favorites
+Category: sizebooru - Subcategory: favorite
+Example : https://sizebooru.com/Profile/Favorites/USER
+
+SizebooruGalleryExtractor
+Extractor for sizebooru galleries
+Category: sizebooru - Subcategory: gallery
+Example : https://sizebooru.com/Galleries/List/123
+
+SizebooruPostExtractor
+Extractor for sizebooru posts
+Category: sizebooru - Subcategory: post
+Example : https://sizebooru.com/Details/12345
+
+SizebooruTagExtractor
+Extractor for sizebooru tag searches
+Category: sizebooru - Subcategory: tag
+Example : https://sizebooru.com/Search/TAG
+
+SizebooruUserExtractor
+Extractor for a sizebooru user's uploads
+Category: sizebooru - Subcategory: user
+Example : https://sizebooru.com/Profile/Uploads/USER
+
+SkebFollowingExtractor
+Extractor for all creators followed by a skeb user
+Category: skeb - Subcategory: following
+Example : https://skeb.jp/@USER/following_creators
+
+SkebFollowingUsersExtractor
+Extractor for your followed users
+Category: skeb - Subcategory: following-users
+Example : https://skeb.jp/following_users
+
+SkebPostExtractor
+Extractor for a single skeb post
+Category: skeb - Subcategory: post
+Example : https://skeb.jp/@USER/works/123
+
+SkebSearchExtractor
+Extractor for skeb search results
+Category: skeb - Subcategory: search
+Example : https://skeb.jp/search?q=QUERY
+
+SkebSentrequestsExtractor
+Extractor for a skeb user's sent requests
+Category: skeb - Subcategory: sentrequests
+Example : https://skeb.jp/@USER/sentrequests
+
+SkebUserExtractor
+Extractor for a skeb user profile
+Category: skeb - Subcategory: user
+Example : https://skeb.jp/@USER
+
+SkebWorksExtractor
+Extractor for a skeb user's works
+Category: skeb - Subcategory: works
+Example : https://skeb.jp/@USER/works
+
+SlickpicAlbumExtractor
+Extractor for albums on slickpic.com
+Category: slickpic - Subcategory: album
+Example : https://USER.slickpic.com/albums/TITLE/
+
+SlickpicUserExtractor
+Category: slickpic - Subcategory: user
+Example : https://USER.slickpic.com/
+
+SlidesharePresentationExtractor
+Extractor for images from a presentation on slideshare.net
+Category: slideshare - Subcategory: presentation
+Example : https://www.slideshare.net/USER/PRESENTATION
+
+SmugmugAlbumExtractor
+Extractor for smugmug albums
+Category: smugmug - Subcategory: album
+Example : smugmug:album:ID
+
+SmugmugImageExtractor
+Extractor for individual smugmug images
+Category: smugmug - Subcategory: image
+Example : https://USER.smugmug.com/PATH/i-ID
+
+SmugmugPathExtractor
+Extractor for smugmug albums from URL paths and users
+Category: smugmug - Subcategory: path
+Example : https://USER.smugmug.com/PATH
+
+SnapchatAvatarExtractor
+Extracts a Snapchat user's avatar
+Category: snapchat - Subcategory: avatar
+Example : https://www.snapchat.com/@username/avatar
+
+SnapchatSpotlightExtractor
+Extracts an individual spotlight post
+Category: snapchat - Subcategory: spotlight
+Example : https://www.snapchat.com/spotlight/W7_EDlXWTBiXAEEniNoMPwAAYdGFzb3FpYXVuAZqDMm6sAZqDMm6VAAAAAQ
+
+SnapchatSpotlightsExtractor
+Extracts every [known] spotlight belonging to a single Snapchat user
+Category: snapchat - Subcategory: spotlights
+Example : https://www.snapchat.com/@username/spotlights
+
+SnapchatStoriesExtractor
+Extracts every [known] story belonging to a single Snapchat user
+Category: snapchat - Subcategory: stories
+Example : https://www.snapchat.com/@username/stories
+
+SnapchatStoryExtractor
+Extracts an individual or timed story
+Category: snapchat - Subcategory: story
+Example : https://www.snapchat.com/@username/highlight/c3050cba-2f43-4e06-8ac4-d79069bac22f
+
+SnapchatUserExtractor
+Extractor for a Snapchat user profile
+Category: snapchat - Subcategory: user
+Example : https://www.snapchat.com/@username
+
+SoundgasmAudioExtractor
+Extractor for audio clips from soundgasm.net
+Category: soundgasm - Subcategory: audio
+Example : https://soundgasm.net/u/USER/TITLE
+
+SoundgasmUserExtractor
+Extractor for all sounds from a soundgasm user
+Category: soundgasm - Subcategory: user
+Example : https://soundgasm.net/u/USER
+
+SpeakerdeckPresentationExtractor
+Extractor for images from a presentation on speakerdeck.com
+Category: speakerdeck - Subcategory: presentation
+Example : https://speakerdeck.com/USER/PRESENTATION
+
+SteamgriddbAssetExtractor
+Extractor for a single asset
+Category: steamgriddb - Subcategory: asset
+Example : https://www.steamgriddb.com/grid/1234
+
+SteamgriddbGridsExtractor
+Category: steamgriddb - Subcategory: grids
+Example : https://www.steamgriddb.com/game/1234/grids
+
+SteamgriddbHeroesExtractor
+Category: steamgriddb - Subcategory: heroes
+Example : https://www.steamgriddb.com/game/1234/heroes
+
+SteamgriddbIconsExtractor
+Category: steamgriddb - Subcategory: icons
+Example : https://www.steamgriddb.com/game/1234/icons
+
+SteamgriddbLogosExtractor
+Category: steamgriddb - Subcategory: logos
+Example : https://www.steamgriddb.com/game/1234/logos
+
+SubscribestarPostExtractor
+Extractor for media from a single subscribestar post
+Category: subscribestar - Subcategory: post
+Example : https://www.subscribestar.com/posts/12345
+
+SubscribestarUserExtractor
+Extractor for media from a subscribestar user
+Category: subscribestar - Subcategory: user
+Example : https://www.subscribestar.com/USER
+
+SxypixGalleryExtractor
+Extractor for image galleries from sxypix.com
+Category: sxypix - Subcategory: gallery
+Example : https://sxypix.com/w/2bbaf1b24a5863d0e73436619bbaa7ee
+
+SzurubooruPostExtractor
+Category:  - Subcategory: post
+Example : https://booru.bcbnsfw.space/post/12345
+
+SzurubooruTagExtractor
+Category:  - Subcategory: tag
+Example : https://booru.bcbnsfw.space/posts/query=TAG
+
+TapasCreatorExtractor
+Category: tapas - Subcategory: creator
+Example : https://tapas.io/CREATOR
+
+TapasEpisodeExtractor
+Category: tapas - Subcategory: episode
+Example : https://tapas.io/episode/12345
+
+TapasSeriesExtractor
+Category: tapas - Subcategory: series
+Example : https://tapas.io/series/TITLE
+
+TcbscansChapterExtractor
+Extractor for tcbscans manga chapters
+Category: tcbscans - Subcategory: chapter
+Example : https://tcbonepiecechapters.com/chapters/123/MANGA-chapter-123
+
+TcbscansMangaExtractor
+Extractor for tcbscans manga
+Category: tcbscans - Subcategory: manga
+Example : https://tcbonepiecechapters.com/mangas/123/MANGA
+
+TelegraphGalleryExtractor
+Extractor for articles from telegra.ph
+Category: telegraph - Subcategory: gallery
+Example : https://telegra.ph/TITLE
+
+TenorImageExtractor
+Category: tenor - Subcategory: image
+Example : https://tenor.com/view/SLUG-1234567890
+
+TenorSearchExtractor
+Category: tenor - Subcategory: search
+Example : https://tenor.com/search/QUERY
+
+TenorUserExtractor
+Category: tenor - Subcategory: user
+Example : https://tenor.com/users/USER
+
+ThefapModelExtractor
+Extractor for thefap.net model pages
+Category: thefap - Subcategory: model
+Example : https://thefap.net/MODEL-12345/
+
+ThefapPostExtractor
+Extractor for individual thefap.net posts
+Category: thefap - Subcategory: post
+Example : https://thefap.net/MODEL-12345/KIND/i12345
+
+ThehentaiworldPostExtractor
+Category: thehentaiworld - Subcategory: post
+Example : https://thehentaiworld.com/hentai-images/SLUG/
+
+ThehentaiworldTagExtractor
+Category: thehentaiworld - Subcategory: tag
+Example : https://thehentaiworld.com/tag/TAG/
+
+TiktokAvatarExtractor
+Category: tiktok - Subcategory: avatar
+Example : https://www.tiktok.com/@USER/avatar
+
+TiktokFollowingExtractor
+Extract all of the stories of all of the users you follow
+Category: tiktok - Subcategory: following
+Example : https://www.tiktok.com/following
+
+TiktokLikesExtractor
+Category: tiktok - Subcategory: likes
+Example : https://www.tiktok.com/@USER/liked
+
+TiktokPostExtractor
+Extract a single video or photo TikTok link
+Category: tiktok - Subcategory: post
+Example : https://www.tiktok.com/@USER/photo/1234567890
+
+TiktokPostsExtractor
+Category: tiktok - Subcategory: posts
+Example : https://www.tiktok.com/@USER/posts
+
+TiktokRepostsExtractor
+Category: tiktok - Subcategory: reposts
+Example : https://www.tiktok.com/@USER/reposts
+
+TiktokSavedExtractor
+Category: tiktok - Subcategory: saved
+Example : https://www.tiktok.com/@USER/saved
+
+TiktokStoriesExtractor
+Category: tiktok - Subcategory: stories
+Example : https://www.tiktok.com/@USER/stories
+
+TiktokUserExtractor
+Extractor for a TikTok user profile
+Category: tiktok - Subcategory: user
+Example : https://www.tiktok.com/@USER
+
+TiktokVmpostExtractor
+Extract a single video or photo TikTok VM link
+Category: tiktok - Subcategory: vmpost
+Example : https://vm.tiktok.com/1a2B3c4E5
+
+TmohentaiGalleryExtractor
+Category: tmohentai - Subcategory: gallery
+Example : https://tmohentai.com/contents/12345a67b89c0
+
+ToyhouseArtExtractor
+Extractor for artworks of a toyhouse user
+Category: toyhouse - Subcategory: art
+Example : https://www.toyhou.se/USER/art
+
+ToyhouseImageExtractor
+Extractor for individual toyhouse images
+Category: toyhouse - Subcategory: image
+Example : https://toyhou.se/~images/12345
+
+TumblrDayExtractor
+Extractor for Tumblr user's posts by day
+Category: tumblr - Subcategory: day
+Example : https://www.tumblr.com/BLOG/day/1970/01/01
+
+TumblrFollowersExtractor
+Extractor for a Tumblr user's followers
+Category: tumblr - Subcategory: followers
+Example : https://www.tumblr.com/BLOG/followers
+
+TumblrFollowingExtractor
+Extractor for a Tumblr user's followed blogs
+Category: tumblr - Subcategory: following
+Example : https://www.tumblr.com/BLOG/following
+
+TumblrLikesExtractor
+Extractor for a Tumblr user's liked posts
+Category: tumblr - Subcategory: likes
+Example : https://www.tumblr.com/BLOG/likes
+
+TumblrPostExtractor
+Extractor for a single Tumblr post
+Category: tumblr - Subcategory: post
+Example : https://www.tumblr.com/BLOG/12345
+
+TumblrSearchExtractor
+Extractor for a Tumblr search
+Category: tumblr - Subcategory: search
+Example : https://www.tumblr.com/search/QUERY
+
+TumblrTagExtractor
+Extractor for Tumblr user's posts by tag
+Category: tumblr - Subcategory: tag
+Example : https://www.tumblr.com/BLOG/tagged/TAG
+
+TumblrUserExtractor
+Extractor for a Tumblr user's posts
+Category: tumblr - Subcategory: user
+Example : https://www.tumblr.com/BLOG
+
+TumblrgalleryPostExtractor
+Extractor for Posts on tumblrgallery.xyz
+Category: tumblrgallery - Subcategory: post
+Example : https://tumblrgallery.xyz/post/12345.html
+
+TumblrgallerySearchExtractor
+Extractor for Search result on tumblrgallery.xyz
+Category: tumblrgallery - Subcategory: search
+Example : https://tumblrgallery.xyz/s.php?q=QUERY
+
+TumblrgalleryTumblrblogExtractor
+Extractor for Tumblrblog on tumblrgallery.xyz
+Category: tumblrgallery - Subcategory: tumblrblog
+Example : https://tumblrgallery.xyz/tumblrblog/gallery/12345.html
+
+TungstenModelExtractor
+Category: tungsten - Subcategory: model
+Example : https://tungsten.run/model/AbCdEfGhIjKlM
+
+TungstenPostExtractor
+Category: tungsten - Subcategory: post
+Example : https://tungsten.run/post/AbCdEfGhIjKlMnOp
+
+TungstenUserExtractor
+Category: tungsten - Subcategory: user
+Example : https://tungsten.run/user/USER
+
+TurboAlbumExtractor
+Extractor for turbo.cr albums
+Category: turbo - Subcategory: album
+Example : https://turbo.cr/a/ID
+
+TurboMediaExtractor
+Extractor for turbo.cr media links
+Category: turbo - Subcategory: media
+Example : https://turbo.cr/embed/ID
+
+TurboimagehostGalleryExtractor
+Extractor for image galleries from turboimagehost.com
+Category: turboimagehost - Subcategory: gallery
+Example : https://www.turboimagehost.com/album/12345/GALLERY_NAME
+
+TurboimagehostImageExtractor
+Extractor for single images from www.turboimagehost.com
+Category: turboimagehost - Subcategory: image
+Example : https://www.turboimagehost.com/p/12345/NAME.EXT.html
+
+TwibooruGalleryExtractor
+Extractor for twibooru galleries
+Category: twibooru - Subcategory: gallery
+Example : https://twibooru.org/galleries/12345
+
+TwibooruPostExtractor
+Extractor for single twibooru posts
+Category: twibooru - Subcategory: post
+Example : https://twibooru.org/12345
+
+TwibooruSearchExtractor
+Extractor for twibooru search results
+Category: twibooru - Subcategory: search
+Example : https://twibooru.org/search?q=TAG
+
+TwitterAvatarExtractor
+Category: twitter - Subcategory: avatar
+Example : https://x.com/USER/photo
+
+TwitterBackgroundExtractor
+Category: twitter - Subcategory: background
+Example : https://x.com/USER/header_photo
+
+TwitterBookmarkExtractor
+Extractor for bookmarked tweets
+Category: twitter - Subcategory: bookmark
+Example : https://x.com/i/bookmarks
+
+TwitterCommunitiesExtractor
+Extractor for followed Twitter communities
+Category: twitter - Subcategory: communities
+Example : https://x.com/i/communities
+
+TwitterCommunityExtractor
+Extractor for a Twitter community
+Category: twitter - Subcategory: community
+Example : https://x.com/i/communities/12345
+
+TwitterEventExtractor
+Extractor for Tweets from a Twitter Event
+Category: twitter - Subcategory: event
+Example : https://x.com/i/events/12345
+
+TwitterFollowersExtractor
+Extractor for a user's followers
+Category: twitter - Subcategory: followers
+Example : https://x.com/USER/followers
+
+TwitterFollowingExtractor
+Extractor for followed users
+Category: twitter - Subcategory: following
+Example : https://x.com/USER/following
+
+TwitterHashtagExtractor
+Extractor for Twitter hashtags
+Category: twitter - Subcategory: hashtag
+Example : https://x.com/hashtag/NAME
+
+TwitterHighlightsExtractor
+Extractor for Tweets from a user's Highlights timeline
+Category: twitter - Subcategory: highlights
+Example : https://x.com/USER/highlights
+
+TwitterHomeExtractor
+Extractor for Twitter home timelines
+Category: twitter - Subcategory: home
+Example : https://x.com/home
+
+TwitterImageExtractor
+Category: twitter - Subcategory: image
+Example : https://pbs.twimg.com/media/ABCDE?format=jpg&name=orig
+
+TwitterInfoExtractor
+Extractor for a user's profile data
+Category: twitter - Subcategory: info
+Example : https://x.com/USER/info
+
+TwitterLikesExtractor
+Extractor for liked tweets
+Category: twitter - Subcategory: likes
+Example : https://x.com/USER/likes
+
+TwitterListExtractor
+Extractor for Twitter lists
+Category: twitter - Subcategory: list
+Example : https://x.com/i/lists/12345
+
+TwitterListMembersExtractor
+Extractor for members of a Twitter list
+Category: twitter - Subcategory: list-members
+Example : https://x.com/i/lists/12345/members
+
+TwitterMediaExtractor
+Extractor for Tweets from a user's Media timeline
+Category: twitter - Subcategory: media
+Example : https://x.com/USER/media
+
+TwitterNotificationsExtractor
+Extractor for Twitter notifications timelines
+Category: twitter - Subcategory: notifications
+Example : https://x.com/notifications
+
+TwitterQuotesExtractor
+Extractor for quotes of a Tweet
+Category: twitter - Subcategory: quotes
+Example : https://x.com/USER/status/12345/quotes
+
+TwitterSearchExtractor
+Extractor for Twitter search results
+Category: twitter - Subcategory: search
+Example : https://x.com/search?q=QUERY
+
+TwitterTimelineExtractor
+Extractor for a Twitter user timeline
+Category: twitter - Subcategory: timeline
+Example : https://x.com/USER/timeline
+
+TwitterTweetExtractor
+Extractor for individual tweets
+Category: twitter - Subcategory: tweet
+Example : https://x.com/USER/status/12345
+
+TwitterTweetsExtractor
+Extractor for Tweets from a user's Posts timeline
+Category: twitter - Subcategory: tweets
+Example : https://x.com/USER/tweets
+
+TwitterUserExtractor
+Extractor for a Twitter user
+Category: twitter - Subcategory: user
+Example : https://x.com/USER
+
+TwitterWithRepliesExtractor
+Extractor for Tweets from a user's Replies timeline
+Category: twitter - Subcategory: with-replies
+Example : https://x.com/USER/with_replies
+
+UnsplashCollectionExtractor
+Extractor for an unsplash collection
+Category: unsplash - Subcategory: collection
+Example : https://unsplash.com/collections/12345/TITLE
+
+UnsplashFavoriteExtractor
+Extractor for all likes of an unsplash user
+Category: unsplash - Subcategory: favorite
+Example : https://unsplash.com/@USER/likes
+
+UnsplashImageExtractor
+Extractor for a single unsplash photo
+Category: unsplash - Subcategory: image
+Example : https://unsplash.com/photos/ID
+
+UnsplashSearchExtractor
+Extractor for unsplash search results
+Category: unsplash - Subcategory: search
+Example : https://unsplash.com/s/photos/QUERY
+
+UnsplashUserExtractor
+Extractor for all photos of an unsplash user
+Category: unsplash - Subcategory: user
+Example : https://unsplash.com/@USER
+
+UploadirFileExtractor
+Extractor for uploadir files
+Category: uploadir - Subcategory: file
+Example : https://uploadir.com/u/ID
+
+UrlgalleriesGalleryExtractor
+Extractor for urlgalleries.com galleries
+Category: urlgalleries - Subcategory: gallery
+Example : https://urlgalleries.com/BLOG/12345/TITLE
+
+UrlshortenerLinkExtractor
+Extractor for general-purpose URL shorteners
+Category:  - Subcategory: link
+Example : https://bit.ly/abcde
+
+VanillarockPostExtractor
+Extractor for blogposts on vanilla-rock.com
+Category: vanillarock - Subcategory: post
+Example : https://vanilla-rock.com/TITLE
+
+VanillarockTagExtractor
+Extractor for vanillarock blog posts by tag or category
+Category: vanillarock - Subcategory: tag
+Example : https://vanilla-rock.com/tag/TAG
+
+VichanBoardExtractor
+Extractor for vichan boards
+Category:  - Subcategory: board
+Example : https://8kun.top/a/
+
+VichanThreadExtractor
+Extractor for vichan threads
+Category:  - Subcategory: thread
+Example : https://8kun.top/a/res/12345.html
+
+VipergirlsPostExtractor
+Extractor for vipergirls posts
+Category: vipergirls - Subcategory: post
+Example : https://vipergirls.to/threads/12345-TITLE?p=23456#post23456
+
+VipergirlsThreadExtractor
+Extractor for vipergirls threads
+Category: vipergirls - Subcategory: thread
+Example : https://vipergirls.to/threads/12345-TITLE
+
+ViprImageExtractor
+Extractor for single images from vipr.im
+Category: vipr - Subcategory: image
+Example : https://vipr.im/abc123.html
+
+VkAlbumExtractor
+Extractor for a vk album
+Category: vk - Subcategory: album
+Example : https://vk.com/album12345_00
+
+VkPhotosExtractor
+Extractor for photos from a vk user
+Category: vk - Subcategory: photos
+Example : https://vk.com/id12345
+
+VkTaggedExtractor
+Extractor for a vk tagged photos
+Category: vk - Subcategory: tagged
+Example : https://vk.com/tag12345
+
+VkWallPostExtractor
+Extractor for a vk wall post
+Category: vk - Subcategory: wall-post
+Example : https://vk.com/wall12345_123
+
+VscoAvatarExtractor
+Extractor for vsco.co user avatars
+Category: vsco - Subcategory: avatar
+Example : https://vsco.co/USER/avatar
+
+VscoCollectionExtractor
+Extractor for images from a collection on vsco.co
+Category: vsco - Subcategory: collection
+Example : https://vsco.co/USER/collection/1
+
+VscoGalleryExtractor
+Extractor for a vsco user's gallery
+Category: vsco - Subcategory: gallery
+Example : https://vsco.co/USER/gallery
+
+VscoImageExtractor
+Extractor for individual images on vsco.co
+Category: vsco - Subcategory: image
+Example : https://vsco.co/USER/media/0123456789abcdef
+
+VscoSpaceExtractor
+Extractor for a vsco.co space
+Category: vsco - Subcategory: space
+Example : https://vsco.co/spaces/a1b2c3d4e5f
+
+VscoSpacesExtractor
+Extractor for a vsco.co user's spaces
+Category: vsco - Subcategory: spaces
+Example : https://vsco.co/USER/spaces
+
+VscoUserExtractor
+Extractor for a vsco user profile
+Category: vsco - Subcategory: user
+Example : https://vsco.co/USER
+
+VscoVideoExtractor
+Extractor for vsco.co videos links
+Category: vsco - Subcategory: video
+Example : https://vsco.co/USER/video/012345678-9abc-def0
+
+WallhavenCollectionExtractor
+Extractor for a collection on wallhaven.cc
+Category: wallhaven - Subcategory: collection
+Example : https://wallhaven.cc/user/USER/favorites/12345
+
+WallhavenCollectionsExtractor
+Extractor for all collections of a wallhaven user
+Category: wallhaven - Subcategory: collections
+Example : https://wallhaven.cc/user/USER/favorites
+
+WallhavenImageExtractor
+Extractor for individual wallpaper on wallhaven.cc
+Category: wallhaven - Subcategory: image
+Example : https://wallhaven.cc/w/ID
+
+WallhavenSearchExtractor
+Extractor for search results on wallhaven.cc
+Category: wallhaven - Subcategory: search
+Example : https://wallhaven.cc/search?q=QUERY
+
+WallhavenUploadsExtractor
+Extractor for all uploads of a wallhaven user
+Category: wallhaven - Subcategory: uploads
+Example : https://wallhaven.cc/user/USER/uploads
+
+WallhavenUserExtractor
+Extractor for a wallhaven user
+Category: wallhaven - Subcategory: user
+Example : https://wallhaven.cc/user/USER
+
+WallpapercaveImageExtractor
+Extractor for images on wallpapercave.com
+Category: wallpapercave - Subcategory: image
+Example : https://wallpapercave.com/w/wp12345
+
+WarosuThreadExtractor
+Extractor for threads on warosu.org
+Category: warosu - Subcategory: thread
+Example : https://warosu.org/a/thread/12345
+
+WeasylFavoriteExtractor
+Category: weasyl - Subcategory: favorite
+Example : https://www.weasyl.com/favorites?userid=12345
+
+WeasylFolderExtractor
+Category: weasyl - Subcategory: folder
+Example : https://www.weasyl.com/submissions/USER?folderid=12345
+
+WeasylJournalExtractor
+Category: weasyl - Subcategory: journal
+Example : https://www.weasyl.com/journal/12345
+
+WeasylJournalsExtractor
+Category: weasyl - Subcategory: journals
+Example : https://www.weasyl.com/journals/USER
+
+WeasylSubmissionExtractor
+Category: weasyl - Subcategory: submission
+Example : https://www.weasyl.com/~USER/submissions/12345/TITLE
+
+WeasylSubmissionsExtractor
+Category: weasyl - Subcategory: submissions
+Example : https://www.weasyl.com/submissions/USER
+
+WebmshareVideoExtractor
+Extractor for webmshare videos
+Category: webmshare - Subcategory: video
+Example : https://webmshare.com/_ID_
+
+WebtoonsArtistExtractor
+Extractor for webtoons.com artists
+Category: webtoons - Subcategory: artist
+Example : https://www.webtoons.com/p/community/LANG/u/ARTIST
+
+WebtoonsComicExtractor
+Extractor for an entire comic on webtoons.com
+Category: webtoons - Subcategory: comic
+Example : https://www.webtoons.com/en/GENRE/TITLE/list?title_no=123
+
+WebtoonsEpisodeExtractor
+Extractor for an episode on webtoons.com
+Category: webtoons - Subcategory: episode
+Example : https://www.webtoons.com/en/GENRE/TITLE/NAME/viewer?title_no=123&episode_no=12345
+
+WeebcentralChapterExtractor
+Extractor for manga chapters from weebcentral.com
+Category: weebcentral - Subcategory: chapter
+Example : https://weebcentral.com/chapters/01JHABCDEFGHIJKLMNOPQRSTUV
+
+WeebcentralMangaExtractor
+Extractor for manga from weebcentral.com
+Category: weebcentral - Subcategory: manga
+Example : https://weebcentral.com/series/01J7ABCDEFGHIJKLMNOPQRSTUV/TITLE
+
+WeiboAlbumExtractor
+Extractor for weibo 'album' listings
+Category: weibo - Subcategory: album
+Example : https://weibo.com/USER?tabtype=album
+
+WeiboArticleExtractor
+Extractor for weibo 'article' listings
+Category: weibo - Subcategory: article
+Example : https://weibo.com/USER?tabtype=article
+
+WeiboFeedExtractor
+Extractor for weibo user feeds
+Category: weibo - Subcategory: feed
+Example : https://weibo.com/USER?tabtype=feed
+
+WeiboHomeExtractor
+Extractor for weibo 'home' listings
+Category: weibo - Subcategory: home
+Example : https://weibo.com/USER?tabtype=home
+
+WeiboNewvideoExtractor
+Extractor for weibo 'newVideo' listings
+Category: weibo - Subcategory: newvideo
+Example : https://weibo.com/USER?tabtype=newVideo
+
+WeiboStatusExtractor
+Extractor for a weibo status
+Category: weibo - Subcategory: status
+Example : https://weibo.com/detail/12345
+
+WeiboUserExtractor
+Extractor for weibo user profiles
+Category: weibo - Subcategory: user
+Example : https://weibo.com/USER
+
+WeiboVideosExtractor
+Extractor for weibo 'video' listings
+Category: weibo - Subcategory: videos
+Example : https://weibo.com/USER?tabtype=video
+
+WhypAudioExtractor
+Category: whyp - Subcategory: audio
+Example : https://whyp.it/tracks/12345/SLUG
+
+WhypCollectionExtractor
+Category: whyp - Subcategory: collection
+Example : https://whyp.it/collections/123/NAME
+
+WhypUserExtractor
+Category: whyp - Subcategory: user
+Example : https://whyp.it/users/123/NAME
+
+WikiartArtistExtractor
+Extractor for an artist's paintings on wikiart.org
+Category: wikiart - Subcategory: artist
+Example : https://www.wikiart.org/en/ARTIST
+
+WikiartArtistsExtractor
+Extractor for artist collections on wikiart.org
+Category: wikiart - Subcategory: artists
+Example : https://www.wikiart.org/en/artists-by-GROUP/TYPE
+
+WikiartArtworksExtractor
+Extractor for artwork collections on wikiart.org
+Category: wikiart - Subcategory: artworks
+Example : https://www.wikiart.org/en/paintings-by-GROUP/TYPE
+
+WikiartImageExtractor
+Extractor for individual paintings on wikiart.org
+Category: wikiart - Subcategory: image
+Example : https://www.wikiart.org/en/ARTIST/TITLE
+
+WikifeetGalleryExtractor
+Extractor for image galleries from wikifeet.com
+Category: wikifeet - Subcategory: gallery
+Example : https://www.wikifeet.com/CELEB
+
+WikimediaArticleExtractor
+Extractor for wikimedia articles
+Category:  - Subcategory: article
+Example : https://en.wikipedia.org/wiki/TITLE
+
+WikimediaWikiExtractor
+Extractor for all files on a MediaWiki instance
+Category:  - Subcategory: wiki
+Example : https://en.wikipedia.org/
+
+XasiatAlbumExtractor
+Category: xasiat - Subcategory: album
+Example : https://www.xasiat.com/albums/12345/TITLE/
+
+XasiatCategoryExtractor
+Category: xasiat - Subcategory: category
+Example : https://www.xasiat.com/albums/categories/CATEGORY/
+
+XasiatModelExtractor
+Category: xasiat - Subcategory: model
+Example : https://www.xasiat.com/albums/models/MODEL/
+
+XasiatTagExtractor
+Category: xasiat - Subcategory: tag
+Example : https://www.xasiat.com/albums/tags/TAG/
+
+XenforoForumExtractor
+Category:  - Subcategory: forum
+Example : https://simpcity.cr/forums/TITLE.123/
+
+XenforoMediaAlbumExtractor
+Category:  - Subcategory: media-album
+Example : https://simpcity.cr/media/albums/ALBUM.123/
+
+XenforoMediaCategoryExtractor
+Category:  - Subcategory: media-category
+Example : https://simpcity.cr/media/categories/CATEGORY.123/
+
+XenforoMediaItemExtractor
+Category:  - Subcategory: media-item
+Example : https://simpcity.cr/media/NAME.123/
+
+XenforoMediaUserExtractor
+Category:  - Subcategory: media-user
+Example : https://simpcity.cr/media/users/USER.123/
+
+XenforoPostExtractor
+Category:  - Subcategory: post
+Example : https://simpcity.cr/threads/TITLE.12345/post-54321
+
+XenforoProfileExtractor
+Category:  - Subcategory: profile
+Example : https://simpcity.cr/members/USER.123/
+
+XenforoThreadExtractor
+Category:  - Subcategory: thread
+Example : https://simpcity.cr/threads/TITLE.12345/
+
+XfolioSeriesExtractor
+Category: xfolio - Subcategory: series
+Example : https://xfolio.jp/portfolio/USER/series/12345
+
+XfolioUserExtractor
+Category: xfolio - Subcategory: user
+Example : https://xfolio.jp/portfolio/USER
+
+XfolioWorkExtractor
+Category: xfolio - Subcategory: work
+Example : https://xfolio.jp/portfolio/USER/works/12345
+
+XhamsterGalleryExtractor
+Extractor for image galleries on xhamster.com
+Category: xhamster - Subcategory: gallery
+Example : https://xhamster.com/photos/gallery/12345
+
+XhamsterUserExtractor
+Extractor for all galleries of an xhamster user
+Category: xhamster - Subcategory: user
+Example : https://xhamster.com/users/USER/photos
+
+XvideosGalleryExtractor
+Extractor for user profile galleries on xvideos.com
+Category: xvideos - Subcategory: gallery
+Example : https://www.xvideos.com/profiles/USER/photos/12345
+
+XvideosUserExtractor
+Extractor for user profiles on xvideos.com
+Category: xvideos - Subcategory: user
+Example : https://www.xvideos.com/profiles/USER
+
+YiffversePlaylistExtractor
+Category: yiffverse - Subcategory: playlist
+Example : https://yiffverse.com/playlist/12345
+
+YiffversePostExtractor
+Category: yiffverse - Subcategory: post
+Example : https://yiffverse.com/post/12345
+
+YiffverseTagExtractor
+Category: yiffverse - Subcategory: tag
+Example : https://yiffverse.com/tag/TAG
+
+YourlesbiansAlbumExtractor
+Category: yourlesbians - Subcategory: album
+Example : https://yourlesbians.com/album/SLUG/
+
+YoutubeDLExtractor
+Generic extractor for youtube-dl supported URLs
+Category: ytdl - Subcategory: 
+Example : ytdl:https://www.youtube.com/watch?v=abcdefghijk
+
+ZerochanImageExtractor
+Category: zerochan - Subcategory: image
+Example : https://www.zerochan.net/12345
+
+ZerochanTagExtractor
+Category: zerochan - Subcategory: tag
+Example : https://www.zerochan.net/TAG
+
+_2chBoardExtractor
+Extractor for 2ch boards
+Category: 2ch - Subcategory: board
+Example : https://2ch.org/a/
+
+_2chThreadExtractor
+Extractor for 2ch threads
+Category: 2ch - Subcategory: thread
+Example : https://2ch.org/a/res/12345.html
+
+_2chanThreadExtractor
+Extractor for 2chan threads
+Category: 2chan - Subcategory: thread
+Example : https://dec.2chan.net/12/res/12345.htm
+
+_2chenBoardExtractor
+Extractor for 2chen boards
+Category:  - Subcategory: board
+Example : https://sturdychan.help/a/
+
+_2chenThreadExtractor
+Extractor for 2chen threads
+Category:  - Subcategory: thread
+Example : https://sturdychan.help/a/12345/
+
+_35photoGenreExtractor
+Extractor for images of a specific genre on 35photo.pro
+Category: 35photo - Subcategory: genre
+Example : https://35photo.pro/genre_12345/
+
+_35photoImageExtractor
+Extractor for individual images from 35photo.pro
+Category: 35photo - Subcategory: image
+Example : https://35photo.pro/photo_12345/
+
+_35photoTagExtractor
+Extractor for all photos from a tag listing
+Category: 35photo - Subcategory: tag
+Example : https://35photo.pro/tags/TAG/
+
+_35photoUserExtractor
+Extractor for all images of a user on 35photo.pro
+Category: 35photo - Subcategory: user
+Example : https://35photo.pro/USER
+
+_3dbooruPoolExtractor
+Extractor for image-pools from behoimi.org
+Category: 3dbooru - Subcategory: pool
+Example : http://behoimi.org/pool/show/12345
+
+_3dbooruPopularExtractor
+Extractor for popular images from behoimi.org
+Category: 3dbooru - Subcategory: popular
+Example : http://behoimi.org/post/popular_by_month
+
+_3dbooruPostExtractor
+Extractor for single images from behoimi.org
+Category: 3dbooru - Subcategory: post
+Example : http://behoimi.org/post/show/12345
+
+_3dbooruTagExtractor
+Extractor for images from behoimi.org based on search-tags
+Category: 3dbooru - Subcategory: tag
+Example : http://behoimi.org/post?tags=TAG
+
+_4archiveBoardExtractor
+Extractor for 4archive boards
+Category: 4archive - Subcategory: board
+Example : https://4archive.org/board/a/
+
+_4archiveThreadExtractor
+Extractor for 4archive threads
+Category: 4archive - Subcategory: thread
+Example : https://4archive.org/board/a/thread/12345/
+
+_4chanBoardExtractor
+Extractor for 4chan boards
+Category: 4chan - Subcategory: board
+Example : https://boards.4channel.org/a/
+
+_4chanThreadExtractor
+Extractor for 4chan threads
+Category: 4chan - Subcategory: thread
+Example : https://boards.4channel.org/a/thread/12345/
+
+_4chanarchivesBoardExtractor
+Extractor for boards on 4chanarchives.com
+Category: 4chanarchives - Subcategory: board
+Example : https://4chanarchives.com/board/a/
+
+_4chanarchivesThreadExtractor
+Extractor for threads on 4chanarchives.com
+Category: 4chanarchives - Subcategory: thread
+Example : https://4chanarchives.com/board/a/thread/12345/
+
+_500pxFavoriteExtractor
+Extractor for favorite 500px photos
+Category: 500px - Subcategory: favorite
+Example : https://500px.com/liked
+
+_500pxGalleryExtractor
+Extractor for photo galleries on 500px.com
+Category: 500px - Subcategory: gallery
+Example : https://500px.com/USER/galleries/GALLERY
+
+_500pxImageExtractor
+Extractor for individual images from 500px.com
+Category: 500px - Subcategory: image
+Example : https://500px.com/photo/12345/TITLE
+
+_500pxUserExtractor
+Extractor for photos from a user's photostream on 500px.com
+Category: 500px - Subcategory: user
+Example : https://500px.com/USER
+
+_8chanBoardExtractor
+Extractor for 8chan boards
+Category: 8chan - Subcategory: board
+Example : https://8chan.moe/a/
+
+_8chanThreadExtractor
+Extractor for 8chan threads
+Category: 8chan - Subcategory: thread
+Example : https://8chan.moe/a/res/12345.html
+
+_8musesAlbumExtractor
+Extractor for image albums on comics.8muses.com
+Category: 8muses - Subcategory: album
+Example : https://comics.8muses.com/comics/album/PATH/TITLE
+
