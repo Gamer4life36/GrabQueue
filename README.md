@@ -36,6 +36,19 @@ are fetched automatically the first time you launch.
 > First launch downloads ~120 MB of engines (yt-dlp + FFmpeg + gallery-dl).
 > This is a one-time step.
 
+### "Windows protected your PC"?
+
+GrabQueue is a small independent app and isn't code-signed (a signing
+certificate costs hundreds of dollars a year). Windows SmartScreen shows a
+blue warning for any unsigned app it hasn't seen before — this is expected,
+not a sign of a problem. To run it:
+
+1. Click **More info**
+2. Click **Run anyway**
+
+The source is fully open in this repo if you'd like to review or build it
+yourself before running.
+
 ## Supported sites
 
 Over 1,700 video/audio extractors and hundreds of image-gallery sites —
