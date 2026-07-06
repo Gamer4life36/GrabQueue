@@ -77,10 +77,23 @@ python -m PyInstaller GrabQueue.spec --distpath . --workpath build -y
 
 ## Legal
 
-GrabQueue is provided for entertainment and personal use. You are solely
-responsible for how you use it and for respecting copyright and the terms of
-service of the sites you download from. See [DISCLAIMER.txt](DISCLAIMER.txt).
-GrabQueue contains no DRM-circumvention technology.
+GrabQueue is a free tool provided for **entertainment and personal use**. On
+first launch you're asked to accept these terms once. In short:
+
+1. **Sole responsibility** — you alone are responsible for how you use this
+   software and for any content you download with it.
+2. **Respect the law** — only download content you have the legal right to
+   access and save. Do not use GrabQueue to infringe copyright, bypass
+   paywalls, or circumvent DRM. It contains **no** circumvention technology.
+3. **Terms of service** — downloading from a site may violate its terms; know
+   the rules of the sites you use, and any consequences are yours.
+4. **Personal use** — downloads are for your own personal, non-commercial use
+   unless the rights holder permits otherwise. Don't redistribute them.
+5. **No warranty** — provided "AS IS"; the author is not liable for any
+   damages arising from its use.
+6. **Not legal advice.**
+
+Full text: [DISCLAIMER.txt](DISCLAIMER.txt).
 
 ## Support
 

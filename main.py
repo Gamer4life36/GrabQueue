@@ -31,9 +31,26 @@ DB_PATH = os.path.join(APP_DIR, "grabqueue.db")
 # Shared hand-off file: other apps (e.g. Image Downloader) drop URLs here and
 # GrabQueue imports them. Lives in LOCALAPPDATA so it's found no matter where
 # either app is installed.
-INBOX_PATH = os.path.join(
-    os.environ.get("LOCALAPPDATA") or os.path.expanduser("~"),
-    "GrabQueue", "inbox.txt")
+_STATE_DIR = os.path.join(
+    os.environ.get("LOCALAPPDATA") or os.path.expanduser("~"), "GrabQueue")
+INBOX_PATH = os.path.join(_STATE_DIR, "inbox.txt")
+# Disclaimer acceptance lives here (a stable per-user location) rather than in
+# settings.json next to the exe, so it stays accepted across app updates and
+# reinstalls — a genuine one-time gate.
+ACCEPTED_MARKER = os.path.join(_STATE_DIR, "accepted")
+
+
+def disclaimer_accepted():
+    return os.path.exists(ACCEPTED_MARKER)
+
+
+def mark_disclaimer_accepted():
+    try:
+        os.makedirs(_STATE_DIR, exist_ok=True)
+        with open(ACCEPTED_MARKER, "w", encoding="utf-8") as f:
+            f.write("accepted\n")
+    except OSError:
+        pass
 
 # GrabQueue is free — donations keep it maintained.
 DONATE_URL = "https://paypal.me/gamer4life33"
@@ -689,14 +706,16 @@ def main():
     if os.path.exists(icon_path):
         app.setWindowIcon(QIcon(icon_path))
 
-    # First run: the disclaimer must be accepted before the app opens.
-    settings = load_settings()
-    if not settings.get("disclaimer_accepted"):
+    # First run only: the disclaimer must be accepted before the app opens.
+    # Acceptance persists in %LOCALAPPDATA% so updates never re-prompt.
+    # Carry over acceptance from older builds that stored it in settings.json.
+    if not disclaimer_accepted() and load_settings().get("disclaimer_accepted"):
+        mark_disclaimer_accepted()
+    if not disclaimer_accepted():
         dlg = DisclaimerDialog(first_run=True)
         if not dlg.exec():
             sys.exit(0)
-        settings["disclaimer_accepted"] = True
-        save_settings(settings)
+        mark_disclaimer_accepted()
 
     win = MainWindow()
     win.show()
