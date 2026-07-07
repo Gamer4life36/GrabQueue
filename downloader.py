@@ -32,6 +32,21 @@ MAX_AUTO_RETRIES = 3
 RETRY_BACKOFF = 15  # seconds, multiplied by attempt number
 
 
+def _find_file_by_id(folder, vid_id):
+    """Locate a downloaded file by the ASCII video id embedded as [id] in its
+    name. Robust when the title contains emoji/non-ASCII that yt-dlp writes to
+    disk but can't print back over the pipe."""
+    needle = f"[{vid_id}]"
+    try:
+        matches = [os.path.join(folder, f) for f in os.listdir(folder)
+                   if needle in f]
+    except OSError:
+        return None
+    if not matches:
+        return None
+    return max(matches, key=lambda p: os.path.getmtime(p))
+
+
 class DownloadManager(QObject):
     item_changed = Signal(int)      # item id — row should be re-read from store
     queue_idle = Signal()           # nothing left to do
@@ -133,6 +148,7 @@ class DownloadManager(QObject):
                "--no-mtime",
                "--print", "before_dl:GQTITLE\t%(title)s",
                "--print", "after_move:GQPATH\t%(filepath)s",
+               "--print", "after_move:GQID\t%(id)s",
                "--no-simulate",
                "-o", os.path.join(outdir, "%(title).180B [%(id)s].%(ext)s")]
         cmd += PRESETS.get(item["preset"], PRESETS[DEFAULT_PRESET])
@@ -144,12 +160,16 @@ class DownloadManager(QObject):
     def _run_item(self, item):
         item_id = item["id"]
         os.makedirs(item["output_dir"], exist_ok=True)
+        # Force the engine's stdout to UTF-8 so emoji / non-ASCII titles (very
+        # common on TikTok etc.) come through intact — otherwise the printed
+        # filepath won't match the real file and "Open file" breaks.
+        env = dict(os.environ, PYTHONIOENCODING="utf-8", PYTHONUTF8="1")
         try:
             proc = subprocess.Popen(
                 self._build_cmd(item),
                 stdout=subprocess.PIPE, stderr=subprocess.STDOUT,
                 text=True, encoding="utf-8", errors="replace",
-                creationflags=engines.NO_WINDOW)
+                env=env, creationflags=engines.NO_WINDOW)
         except Exception as e:
             self._finish_failed(item_id, item, f"could not start yt-dlp: {e}")
             return
@@ -160,6 +180,7 @@ class DownloadManager(QObject):
         last_emit = 0.0
         gallery = self._is_gallery(item)
         files_done = 0
+        vid_id = ""
         try:
             for line in proc.stdout:
                 line = line.rstrip()
@@ -188,6 +209,8 @@ class DownloadManager(QObject):
                     self.item_changed.emit(item_id)
                 elif line.startswith("GQPATH\t"):
                     self.store.update(item_id, file_path=line.split("\t", 1)[1])
+                elif line.startswith("GQID\t"):
+                    vid_id = line.split("\t", 1)[1]
                 elif "[Merger]" in line or "[ExtractAudio]" in line:
                     self.store.update(item_id, status=st.CONVERTING,
                                       speed="", eta="")
@@ -222,6 +245,15 @@ class DownloadManager(QObject):
             if gallery:
                 fields["size"] = f"{files_done} file(s)"
                 fields["file_path"] = item["output_dir"]
+            else:
+                # yt-dlp mangles emoji/non-ASCII in its printed filepath, so the
+                # stored path may not exist on disk. Resolve the real file by its
+                # ASCII id (embedded as [id] in the name) when needed.
+                fp = current.get("file_path") or ""
+                if vid_id and (not fp or not os.path.exists(fp)):
+                    real = _find_file_by_id(item["output_dir"], vid_id)
+                    if real:
+                        fields["file_path"] = real
             self.store.update(item_id, **fields)
             self.item_changed.emit(item_id)
         else:
