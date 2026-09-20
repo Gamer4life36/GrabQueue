@@ -143,7 +143,7 @@ class DownloadManager(QObject):
             cmd.append(item["url"])
             return cmd
         cmd = [engines.YTDLP_EXE,
-               "--newline", "--no-playlist",
+               "--newline", "--progress", "--no-playlist",
                "--ffmpeg-location", engines.ENGINES_DIR,
                "--no-mtime",
                "--print", "before_dl:GQTITLE\t%(title)s",
